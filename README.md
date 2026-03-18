@@ -1,6 +1,8 @@
 # Awesome French Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Une sélection curatée de ressources, projets et acteurs de la robotique liés à l'écosystème français. Ce dépôt recense des communautés, événements, laboratoires, entreprises, projets open source français, jeux de données, formations et sources de veille.
+Robotique, mécatronique, autonomie, recherche, industrie et formation dans l'écosystème français.
+
+Cette liste est une curation sélective et non exhaustive de ressources, projets et acteurs liés à la robotique en France. Elle privilégie les références solides, actives et réellement utiles à un lecteur qui cherche les meilleurs points d'entrée sur le sujet.
 
 Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
@@ -19,8 +21,12 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Scope
 
+- Liste sélective et non exhaustive: l'objectif est de retenir le plus utile, pas de construire un annuaire complet.
 - Ressources directement liées à la robotique ou aux systèmes embarqués associés, avec un ancrage explicite en France.
+- Priorité aux ressources actives, maintenues et recommandables.
+- Exclusion des projets archivés, abandonnés, obsolètes ou trop éloignés du sujet.
 - Priorité aux liens officiels, stables et vérifiables.
+- Préférence pour les URL pérennes plutôt que les pages datées lorsqu'une page de référence existe.
 - Descriptions factuelles et courtes, sans formulation marketing.
 - Tri alphabétique à l'intérieur de chaque section et sous-section.
 
@@ -182,7 +188,7 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 - [Poppy Project](https://www.poppy-project.org/) - Plateforme open source de robots et d'éducation.
 - [PyPot](https://github.com/poppy-project/pypot) - Outils Python pour piloter des robots.
 - [SOFA](https://www.sofa-framework.org/) - Framework de simulation physique.
-- [Stack of Tasks](https://stack-of-tasks.github.io/) - Open source ecosystem for control and optimization in robotics.
+- [Stack of Tasks](https://stack-of-tasks.github.io/) - Outils open source pour la commande et l'optimisation en robotique.
 - [TSID](https://github.com/stack-of-tasks/tsid) - Task-space inverse dynamics.
 - [Upkie](https://github.com/upkie) - Robot bipède open source et sa stack associée.
 - [ViSP](https://github.com/lagadic/visp) - Visual Servoing Platform.
@@ -193,6 +199,8 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Formations en France
 
+Sélection de points d'entrée et de cursus ciblés. Cette section privilégie les programmes explicitement orientés robotique, mécatronique, automatique ou systèmes embarqués, plutôt qu'un recensement complet des formations voisines.
+
 ### Répertoires officiels
 
 - [CTI - Commission des titres d'ingénieur](https://www.cti-commission.fr/) - Répertoire officiel des écoles d'ingénieurs accréditées.
@@ -200,71 +208,34 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 - [Onisep](https://www.onisep.fr/) - Référentiel officiel pour les formations et l'orientation.
 - [Parcoursup](https://www.service-public.gouv.fr/particuliers/vosdroits/F23476) - Présentation officielle de la plateforme nationale d'admission post-bac.
 
-### BUT (IUT) utiles pour la robotique
+### Licences professionnelles et passerelles ciblées
 
-- [BUT Génie électrique et informatique industrielle (GEII)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-electrique-et-informatique-industrielle-parcours-automatisme-et-informatique-industrielle) - Electronics, control, industrial computing and embedded systems.
-- [BUT Génie industriel et maintenance (GIM)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-industriel-et-maintenance-parcours-ingenierie-des-systemes-pluritechniques) - Maintenance, mécatronique et systèmes pluritechniques.
-- [BUT Génie mécanique et productique (GMP)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-mecanique-et-productique-parcours-innovation-pour-l-industrie) - Mécanique, conception et industrialisation.
-- [BUT Informatique](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-informatique-parcours-realisation-d-applications-conception-developpement-validation) - Développement logiciel utile en robotique et systèmes autonomes.
-- [BUT Mesures physiques (MP)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-mesures-physiques-parcours-mesures-et-analyses-environnementales) - Capteurs, instrumentation et métrologie.
-- [BUT Réseaux et télécommunications (R&T)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-reseaux-et-telecommunications-parcours-reseaux-operateurs-et-multimedia) - Réseaux, télécoms, IoT et robotique connectée.
-
-### BTS, licences pro et passerelles
-
-- [BTS Conception des produits industriels (CPI)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-conception-des-produits-industriels) - Conception mécanique et industrialisation de produits.
-- [BTS Conception et réalisation de systèmes automatiques (CRSA)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-conception-et-realisation-de-systemes-automatiques) - Automatismes, intégration et mise au point de systèmes.
-- [BTS Cybersécurité, informatique et réseaux, électronique option électronique et réseaux (CIEL)](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-cybersecurite-informatique-et-reseaux-electronique-option-b-electronique-et-reseaux) - Electronics, networking and communicating systems.
-- [BTS Électrotechnique](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-electrotechnique) - Energy, control and electrotechnical systems.
-- [BTS Maintenance des systèmes option systèmes de production](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-maintenance-des-systemes-option-a-systemes-de-production) - Maintenance industrielle et diagnostic de systèmes automatisés.
+- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Parcours universitaire professionnalisant en intégration de systèmes automatiques et robotisés.
 - [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours Robotique collaborative et mobile](https://formation.univ-lille.fr/fr/offre-de-formation/licence-professionnelle-DP/licence-professionnelle-metiers-de-l-industrie-mecatronique-robotique-MG002292/robotique-collaborative-et-mobile-MX002293.html) - Parcours centré sur la robotique mobile et la cobotique.
 - [Licence professionnelle Robotique](https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac3/licence-professionnelle/2556-licence-pro-robotique.html) - Licence professionnelle orientée automatisation, intégration et maintenance de systèmes robotisés.
-- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Parcours universitaire professionnalisant en intégration de systèmes automatiques et robotisés.
 
-### Écoles d'ingénieurs
+### Écoles d'ingénieurs et cursus ciblés
 
 - [Arts et Métiers](https://artsetmetiers.fr/) - Mécanique, mécatronique et automatisation.
 - [Centrale Nantes](https://www.ec-nantes.fr/) - Robotique, automatique et systèmes.
-- [CentraleSupélec](https://www.centralesupelec.fr/) - Systèmes, commande et embarqué selon les parcours.
-- [CPE Lyon](https://ingenieurs.cpe.fr/) - Electronics and embedded systems depending on the track.
 - [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Pôle d'ingénierie tourné vers les systèmes embarqués, la robotique et l'industrie numérique.
-- [ECE](https://www.ece.fr/) - Systèmes embarqués et numérique selon les parcours.
 - [ENAC](https://www.enac.fr/) - Drones, systèmes embarqués et aéronautique.
-- [ENIB](https://www.enib.fr/) - Electronics, computing and mechatronics.
-- [ENSEA](https://www.ensea.fr/) - Electronics, control and embedded systems.
-- [ENSEEIHT](https://www.enseeiht.fr/) - Automatique, électronique et systèmes embarqués.
-- [ENSEIRB-MATMECA](https://www.enseirb-matmeca.fr/) - Electronics, embedded computing and control depending on the track.
 - [ENSTA Bretagne](https://www.ensta-bretagne.fr/) - Robotique, électronique et systèmes embarqués.
 - [ENSTA Paris](https://www.ensta-paris.fr/) - Robotique, systèmes et embarqué.
-- [ESME](https://www.esme.fr/) - Robotique, mécatronique et systèmes embarqués selon les parcours.
-- [ESEO](https://eseo.fr/) - Electronics, embedded systems and connected devices depending on the track.
-- [ESIEE Paris](https://www.esiee.fr/) - Systèmes embarqués, électronique et informatique.
-- [ESIGELEC](https://www.esigelec.fr/) - Electronics, telecoms and embedded systems.
-- [ESIR (Rennes)](https://esir.univ-rennes.fr/) - Informatique, électronique et systèmes avec parcours embarqués.
 - [ESTACA](https://www.estaca.fr/) - Systèmes embarqués et mobilité autonome.
 - [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Parcours d'ingénieur centré sur la mécatronique et les systèmes embarqués.
-- [Grenoble INP - UGA](https://www.grenoble-inp.fr/) - Electronics, control, systems and mechatronics.
 - [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotique, IA et embarqué.
-- [INSA Lyon](https://www.insa-lyon.fr/) - Automatique, systèmes et mécatronique.
-- [INSA Toulouse](https://www.insa-toulouse.fr/) - Electronics, control and embedded systems.
 - [ISAE-SUPAERO](https://www.isae-supaero.fr/) - Drones, robotique et systèmes embarqués.
-- [ISEN Ouest](https://www.isen-ouest.fr/) - Electronics, embedded systems and robotics.
-- [Mines Saint-Étienne](https://www.mines-stetienne.fr/) - Systèmes industriels, numérique et ingénierie.
 - [Polytech Montpellier - Systèmes embarqués](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/systemes-embarques) - Spécialité d'ingénierie en systèmes embarqués.
 - [Polytech Paris-Saclay - Électronique et Informatique pour l'Embarqué](https://www.polytech.universite-paris-saclay.fr/formation/electronique-et-informatique-pour-lembarque) - Spécialité d'ingénierie en électronique embarquée et systèmes robotisés.
 - [Polytech Sorbonne - Robotique](https://www.polytech.sorbonne-universite.fr/formations/robotique) - Spécialité d'ingénierie orientée robotique et mécatronique.
-- [SeaTech](https://www.seatech.fr/-Devenir-Ingenieur-.html) - Engineering school in Toulon focused on mechatronics and marine systems.
-- [Sigma Clermont](https://www.sigma-clermont.fr/fr/etudier-a-sigma-clermont/formations/cycle-ingenieur-mecanique.html) - Cycle ingénieur mécanique avec forte composante mécatronique et robotique.
-- [SUPMICROTECH](https://www.supmicrotech.fr/) - Engineering school focused on mechanics, microtechnology and mechatronics.
 - [Télécom Physique Strasbourg](https://www.telecom-physique.fr/) - Formation mobilisée notamment dans le cursus robotique p-BotX.
-- [Télécom SudParis](https://alternance.imt.fr/ecoles/telecom-sudparis/) - Formation d'ingénieur en informatique, réseaux et systèmes au sein de l'Institut Mines-Télécom.
-- [Université d'Angers - Diplôme d'ingénieur Systèmes automatisés et génie informatique](https://formations.univ-angers.fr/fr/offre-de-formation/diplome-d-ingenieur-IC/sciences-technologies-sante-STS/diplome-ingenieur-systemes-automatises-et-genie-informatique-JSER6DW9.html) - Parcours d'ingénieur orienté automatisme, robotique industrielle et mobile, et systèmes embarqués.
-- [UPSSITECH](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/ecole-dingenieur-upssitech) - Engineering school in Toulouse active in robotics, electronics and embedded systems.
 - [UTC](https://www.utc.fr/) - Robotique, informatique et systèmes.
 - [UTBM](https://www.utbm.fr/) - Systèmes, mécatronique et robotique.
+- [UPSSITECH](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/ecole-dingenieur-upssitech) - Ecole d'ingénieurs toulousaine active en robotique, électronique et systèmes embarqués.
 
-### Masters et parcours universitaires
+### Masters et parcours universitaires ciblés
 
-- [Polytech Nantes - Master Électronique, énergie électrique, automatique](https://polytech.univ-nantes.fr/fr/les-formations/master-electronique-energie-electrique-automatique) - Master avec parcours en systèmes électroniques embarqués connectés.
 - [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master orienté robotique, automatique et systèmes intelligents.
 - [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master en automatique, perception et robotique.
 - [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Parcours Systèmes, Machines autonomes et Réseaux de Terrains.
