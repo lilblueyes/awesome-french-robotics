@@ -1,269 +1,271 @@
 # Awesome French Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Robotique, mécatronique, autonomie, recherche, industrie et formation dans l'écosystème français.
+🇬🇧 English | [🇫🇷 Français](README.fr.md)
 
-Cette liste est une curation sélective et non exhaustive de ressources, projets et acteurs liés à la robotique en France. Elle privilégie les références solides, actives et réellement utiles à un lecteur qui cherche les meilleurs points d'entrée sur le sujet.
+Robotics, mechatronics, autonomy, research, industry, and education across the French ecosystem.
 
-Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
+This is a selective, non-exhaustive list of resources, projects, and organizations related to robotics in France. The goal is to keep the most useful entry points for readers looking for solid references on the subject.
+
+Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 ## Contents
 
 - [Scope](#scope)
-- [Communautés et réseaux](#communautés-et-réseaux)
-- [Compétitions et événements](#compétitions-et-événements)
-- [Laboratoires et instituts](#laboratoires-et-instituts)
-- [Entreprises et startups](#entreprises-et-startups)
-- [Open source (projets français)](#open-source-projets-français)
-- [Données et datasets](#données-et-datasets)
-- [Formations en France](#formations-en-france)
-- [Cours et ressources pédagogiques](#cours-et-ressources-pédagogiques)
-- [Veille et médias](#veille-et-médias)
+- [Communities and networks](#communities-and-networks)
+- [Competitions and events](#competitions-and-events)
+- [Labs and institutes](#labs-and-institutes)
+- [Companies and startups](#companies-and-startups)
+- [Open source (French projects)](#open-source-french-projects)
+- [Data and datasets](#data-and-datasets)
+- [Education in France](#education-in-france)
+- [Courses and learning resources](#courses-and-learning-resources)
+- [News and media](#news-and-media)
 
 ## Scope
 
-- Liste sélective et non exhaustive: l'objectif est de retenir le plus utile, pas de construire un annuaire complet.
-- Ressources directement liées à la robotique ou aux systèmes embarqués associés, avec un ancrage explicite en France.
-- Priorité aux ressources actives, maintenues et recommandables.
-- Exclusion des projets archivés, abandonnés, obsolètes ou trop éloignés du sujet.
-- Priorité aux liens officiels, stables et vérifiables.
-- Préférence pour les URL pérennes plutôt que les pages datées lorsqu'une page de référence existe.
-- Descriptions factuelles et courtes, sans formulation marketing.
-- Tri alphabétique à l'intérieur de chaque section et sous-section.
+- Selective and non-exhaustive: the aim is to keep what is most useful, not to build a full directory.
+- Resources directly tied to robotics or related embedded systems, with a clear connection to France.
+- Priority given to active, maintained, and genuinely recommendable resources.
+- Archived, abandoned, obsolete, or off-topic projects are excluded.
+- Official, stable, and verifiable links come first.
+- Prefer durable reference URLs over dated event pages when a stable page exists.
+- Short, factual descriptions with no marketing language.
+- Alphabetical order inside each section and subsection.
 
-## Communautés et réseaux
+## Communities and networks
 
-- [Comité Robotique France 2030](https://c-robotique-france2030.org/) - Interface académique et industrielle pour animer la communauté robotique française.
-- [Fédération Française des Clusters Robotique (FFC Robotique)](https://ffcrobotique.fr/) - Fédération regroupant des clusters régionaux de robotique.
-- [GdR Robotique (CNRS)](https://www.ins2i.cnrs.fr/fr/les-groupements-de-recherche) - Référencement CNRS du groupement de recherche structurant la communauté scientifique robotique.
-- [Proxinnov](https://www.proxinnov.com/) - Centre d'expertise en robotique industrielle et collaborative.
-- [Réseau 3R](https://www.reseau3r.com/) - Réseau d'acteurs et d'intégrateurs en robotique industrielle.
-- [Robotique FIRST France](https://www.robotiquefirstfrance.org/) - Association promouvant la robotique éducative via des compétitions.
-- [Robotics Place](https://www.robotics-place.com/) - Cluster, annuaire et média spécialisé couvrant fortement l'écosystème robotique français.
+- [Comité Robotique France 2030](https://c-robotique-france2030.org/) - Academic and industrial interface supporting the French robotics community.
+- [Fédération Française des Clusters Robotique (FFC Robotique)](https://ffcrobotique.fr/) - Federation bringing together regional robotics clusters.
+- [GdR Robotique (CNRS)](https://www.ins2i.cnrs.fr/fr/les-groupements-de-recherche) - CNRS listing for the research network structuring the French robotics community.
+- [Proxinnov](https://www.proxinnov.com/) - Expertise center for industrial and collaborative robotics.
+- [Réseau 3R](https://www.reseau3r.com/) - Network of players and integrators in industrial robotics.
+- [Robotique FIRST France](https://www.robotiquefirstfrance.org/) - Association promoting educational robotics through competitions.
+- [Robotics Place](https://www.robotics-place.com/) - Cluster, directory, and specialized media outlet with strong coverage of the French robotics ecosystem.
 
-## Compétitions et événements
+## Competitions and events
 
-- [Coupe de France de Robotique](https://www.coupederobotique.fr/) - Compétition annuelle de robotique organisée avec Planète Sciences.
-- [Full Robotics](https://www.proxinnov.com/evenement/full-robotics-2026/) - Convention d'affaires française consacrée à la robotique industrielle et mobile.
-- [Global Industrie](https://www.global-industrie.com/) - Salon industriel avec une forte composante robotique et automatisation.
-- [Innorobo](https://www.innorobo.com/) - Salon et rencontres autour de la robotique en France.
-- [Robot4Manufacturing](https://robot4manufacturing.com/) - Rendez-vous d'affaires français dédié à la robotique industrielle.
-- [Robotics Place - Évènements](https://www.robotics-place.com/evenements/) - Agenda d'événements et rencontres de l'écosystème robotique français.
-- [ROSCon FR](https://roscon.ros.org/fr/2026/) - Déclinaison française de ROSCon consacrée à l'écosystème ROS en France.
-- [SIDO](https://www.sido-event.com/) - Salon consacré à l'IoT, l'IA, la XR et aux usages industriels dont la robotique.
+- [Coupe de France de Robotique](https://www.coupederobotique.fr/) - Annual robotics competition organized with Planète Sciences.
+- [Full Robotics](https://www.proxinnov.com/evenement/full-robotics-2026/) - French business convention focused on industrial and mobile robotics.
+- [Global Industrie](https://www.global-industrie.com/) - Industrial trade show with a strong robotics and automation focus.
+- [Innorobo](https://www.innorobo.com/) - French robotics event and meeting point.
+- [Robot4Manufacturing](https://robot4manufacturing.com/) - French business event dedicated to industrial robotics.
+- [Robotics Place - Évènements](https://www.robotics-place.com/evenements/) - Calendar of events and meetups across the French robotics ecosystem.
+- [ROSCon FR](https://roscon.ros.org/fr/2026/) - French edition of ROSCon dedicated to the ROS ecosystem in France.
+- [SIDO](https://www.sido-event.com/) - Trade show focused on IoT, AI, XR, and industrial use cases including robotics.
 
-## Laboratoires et instituts
+## Labs and institutes
 
-- [CEA List](https://list.cea.fr/fr/) - Institut de recherche appliquée en robotique, perception et autonomie.
-- [CRIStAL](https://www.cristal.univ-lille.fr/) - Centre de recherche lillois en informatique et automatique avec activités en robotique et systèmes autonomes.
-- [FEMTO-ST](https://www.femto-st.fr/fr) - Laboratoire de recherche en robotique, automatique et microtechniques.
-- [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/) - Laboratoire en automatique, signal et robotique.
-- [Heudiasyc](https://www.hds.utc.fr/) - Laboratoire UTC/CNRS en robotique, vision, automatique et mobilité autonome.
-- [ICube](https://icube.unistra.fr/) - Laboratoire de recherche en ingénierie, imagerie et robotique.
-- [Inria](https://www.inria.fr/fr) - Recherche en robotique, IA et systèmes.
-- [IRIMAS](https://www.irimas.uha.fr/) - Institut de recherche en informatique, mathématiques, automatique et signal avec travaux en mécatronique et robotique.
-- [IRISA](https://www.irisa.fr/) - Laboratoire rennais en informatique avec activités en robotique, perception et systèmes autonomes.
-- [IRIT](https://www.irit.fr/) - Institut de recherche en informatique de Toulouse avec équipes en robotique et systèmes autonomes.
-- [ISIR (Sorbonne Université)](https://www.isir.upmc.fr/) - Institut des systèmes intelligents et de robotique.
-- [LAAS-CNRS](https://www.laas.fr/public/fr/) - Laboratoire en robotique, autonomie, automatique et systèmes.
-- [LaBRI](https://www.labri.fr/) - Laboratoire bordelais en informatique avec activités en robotique et systèmes autonomes.
-- [LIRMM](https://www.lirmm.fr/) - Laboratoire d'informatique, de robotique et de microélectronique de Montpellier.
-- [LS2N](https://www.ls2n.fr/) - Laboratoire nantais en robotique, commande et optimisation.
+- [CEA List](https://list.cea.fr/fr/) - Applied research institute in robotics, perception, and autonomy.
+- [CRIStAL](https://www.cristal.univ-lille.fr/) - Lille research center in computer science and control with robotics and autonomous systems work.
+- [FEMTO-ST](https://www.femto-st.fr/fr) - Research lab in robotics, control, and microtechnologies.
+- [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/) - Lab focused on control, signal processing, and robotics.
+- [Heudiasyc](https://www.hds.utc.fr/) - UTC/CNRS lab in robotics, vision, control, and autonomous mobility.
+- [ICube](https://icube.unistra.fr/) - Research lab in engineering, imaging, and robotics.
+- [Inria](https://www.inria.fr/fr) - Research in robotics, AI, and systems.
+- [IRIMAS](https://www.irimas.uha.fr/) - Research institute in computer science, mathematics, control, and signal processing with work in mechatronics and robotics.
+- [IRISA](https://www.irisa.fr/) - Rennes computer science lab with work in robotics, perception, and autonomous systems.
+- [IRIT](https://www.irit.fr/) - Toulouse computer science institute with teams in robotics and autonomous systems.
+- [ISIR (Sorbonne Université)](https://www.isir.upmc.fr/) - Institute for intelligent systems and robotics.
+- [LAAS-CNRS](https://www.laas.fr/public/fr/) - Lab focused on robotics, autonomy, control, and systems.
+- [LaBRI](https://www.labri.fr/) - Bordeaux computer science lab with work in robotics and autonomous systems.
+- [LIRMM](https://www.lirmm.fr/) - Montpellier lab for computer science, robotics, and microelectronics.
+- [LS2N](https://www.ls2n.fr/) - Nantes lab in robotics, control, and optimization.
 
-## Entreprises et startups
+## Companies and startups
 
-### Robots agricoles
+### Agricultural robots
 
-- [Agreenculture](https://www.agreenculture.fr/fr) - Kit d'autonomie pour rendre tracteurs et machines agricoles autonomes.
-- [Aisprid](https://aisprid.com/) - Robots autonomes de haute précision pour producteurs de fruits et légumes.
-- [EXXACT Robotics](https://www.exxact-robotics.com/) - Solutions robotisées et capteurs pour l'agriculture de précision.
-- [Naio Technologies](https://www.naio-technologies.com/) - Robots agricoles autonomes.
-- [OSIRIS Agriculture](https://www.osiris-agriculture.fr/) - Robots agricoles pour le travail des cultures.
-- [PELLENC](https://www.pellenc.com/fr-fr/nos-produits/de-la-vigne-a-la-cave/viticulture/chenillard-autonome-interligne/rx-20) - Solutions de robotique viticole, dont le chenillard autonome interligne RX-20.
-- [SABI AGRI](https://sabi-agri.com/) - Tracteurs et robots agricoles électriques, avec plateforme ouverte pour la robotique agricole.
-- [VitiBot](https://vitibot.fr/) - Constructeur français de robots viticoles électriques autonomes.
-- [Vitirover](https://www.vitirover.com/) - Robots de tonte et de maintenance en viticulture.
+- [Agreenculture](https://www.agreenculture.fr/fr) - Autonomy kit to turn tractors and farm machines into autonomous vehicles.
+- [Aisprid](https://aisprid.com/) - High-precision autonomous robots for fruit and vegetable growers.
+- [EXXACT Robotics](https://www.exxact-robotics.com/) - Robotic solutions and sensors for precision agriculture.
+- [Naio Technologies](https://www.naio-technologies.com/) - Autonomous agricultural robots.
+- [OSIRIS Agriculture](https://www.osiris-agriculture.fr/) - Agricultural robots for crop operations.
+- [PELLENC](https://www.pellenc.com/fr-fr/nos-produits/de-la-vigne-a-la-cave/viticulture/chenillard-autonome-interligne/rx-20) - Vineyard robotics solutions, including the RX-20 autonomous tracked platform.
+- [SABI AGRI](https://sabi-agri.com/) - Electric tractors and agricultural robots, with an open platform for ag robotics.
+- [VitiBot](https://vitibot.fr/) - French maker of autonomous electric vineyard robots.
+- [Vitirover](https://www.vitirover.com/) - Mowing and maintenance robots for vineyards.
 
-### Drones et robots aériens
+### Drones and aerial robots
 
-- [AIROD Robotics](http://airod-robotics.com/) - Intégration de solutions robotiques et aériennes pour l'industrie.
-- [Azur Drones](https://www.azurdrones.com/fr/) - Solutions de surveillance et d'inspection par drone-in-a-box automatisé.
-- [Blue Smart Robotics](https://bluesmart-robotics.odoo.com/en) - Startup française de robotique appliquée à l'aéronautique.
-- [Delair](https://delair.aero/) - Drones professionnels pour usages industriels.
-- [Donecle](https://www.donecle.com/about-donecle/) - Drones autonomes d'inspection d'aéronefs pour la maintenance aéronautique.
-- [Dronisos](https://www.dronisos.com/) - Opérations de drones et essaims lumineux.
-- [Elistair](https://www.elistair.com/) - Drones filaires et solutions d'alimentation sécurisée.
+- [AIROD Robotics](http://airod-robotics.com/) - Integration of robotic and aerial solutions for industry.
+- [Azur Drones](https://www.azurdrones.com/fr/) - Automated drone-in-a-box solutions for surveillance and inspection.
+- [Blue Smart Robotics](https://bluesmart-robotics.odoo.com/en) - French robotics startup focused on aerospace applications.
+- [Delair](https://delair.aero/) - Professional drones for industrial use.
+- [Donecle](https://www.donecle.com/about-donecle/) - Autonomous aircraft inspection drones for aviation maintenance.
+- [Dronisos](https://www.dronisos.com/) - Drone operations and light-drone swarms.
+- [Elistair](https://www.elistair.com/) - Tethered drones and secure power solutions.
 - [Parrot](https://www.parrot.com/) - Drones.
 
-### Robots aquatiques et sous-marins
+### Aquatic and underwater robots
 
-- [ACWA Robotics](https://www.acwa-robotics.com/) - Robots sous-marins d'inspection pour réseaux d'eau.
-- [Exail](https://www.exail.com/) - Robotique maritime, drones et systèmes autonomes.
-- [Forssea Robotics](https://forssea-robotics.fr/) - Robotique sous-marine pour inspection et intervention.
-- [IADYS](https://www.iadys.com/) - Robots de surface pour collecte et monitoring environnemental.
-- [ROV Expert](https://rov-expert.fr/) - ROV, USV et capteurs pour opérations sous-marines.
-- [Subsea Tech](https://www.subsea-tech.com/fr/) - ROV, mini-ROV et USV pour inspection, infrastructures et opérations sous-marines.
-- [Watertracks](https://www.watertracks.fr/) - Solutions subaquatiques robotisées pour inspection et travaux sous-marins.
+- [ACWA Robotics](https://www.acwa-robotics.com/) - Underwater inspection robots for water networks.
+- [Exail](https://www.exail.com/) - Maritime robotics, drones, and autonomous systems.
+- [Forssea Robotics](https://forssea-robotics.fr/) - Underwater robotics for inspection and intervention.
+- [IADYS](https://www.iadys.com/) - Surface robots for cleanup and environmental monitoring.
+- [ROV Expert](https://rov-expert.fr/) - ROVs, USVs, and sensors for underwater operations.
+- [Subsea Tech](https://www.subsea-tech.com/fr/) - ROVs, mini-ROVs, and USVs for inspection, infrastructure, and underwater operations.
+- [Watertracks](https://www.watertracks.fr/) - Robotic underwater solutions for inspection and subsea work.
 
-### Robots logistiques et mobiles autonomes
+### Logistics robots and autonomous mobile robots
 
-- [AGV Mécatronique](https://www.agv-mecatronique.com) - Robotique mobile, mécatronique et ingénierie de robots autonomes.
-- [Balyo](https://www.balyo.com/) - Robotisation de chariots et logistique autonome.
-- [EasyMile](https://easymile.com/en/) - Technologies d'autonomie pour véhicules industriels, logistiques et aéroportuaires.
-- [E-COBOT](https://e-cobot.com) - Robotique mobile autonome et IA pour l'industrie et la logistique.
-- [Exotec](https://www.exotec.com/) - Robotique logistique pour entrepôts.
-- [MecaBotiX](https://www.mecabotix.com) - Robots collaboratifs modulaires pour usages intralogistiques.
-- [Meanwhile](https://meanwhile-france.com/) - Solutions de robotique mobile autonome pour le transport de biens.
-- [QENVI Robotics](https://www.qenvirobotics.com) - Robots suiveurs, autonomes et solutions de gestion de flotte.
-- [ROB'OCC](https://www.robocc.fr) - Robots mobiles autonomes indoor pour logistique et manutention.
-- [SCALLOG](https://www.scallog.com) - Systèmes robotisés de préparation de commandes pour entrepôts.
-- [SHERPA Mobile Robotics](https://www.sherpa-mr.com) - Robots mobiles autonomes pour logistique et intralogistique.
-- [Stanley Robotics](https://stanley-robotics.com/) - Robotisation de parkings par valet autonome.
-- [TwinswHeel](http://www.twinswheel.fr/) - Robots mobiles autonomes pour logistique et livraison.
+- [AGV Mécatronique](https://www.agv-mecatronique.com) - Mobile robotics, mechatronics, and autonomous robot engineering.
+- [Balyo](https://www.balyo.com/) - Automation of forklifts and autonomous logistics.
+- [EasyMile](https://easymile.com/en/) - Autonomy technologies for industrial, logistics, and airport vehicles.
+- [E-COBOT](https://e-cobot.com) - Autonomous mobile robotics and AI for industry and logistics.
+- [Exotec](https://www.exotec.com/) - Warehouse robotics.
+- [MecaBotiX](https://www.mecabotix.com) - Modular collaborative robots for intralogistics.
+- [Meanwhile](https://meanwhile-france.com/) - Autonomous mobile robotics solutions for goods transport.
+- [QENVI Robotics](https://www.qenvirobotics.com) - Follower robots, autonomous robots, and fleet management solutions.
+- [ROB'OCC](https://www.robocc.fr) - Indoor autonomous mobile robots for logistics and handling.
+- [SCALLOG](https://www.scallog.com) - Robotic order-picking systems for warehouses.
+- [SHERPA Mobile Robotics](https://www.sherpa-mr.com) - Autonomous mobile robots for logistics and intralogistics.
+- [Stanley Robotics](https://stanley-robotics.com/) - Autonomous valet parking robotics.
+- [TwinswHeel](http://www.twinswheel.fr/) - Autonomous mobile robots for logistics and delivery.
 
-### Cobots et robotique industrielle
+### Cobots and industrial robotics
 
-- [Actemium Toulouse Robotique](https://www.actemium.fr/entreprise/actemium-toulouse-robotique-automation/) - Intégration de cellules robotisées pour l'industrie.
-- [Cobot One](https://cobot-one.com/fr/) - Cobots industriels pour automatisation, assemblage, soudage et dosage.
-- [ECM Robotics](https://www.ecm-robotics.com/) - Intégration robotique et automatisation industrielle.
-- [EEPROM ROBOTICS](https://eeprom-robotics.com/) - Automatismes, robotique et informatique industrielle pour systèmes de production.
-- [Niryo](https://niryo.com/) - Bras robotisés pédagogiques et industriels.
-- [Percipio Robotics](http://www.percipio-robotics.com) - Solutions cobotiques et robotiques pour micro-assemblage et micro-fabrication.
-- [RB3D](https://www.rb3d.com/fr/produits/) - Exosquelettes et solutions cobotiques d'assistance à l'effort.
-- [Sepro Group](https://www.sepro-group.com/fr_FR/) - Robotique et automatisation pour presses à injection et environnements industriels.
-- [SILEANE](https://www.sileane.com/) - Robotique industrielle, vision et systèmes adaptatifs.
+- [Actemium Toulouse Robotique](https://www.actemium.fr/entreprise/actemium-toulouse-robotique-automation/) - Integration of robotic cells for industry.
+- [Cobot One](https://cobot-one.com/fr/) - Industrial cobots for automation, assembly, welding, and dispensing.
+- [ECM Robotics](https://www.ecm-robotics.com/) - Robotics integration and industrial automation.
+- [EEPROM ROBOTICS](https://eeprom-robotics.com/) - Automation, robotics, and industrial software for production systems.
+- [Niryo](https://niryo.com/) - Educational and industrial robotic arms.
+- [Percipio Robotics](http://www.percipio-robotics.com) - Cobot and robotics solutions for micro-assembly and micro-fabrication.
+- [RB3D](https://www.rb3d.com/fr/produits/) - Exoskeletons and collaborative assistance solutions.
+- [Sepro Group](https://www.sepro-group.com/fr_FR/) - Robotics and automation for injection molding and industrial environments.
+- [SILEANE](https://www.sileane.com/) - Industrial robotics, vision, and adaptive systems.
 
-### Robots médicaux, chirurgicaux et d'assistance
+### Medical, surgical, and assistive robots
 
-- [AcuSurgical](https://acusurgical.com/) - Robotique chirurgicale dédiée à la chirurgie rétinienne.
-- [AMAROB Technologies](https://www.amarob.com/) - Microrobotique chirurgicale.
-- [BHealthCare](https://www.bhealthcare.com/) - Robotique médicale autonome pour prélèvements sanguins.
-- [DIGISURGE](http://www.digisurge.fr/) - Plateforme robotique pour interventions cardiaques structurelles par cathéter.
-- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Solutions de robotique chirurgicale et de guidage peropératoire.
-- [Ganymed Robotics](https://www.ganymedrobotics.com/) - Robotique chirurgicale orthopédique.
-- [MinMaxMedical](https://www.minmaxmedical.com/) - Robotique chirurgicale, navigation et logiciels pour chirurgie digitale.
-- [Moon Surgical](https://www.moonsurgical.com/) - Système robotique chirurgical Maestro pour chirurgie mini-invasive.
-- [Quantum Surgical](https://www.quantumsurgical.com/) - Robots médicaux pour traitement interventionnel des tumeurs.
-- [Robeauté](https://robeaute.com) - Microrobots dédiés à la neurochirurgie.
-- [Robocath](https://www.robocath.com/) - Robotique endovasculaire.
-- [Wandercraft](https://www.wandercraft.eu/) - Exosquelettes et robotique d'assistance.
+- [AcuSurgical](https://acusurgical.com/) - Surgical robotics for retinal surgery.
+- [AMAROB Technologies](https://www.amarob.com/) - Surgical microrobotics.
+- [BHealthCare](https://www.bhealthcare.com/) - Autonomous medical robotics for blood collection.
+- [DIGISURGE](http://www.digisurge.fr/) - Robotic platform for structural heart catheter procedures.
+- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Surgical robotics and intraoperative guidance solutions.
+- [Ganymed Robotics](https://www.ganymedrobotics.com/) - Orthopedic surgical robotics.
+- [MinMaxMedical](https://www.minmaxmedical.com/) - Surgical robotics, navigation, and software for digital surgery.
+- [Moon Surgical](https://www.moonsurgical.com/) - Maestro robotic system for minimally invasive surgery.
+- [Quantum Surgical](https://www.quantumsurgical.com/) - Medical robots for interventional tumor treatment.
+- [Robeauté](https://robeaute.com) - Microrobots for neurosurgery.
+- [Robocath](https://www.robocath.com/) - Endovascular robotics.
+- [Wandercraft](https://www.wandercraft.eu/) - Exoskeletons and assistive robotics.
 
-### Robots de service, humanoïdes et interaction
+### Service robots, humanoids, and interaction
 
-- [Awabot](https://awabot.com/) - Robotique de téléprésence pour inclusion, santé et collaboration à distance.
-- [Blue Frog Robotics](https://www.bluefrogrobotics.com/) - Robots de service et d'interaction.
-- [Enchanted Tools](https://enchanted.tools/) - Robots de service.
-- [Pollen Robotics](https://www.pollen-robotics.com/) - Robots open source, dont Reachy.
-- [Robosoft](https://www.robosoft.com/) - Acteur historique de la robotique de service en santé, logistique, défense et transport.
+- [Awabot](https://awabot.com/) - Telepresence robotics for inclusion, healthcare, and remote collaboration.
+- [Blue Frog Robotics](https://www.bluefrogrobotics.com/) - Service and interaction robots.
+- [Enchanted Tools](https://enchanted.tools/) - Service robots.
+- [Pollen Robotics](https://www.pollen-robotics.com/) - Open source robots, including Reachy.
+- [Robosoft](https://www.robosoft.com/) - Long-standing robotics company active in healthcare, logistics, defense, and transport.
 
-### Robots d'intervention, d'inspection et de chantier
+### Inspection, intervention, and construction robots
 
-- [ILD·IS Robotics](https://ild-solutions.com/) - Solutions robotisées autonomes pour entretien, inspection et surveillance de centrales photovoltaïques.
-- [Nimble One](https://nimbleone.io/) - Robotique d'inspection et de maintenance pour environnements industriels.
-- [PaintUP](https://www.paintup.fr) - Robot collaboratif de traitement de façade pour le BTP.
-- [Running Brains Robotics](https://www.runningbrainsrobotics.com/fr/) - Robots d'inspection et de sécurité pour sites industriels.
-- [Shark Robotics](https://www.shark-robotics.com/) - Robots d'intervention pour sécurité et incendie.
-- [SFYNX Industry](https://sfynx-industry.com) - Robotique terrestre et aquatique pour usages industriels.
+- [ILD·IS Robotics](https://ild-solutions.com/) - Autonomous robotic solutions for maintenance, inspection, and monitoring of solar power plants.
+- [Nimble One](https://nimbleone.io/) - Inspection and maintenance robotics for industrial environments.
+- [PaintUP](https://www.paintup.fr) - Collaborative facade-treatment robot for construction.
+- [Running Brains Robotics](https://www.runningbrainsrobotics.com/fr/) - Inspection and security robots for industrial sites.
+- [Shark Robotics](https://www.shark-robotics.com/) - Intervention robots for safety and firefighting.
+- [SFYNX Industry](https://sfynx-industry.com) - Ground and aquatic robotics for industrial use.
 
-### Vision, capteurs, embarqué et technologies d'appui
+### Vision, sensors, embedded, and enabling technologies
 
-- [DEFITECH](https://defitech.fr/) - Préhenseurs par vide et composants d'effecteurs pour robots et drones.
-- [ELWAVE](https://www.elwave.fr/) - Capteurs de détection électromagnétique pour applications robotiques.
-- [Fuzzy Logic Robotics](https://flr.io/fr-fr/) - Plateforme logicielle pour déploiement rapide de cellules robotiques industrielles.
-- [Haption](https://www.haption.com/) - Interfaces haptiques et téléopération pour applications robotiques.
-- [Inbolt](https://www.inbolt.com/) - Vision 3D temps réel pour robots industriels.
-- [Kalray](https://www.kalrayinc.com/) - Processeurs et accélération pour systèmes embarqués intensifs.
-- [MicroEJ](https://www.microej.com/) - Plateforme logicielle pour systèmes embarqués et objets connectés.
-- [OpenIndus](https://www.openindus.com/) - Automates modulaires pour machines industrielles et robots mobiles.
-- [Perception4D](https://perception4d.com/) - Bureau d'études spécialisé en LiDAR 3D, SLAM et localisation robotique.
-- [Prophesee](https://www.prophesee.ai/) - Capteurs de vision neuromorphiques.
-- [Symétrie](https://symetrie.fr/) - Plateformes de mouvement et hexapodes pour applications robotiques et industrielles.
-- [VISIONIC](https://www.visionic.fr) - Vision industrielle, robotique agile et intelligence artificielle pour l'industrie.
+- [DEFITECH](https://defitech.fr/) - Vacuum grippers and end-effector components for robots and drones.
+- [ELWAVE](https://www.elwave.fr/) - Electromagnetic sensing technology for robotics applications.
+- [Fuzzy Logic Robotics](https://flr.io/fr-fr/) - Software platform for rapid deployment of industrial robotic cells.
+- [Haption](https://www.haption.com/) - Haptic interfaces and teleoperation for robotics applications.
+- [Inbolt](https://www.inbolt.com/) - Real-time 3D vision for industrial robots.
+- [Kalray](https://www.kalrayinc.com/) - Processors and acceleration for demanding embedded systems.
+- [MicroEJ](https://www.microej.com/) - Software platform for embedded systems and connected devices.
+- [OpenIndus](https://www.openindus.com/) - Modular controllers for industrial machines and mobile robots.
+- [Perception4D](https://perception4d.com/) - Engineering firm focused on 3D LiDAR, SLAM, and robotic localization.
+- [Prophesee](https://www.prophesee.ai/) - Neuromorphic vision sensors.
+- [Symétrie](https://symetrie.fr/) - Motion platforms and hexapods for robotics and industrial applications.
+- [VISIONIC](https://www.visionic.fr) - Machine vision, agile robotics, and AI for industry.
 
-## Open source (projets français)
+## Open source (French projects)
 
-- [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Bibliothèque d'optimal control pour la robotique.
-- [Gepetto Viewer](https://github.com/gepetto/gepetto-viewer) - Visualisation 3D pour la robotique.
-- [Humanoid Path Planner (HPP)](https://github.com/humanoid-path-planner) - Bibliothèques de planification de mouvement.
-- [Pinocchio](https://github.com/stack-of-tasks/pinocchio) - Bibliothèque de dynamique et de cinématique.
-- [Poppy Project](https://www.poppy-project.org/) - Plateforme open source de robots et d'éducation.
-- [PyPot](https://github.com/poppy-project/pypot) - Outils Python pour piloter des robots.
-- [SOFA](https://www.sofa-framework.org/) - Framework de simulation physique.
-- [Stack of Tasks](https://stack-of-tasks.github.io/) - Outils open source pour la commande et l'optimisation en robotique.
+- [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Optimal control library for robotics.
+- [Gepetto Viewer](https://github.com/gepetto/gepetto-viewer) - 3D visualization for robotics.
+- [Humanoid Path Planner (HPP)](https://github.com/humanoid-path-planner) - Motion planning libraries.
+- [Pinocchio](https://github.com/stack-of-tasks/pinocchio) - Dynamics and kinematics library.
+- [Poppy Project](https://www.poppy-project.org/) - Open source robotics and education platform.
+- [PyPot](https://github.com/poppy-project/pypot) - Python tools for controlling robots.
+- [SOFA](https://www.sofa-framework.org/) - Physics simulation framework.
+- [Stack of Tasks](https://stack-of-tasks.github.io/) - Open source tools for robotics control and optimization.
 - [TSID](https://github.com/stack-of-tasks/tsid) - Task-space inverse dynamics.
-- [Upkie](https://github.com/upkie) - Robot bipède open source et sa stack associée.
+- [Upkie](https://github.com/upkie) - Open source biped robot and its software stack.
 - [ViSP](https://github.com/lagadic/visp) - Visual Servoing Platform.
 
-## Données et datasets
+## Data and datasets
 
-- [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Jeu de données issu de Robotex 2.0 pour drones et capteurs multi-modaux.
+- [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Dataset from Robotex 2.0 for drones and multimodal sensors.
 
-## Formations en France
+## Education in France
 
-Sélection de points d'entrée et de cursus ciblés. Cette section privilégie les programmes explicitement orientés robotique, mécatronique, automatique ou systèmes embarqués, plutôt qu'un recensement complet des formations voisines.
+Selection of entry points and targeted programs. This section focuses on programs explicitly tied to robotics, mechatronics, control, or embedded systems rather than trying to list every nearby degree.
 
-### Répertoires officiels
+### Official directories
 
-- [CTI - Commission des titres d'ingénieur](https://www.cti-commission.fr/) - Répertoire officiel des écoles d'ingénieurs accréditées.
-- [Mon Master](https://www.monmaster.gouv.fr/) - Catalogue national officiel des masters.
-- [Onisep](https://www.onisep.fr/) - Référentiel officiel pour les formations et l'orientation.
-- [Parcoursup](https://www.service-public.gouv.fr/particuliers/vosdroits/F23476) - Présentation officielle de la plateforme nationale d'admission post-bac.
+- [CTI - Commission des titres d'ingénieur](https://www.cti-commission.fr/) - Official directory of accredited engineering schools.
+- [Mon Master](https://www.monmaster.gouv.fr/) - Official national catalog of master's degrees.
+- [Onisep](https://www.onisep.fr/) - Official reference for education and guidance.
+- [Parcoursup](https://www.service-public.gouv.fr/particuliers/vosdroits/F23476) - Official overview of the national undergraduate admissions platform.
 
-### Licences professionnelles et passerelles ciblées
+### Targeted professional degrees and bridges
 
-- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Parcours universitaire professionnalisant en intégration de systèmes automatiques et robotisés.
-- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours Robotique collaborative et mobile](https://formation.univ-lille.fr/fr/offre-de-formation/licence-professionnelle-DP/licence-professionnelle-metiers-de-l-industrie-mecatronique-robotique-MG002292/robotique-collaborative-et-mobile-MX002293.html) - Parcours centré sur la robotique mobile et la cobotique.
-- [Licence professionnelle Robotique](https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac3/licence-professionnelle/2556-licence-pro-robotique.html) - Licence professionnelle orientée automatisation, intégration et maintenance de systèmes robotisés.
+- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Professional university track in automated and robotic systems integration.
+- [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours Robotique collaborative et mobile](https://formation.univ-lille.fr/fr/offre-de-formation/licence-professionnelle-DP/licence-professionnelle-metiers-de-l-industrie-mecatronique-robotique-MG002292/robotique-collaborative-et-mobile-MX002293.html) - Track focused on mobile robotics and cobotics.
+- [Licence professionnelle Robotique](https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac3/licence-professionnelle/2556-licence-pro-robotique.html) - Professional degree focused on automation, integration, and maintenance of robotic systems.
 
-### Écoles d'ingénieurs et cursus ciblés
+### Engineering schools and targeted programs
 
-- [Arts et Métiers](https://artsetmetiers.fr/) - Mécanique, mécatronique et automatisation.
-- [Centrale Nantes](https://www.ec-nantes.fr/) - Robotique, automatique et systèmes.
-- [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Pôle d'ingénierie tourné vers les systèmes embarqués, la robotique et l'industrie numérique.
-- [ENAC](https://www.enac.fr/) - Drones, systèmes embarqués et aéronautique.
-- [ENSTA Bretagne](https://www.ensta-bretagne.fr/) - Robotique, électronique et systèmes embarqués.
-- [ENSTA Paris](https://www.ensta-paris.fr/) - Robotique, systèmes et embarqué.
-- [ESTACA](https://www.estaca.fr/) - Systèmes embarqués et mobilité autonome.
-- [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Parcours d'ingénieur centré sur la mécatronique et les systèmes embarqués.
-- [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotique, IA et embarqué.
-- [ISAE-SUPAERO](https://www.isae-supaero.fr/) - Drones, robotique et systèmes embarqués.
-- [Polytech Montpellier - Systèmes embarqués](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/systemes-embarques) - Spécialité d'ingénierie en systèmes embarqués.
-- [Polytech Paris-Saclay - Électronique et Informatique pour l'Embarqué](https://www.polytech.universite-paris-saclay.fr/formation/electronique-et-informatique-pour-lembarque) - Spécialité d'ingénierie en électronique embarquée et systèmes robotisés.
-- [Polytech Sorbonne - Robotique](https://www.polytech.sorbonne-universite.fr/formations/robotique) - Spécialité d'ingénierie orientée robotique et mécatronique.
-- [Télécom Physique Strasbourg](https://www.telecom-physique.fr/) - Formation mobilisée notamment dans le cursus robotique p-BotX.
-- [UTC](https://www.utc.fr/) - Robotique, informatique et systèmes.
-- [UTBM](https://www.utbm.fr/) - Systèmes, mécatronique et robotique.
-- [UPSSITECH](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/ecole-dingenieur-upssitech) - Ecole d'ingénieurs toulousaine active en robotique, électronique et systèmes embarqués.
+- [Arts et Métiers](https://artsetmetiers.fr/) - Mechanics, mechatronics, and automation.
+- [Centrale Nantes](https://www.ec-nantes.fr/) - Robotics, control, and systems.
+- [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Engineering center focused on embedded systems, robotics, and digital industry.
+- [ENAC](https://www.enac.fr/) - Drones, embedded systems, and aerospace.
+- [ENSTA Bretagne](https://www.ensta-bretagne.fr/) - Robotics, electronics, and embedded systems.
+- [ENSTA Paris](https://www.ensta-paris.fr/) - Robotics, systems, and embedded engineering.
+- [ESTACA](https://www.estaca.fr/) - Embedded systems and autonomous mobility.
+- [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Engineering track focused on mechatronics and embedded systems.
+- [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotics, AI, and embedded systems.
+- [ISAE-SUPAERO](https://www.isae-supaero.fr/) - Drones, robotics, and embedded systems.
+- [Polytech Montpellier - Systèmes embarqués](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/systemes-embarques) - Engineering specialization in embedded systems.
+- [Polytech Paris-Saclay - Électronique et Informatique pour l'Embarqué](https://www.polytech.universite-paris-saclay.fr/formation/electronique-et-informatique-pour-lembarque) - Engineering specialization in embedded electronics and robotic systems.
+- [Polytech Sorbonne - Robotique](https://www.polytech.sorbonne-universite.fr/formations/robotique) - Engineering specialization focused on robotics and mechatronics.
+- [Télécom Physique Strasbourg](https://www.telecom-physique.fr/) - Engineering school connected in particular to the p-BotX robotics track.
+- [UTC](https://www.utc.fr/) - Robotics, computer science, and systems.
+- [UTBM](https://www.utbm.fr/) - Systems, mechatronics, and robotics.
+- [UPSSITECH](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/ecole-dingenieur-upssitech) - Toulouse engineering school active in robotics, electronics, and embedded systems.
 
-### Masters et parcours universitaires ciblés
+### Targeted master's degrees and university programs
 
-- [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master orienté robotique, automatique et systèmes intelligents.
-- [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master en automatique, perception et robotique.
-- [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Parcours Systèmes, Machines autonomes et Réseaux de Terrains.
-- [Université de Nantes - Master Interdisciplinaire en Technologies Innovantes](https://iutnantes.univ-nantes.fr/formations/iti) - Formation à la conception, programmation et intégration de systèmes robotiques avancés en environnement industriel.
-- [Université de Rennes - Master Sciences pour l'ingénieur et applications, parcours Mécatronique](https://formations.univ-rennes.fr/master-mention-sciences-pour-lingenieur-et-applications-parcours-mecatronique) - Master en mécatronique, intégration et commande de systèmes.
-- [Université de Strasbourg - Master imagerie, robotique, ingénierie pour le vivant (IRIV)](https://www.ipcms.unistra.fr/master-imagerie-robotique-ingenierie-pour-le-vivant-iriv/) - Master à l'interface entre robotique, imagerie et ingénierie biomédicale.
-- [Université de Strasbourg - Master Physique appliquée et ingénierie physique, parcours Mécatronique, énergie et systèmes intelligents](https://formations.unistra.fr/fr/formations/master-MAS/master-physique-appliquee-et-ingenierie-physique-ME176/mecatronique-energie-et-systemes-intelligents-PR873.html) - Master en mécatronique et systèmes intelligents.
-- [Université de Toulouse - Master parcours Ingénierie des systèmes temps réel (ISTR)](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-ingenierie-des-systemes-temps-reel-istr) - Master orienté systèmes embarqués temps réel, commande et robotique.
-- [Université Paris-Saclay - M2 Robotique, assistance et mobilité](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-robotique-assistance-et-mobilite) - Robotique avancée, assistance, biorobotique et véhicules autonomes.
+- [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master's degree focused on robotics, control, and intelligent systems.
+- [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master's degree in control, perception, and robotics.
+- [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Track in systems, autonomous machines, and field networks.
+- [Université de Nantes - Master Interdisciplinaire en Technologies Innovantes](https://iutnantes.univ-nantes.fr/formations/iti) - Program focused on the design, programming, and integration of advanced robotic systems in industrial settings.
+- [Université de Rennes - Master Sciences pour l'ingénieur et applications, parcours Mécatronique](https://formations.univ-rennes.fr/master-mention-sciences-pour-lingenieur-et-applications-parcours-mecatronique) - Master's degree in mechatronics, systems integration, and control.
+- [Université de Strasbourg - Master imagerie, robotique, ingénierie pour le vivant (IRIV)](https://www.ipcms.unistra.fr/master-imagerie-robotique-ingenierie-pour-le-vivant-iriv/) - Master's degree at the intersection of robotics, imaging, and biomedical engineering.
+- [Université de Strasbourg - Master Physique appliquée et ingénierie physique, parcours Mécatronique, énergie et systèmes intelligents](https://formations.unistra.fr/fr/formations/master-MAS/master-physique-appliquee-et-ingenierie-physique-ME176/mecatronique-energie-et-systemes-intelligents-PR873.html) - Master's degree in mechatronics and intelligent systems.
+- [Université de Toulouse - Master parcours Ingénierie des systèmes temps réel (ISTR)](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-ingenierie-des-systemes-temps-reel-istr) - Master's degree focused on real-time embedded systems, control, and robotics.
+- [Université Paris-Saclay - M2 Robotique, assistance et mobilité](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-robotique-assistance-et-mobilite) - Advanced robotics, assistive systems, biorobotics, and autonomous vehicles.
 
-## Cours et ressources pédagogiques
+## Courses and learning resources
 
-- [FUN-MOOC - Le robot Thymio comme outil de découverte des sciences du numérique](https://www.fun-mooc.fr/fr/cours/le-robot-thymio-comme-outil-de-decouverte-des-sciences-du-numerique/) - Ressource pour la robotique éducative et l'initiation au numérique.
-- [FUN-MOOC - Systèmes embarqués et objets connectés : démarche de conception](https://www.fun-mooc.fr/fr/cours/systemes-embarques-et-objets-connectes-demarche-de-conception/) - Bases de conception des systèmes embarqués.
+- [FUN-MOOC - Le robot Thymio comme outil de découverte des sciences du numérique](https://www.fun-mooc.fr/fr/cours/le-robot-thymio-comme-outil-de-decouverte-des-sciences-du-numerique/) - Resource for educational robotics and digital literacy.
+- [FUN-MOOC - Systèmes embarqués et objets connectés : démarche de conception](https://www.fun-mooc.fr/fr/cours/systemes-embarques-et-objets-connectes-demarche-de-conception/) - Foundations of embedded systems design.
 
-## Veille et médias
+## News and media
 
-- [Futura - Robotique](https://www.futura-sciences.com/tech/robotique/actualites/) - Actualités et dossiers sur la robotique.
-- [Inria - Robotique](https://www.inria.fr/fr/robotique) - Page de veille thématique sur la robotique côté recherche.
-- [L'Usine Nouvelle - Robotique](https://www.usinenouvelle.com/technos-et-innovations/robotique/) - Actualité robotique et industrie.
-- [Planète Robots](https://www.planeterobots.com/) - Média francophone consacré à la robotique, à l'électronique et aux projets maker.
-- [Robotics Place - Actualités](https://www.robotics-place.com/actualites/) - Veille robotique avec forte couverture de l'écosystème français.
-- [Robotech Magazine](https://robotech-magazine.com/) - Actualités robotique en français.
+- [Futura - Robotique](https://www.futura-sciences.com/tech/robotique/actualites/) - Robotics news and feature coverage.
+- [Inria - Robotique](https://www.inria.fr/fr/robotique) - Robotics research watch page from Inria.
+- [L'Usine Nouvelle - Robotique](https://www.usinenouvelle.com/technos-et-innovations/robotique/) - Robotics and industry news.
+- [Planète Robots](https://www.planeterobots.com/) - French-language media outlet covering robotics, electronics, and maker projects.
+- [Robotics Place - Actualités](https://www.robotics-place.com/actualites/) - Robotics coverage with strong focus on the French ecosystem.
+- [Robotech Magazine](https://robotech-magazine.com/) - French-language robotics news.
 
 ## Contributing
 
-Les contributions sont les bienvenues. Consultez [CONTRIBUTING.md](CONTRIBUTING.md) avant d'ouvrir une PR.
+Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 
-- Liens actifs, idéalement officiels.
-- Une entrée par ligne, description courte et factuelle.
-- Tri alphabétique dans chaque section.
+- Use active links, ideally official ones.
+- One entry per line, with a short factual description.
+- Keep alphabetical order within each section.
