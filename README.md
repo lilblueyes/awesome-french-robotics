@@ -222,7 +222,6 @@ Company coverage from the national robotics ecosystem map.
 - [Intuitive Robots](http://www.intuitive-robots.com/) - Develops application software for humanoid robots and interactive robotics deployments.
 - [LEARNING ROBOTS](https://www.learningrobots.ai/) - Provides an educational platform for experimenting with real-time AI and robot behavior.
 - [MARSO ROBOTICS](https://marsorobotics.com/) - Works on embedded AI and vision-language models for robotic systems.
-- [NANVER LABS](https://europe.naverlabs.com/) - Develops work in vision, learning, NLP, and human-robot interaction.
 - [Naver Labs Europe](https://europe.naverlabs.com/) - Researches machine learning, computer vision, and human-robot interaction in France.
 - [Neuronaix](https://www.neuronaix.com) - Develops AI tools for programming robot manipulators from motion-capture demonstrations.
 - [Panarobotics](https://lespepitestech.com/startup-de-la-french-tech/panarobotics) - Develops graphical programming interfaces for industrial robots.
