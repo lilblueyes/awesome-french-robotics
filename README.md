@@ -165,11 +165,11 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 Company coverage from the national robotics ecosystem map.
 
-### Capteurs
+### Sensors
 
 - [ADMIR](https://www.admir-analysis.com/) - Develops sensing and measurement technologies for robotics or industry.
 
-### Drones aériens
+### Aerial drones
 
 - [AERIAL COBOTICUS SAS](http://www.aerialcoboticus.com/) - Develops, operates, or supports aerial drone systems.
 - [AERIX SYSTEMS](https://www.aerix-systems.com/) - Develops, operates, or supports aerial drone systems.
@@ -205,7 +205,7 @@ Company coverage from the national robotics ecosystem map.
 - [UAVIA](https://uavia.eu/) - Develops, operates, or supports aerial drone systems.
 - [VERDRONE](https://www.verdone.fr/) - Develops, operates, or supports aerial drone systems.
 
-### Electronique
+### Electronics
 
 - [ALEDIA](https://www.aledia.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
 - [DIAMFAB](https://diamfab.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
@@ -231,7 +231,7 @@ Company coverage from the national robotics ecosystem map.
 - [TPL SYSTEMES](https://tplsystemes.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
 - [VITEC S.A.](http://www.vitec.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
 
-### End-User
+### End users
 
 - [Air Liquide](https://www.airliquide.com/fr) - Uses or develops automation and robotics in industrial operations.
 - [ALCATEL SUBMARINE NETWORKS](https://www.asn.com/) - Uses or develops automation and robotics in industrial operations.
@@ -256,7 +256,7 @@ Company coverage from the national robotics ecosystem map.
 - [VALEMO](https://www.valemo.fr/) - Uses or develops automation and robotics in industrial operations.
 - [Vinci Energie (Robots for Site)](https://leonard.vinci.com/robots-for-site-invente-les-nouvelles-equipes-de-chantier/) - Uses or develops automation and robotics in industrial operations.
 
-### IA4Robotique
+### AI for robotics
 
 - [ADAGOS](http://www.adagos.com/) - Develops AI, perception, language, or software capabilities for robotics.
 - [AGEATIS](http://www.agaetis.fr/) - Develops AI, perception, language, or software capabilities for robotics.
@@ -295,12 +295,12 @@ Company coverage from the national robotics ecosystem map.
 - [Spirops](http://www.spirops.com/) - Develops AI, perception, language, or software capabilities for robotics.
 - [SYNAPSE DEVELOPPEMENT](http://www.synapse-developpement.fr/) - Develops AI, perception, language, or software capabilities for robotics.
 - [THALES Cortaix](https://www.thalesgroup.com/fr/monde/securite/press_release/thales-accelere-lia-defense) - Develops AI, perception, language, or software capabilities for robotics.
-- [THALES TAS / Thales](https://www.thalesgroup.com/fr) - Works across ai, perception, and software for robotics, space robotics.
+- [THALES TAS / Thales](https://www.thalesgroup.com/fr) - Works across AI, perception, and software for robotics, space robotics.
 - [UMA](https://uma.bot/) - Develops AI, perception, language, or software capabilities for robotics.
 - [VITA COGNITION](https://vitacognition.com/) - Develops AI, perception, language, or software capabilities for robotics.
 - [Yumain](https://yumain.fr/) - Develops AI, perception, language, or software capabilities for robotics.
 
-### Informatique Industrielle
+### Industrial computing
 
 - [ACEL-GENESYS](https://acelgenesys.fr/) - Develops industrial software, automation, supervision, or control systems.
 - [ACPI](https://www.acpi.tech/) - Develops industrial software, automation, supervision, or control systems.
@@ -344,7 +344,7 @@ Company coverage from the national robotics ecosystem map.
 - [Uniswarm](https://uniswarm.fr/) - Develops industrial software, automation, supervision, or control systems.
 - [VISTORY](https://vistory.com/) - Develops industrial software, automation, supervision, or control systems.
 
-### Intégrateur
+### Integrators
 
 - [2IVAL](https://www.2ival.com/) - Integrates industrial automation, robotics, vision, and production systems.
 - [3A alpes Automatic](http://3-a.fr/) - Integrates industrial automation, robotics, vision, and production systems.
@@ -356,7 +356,7 @@ Company coverage from the national robotics ecosystem map.
 - [ADELCOBO](https://adelcobo.com/) - Integrates industrial automation, robotics, vision, and production systems.
 - [ADF Group](https://www.groupeadf.com/fr) - Integrates industrial automation, robotics, vision, and production systems.
 - [ADNTECH](https://adntech.pro/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AEROSPLINE / AI Robotics France](https://airobotics.fr/) - Works across industrial automation and robotic system integration, service robotics, ai, perception, and software for robotics.
+- [AEROSPLINE / AI Robotics France](https://airobotics.fr/) - Works across industrial automation and robotic system integration, service robotics, AI, perception, and software for robotics.
 - [AGILEO](https://www.agileo.com/fr) - Integrates industrial automation, robotics, vision, and production systems.
 - [AGILOX France](https://www.agilox.net/fr/) - Integrates industrial automation, robotics, vision, and production systems.
 - [AGV Mécatronique](https://www.agv-mecatronique.com/) - Integrates industrial automation, robotics, vision, and production systems.
@@ -511,7 +511,7 @@ Company coverage from the national robotics ecosystem map.
 - [West Robotic](http://www.westrobotic.fr/) - Integrates industrial automation, robotics, vision, and production systems.
 - [XPERT ROBOT](https://www.xpert-robot.fr/) - Integrates industrial automation, robotics, vision, and production systems.
 
-### Intralogistique
+### Intralogistics
 
 - [Alstef](https://www.alstefgroup.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
 - [APROLIS](https://www.aprolis.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
@@ -532,24 +532,24 @@ Company coverage from the national robotics ecosystem map.
 - [SEQUENCE ROBOTICS](https://sequence-robotics.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
 - [SHERPA Mobile Robotics](https://sherpa-mr.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
 
-### Logistique
+### Logistics
 
 - [MEKAPHARMA](http://www.mekapharm.fr/) - Develops logistics robotics or automated handling solutions.
 - [PHARMAX](http://www.pharmax.fr/) - Develops logistics robotics or automated handling solutions.
 
-### Machines spéciales
+### Special-purpose machines
 
 - [BOSCH ROBERT STE](https://www.boschrexroth.com/fr/fr/produits/solutions-industrielles/robotique-mobile/) - Builds special-purpose automated or robotic machines.
 
-### Micro-robotique
+### Microrobotics
 
 - [3DIS TECHNOLOGIES](https://www.3dis-tech.com/) - Develops microrobotics and miniaturized mechatronic systems.
 
-### Navigation autonome
+### Autonomous navigation
 
 - [iNGAGE](https://www.ingage-mems.com/) - Develops autonomous navigation technologies.
 
-### Procédés
+### Industrial processes
 
 - [3D-ICONIC](https://www.3d-iconic.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
 - [3Deus Dynamics](https://3deusdynamics.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
@@ -598,13 +598,13 @@ Company coverage from the national robotics ecosystem map.
 - [V.L.M. Robotics](http://www.vlm-robotics.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
 - [VOLUM-E](http://www.volum-e.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
 
-### Programmation Robotique
+### Robot programming
 
 - [3IDM](https://www.3idm.fr/nos-prestations/robomaster-nantes/) - Provides robot programming and offline programming tools or services.
 - [ADAXIS](https://adaxis.eu/) - Provides robot programming and offline programming tools or services.
 - [DASSAULT SYSTEMES / Dassault Systemes (Delmia)](https://discover.3ds.com/fr/) - Provides robot programming and offline programming tools or services.
 
-### Robotique Agricole
+### Agricultural robotics
 
 - [AISPRID](https://aisprid.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
 - [Cyclair](https://cyclair.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
@@ -626,7 +626,7 @@ Company coverage from the national robotics ecosystem map.
 - [VITIBOT](https://www.vitibot.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
 - [VITIROVER](http://www.vitirover.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
 
-### robotique autonome
+### Autonomous robotics
 
 - [ABLIX](https://ablix.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
 - [AGREENCULTURE](https://www.agreenculture.fr/fr) - Develops autonomous robots, vehicles, navigation, or autonomy software.
@@ -668,7 +668,7 @@ Company coverage from the national robotics ecosystem map.
 - [VALEO](https://www.valeo.com/fr/valeo-scala-lidar/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
 - [Yona Robotics](https://yona-robotics.com/en/home/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
 
-### Robotique Chirurgicale
+### Surgical robotics
 
 - [ACUSurgical](https://www.acusurgical.com/) - Develops robotic assistance for surgical applications.
 - [ALCYM](http://alcym.fr/) - Develops robotic assistance for surgical applications.
@@ -677,7 +677,7 @@ Company coverage from the national robotics ecosystem map.
 - [MOON SURGICAL](https://moonsurgical.com/) - Develops robotic assistance for surgical applications.
 - [SpineGuard](http://spineguard.fr/) - Develops robotic assistance for surgical applications.
 
-### Robotique d'Inspection
+### Inspection robotics
 
 - [ACWA (AUTONOMOUS CLEAN WATER APPLIANCE  ROBOTICS)](https://www.acwa-robotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
 - [Compliance Robotics](https://compliance-robotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
@@ -692,7 +692,7 @@ Company coverage from the national robotics ecosystem map.
 - [TPL VISION](https://www.tpl-vision.com/) - Develops inspection robots, sensors, or robotic inspection services.
 - [TWIN-ROBOTICS](https://www.twinrobotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
 
-### Robotique de Service
+### Service robotics
 
 - [AIROBOTICS](https://airobotics.fr/nos-gammes/) - Develops service robots for public, hospitality, retail, or facility use cases.
 - [AWABOT](https://awabot.com/) - Develops service robots for public, hospitality, retail, or facility use cases.
@@ -702,7 +702,7 @@ Company coverage from the national robotics ecosystem map.
 - [Spoon AI](http://spoon.ai/) - Develops service robots for public, hospitality, retail, or facility use cases.
 - [UROBOT](https://urobot.fr/) - Develops service robots for public, hospitality, retail, or facility use cases.
 
-### Robotique Extérieur
+### Outdoor robotics
 
 - [Altametris / SNCF (Altametris)](https://www.altametris.com/) - Works across outdoor robotics, digitalisation env..
 - [LUOS](https://www.luos.io/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
@@ -714,7 +714,7 @@ Company coverage from the national robotics ecosystem map.
 - [Shield Robotics](https://shield-robotics.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
 - [Visi'Eau drones](https://www.visieaudrone.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
 
-### robotique industrielle
+### Industrial robotics
 
 - [Airbus Robotics (MTM robotics)](https://www.airbus.com/en/innovation/digital-transformation/industry-4-0/robotics) - Develops industrial robots, cobots, robotic cells, or automation equipment.
 - [AkeoPlus](https://akeoplus.com/fr/box/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
@@ -785,7 +785,7 @@ Company coverage from the national robotics ecosystem map.
 - [WEEZ-U WELDING](https://weez-u-welding.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
 - [WYCA Robotics](https://wyca-robotics.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
 
-### Robotique Médicale
+### Medical robotics
 
 - [Axilum Robotics](https://www.axilumrobotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
 - [BHealthCare / BHealthCare SAS](https://www.bhealthcare.fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
@@ -809,17 +809,17 @@ Company coverage from the national robotics ecosystem map.
 - [Zentact robotics](https://zentact-robotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
 - [Zimmer Bionet France](https://www.zimmerbiomet.eu/fr-fr/french-home) - Develops medical robotics, assistive devices, or automated medical technologies.
 
-### Robotique pour le handicap
+### Assistive robotics
 
 - [Orthopus](https://orthopus.com/) - Develops assistive robotics for disability and mobility support.
 
-### Robotique Sociale
+### Social robotics
 
 - [Blue Frog Robotics](http://www.bluefrogrobotics.com/) - Develops social or companion robots and related services.
 - [KOMPAI ROBOTICS](http://kompairobotics.com/) - Develops social or companion robots and related services.
 - [LEOBOTICS](https://www.leobotics.com/) - Develops social or companion robots and related services.
 
-### Robotique sous-marine & marine
+### Marine and underwater robotics
 
 - [AIRSUB Drone](https://air-sub-drone.fr/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
 - [ALSEAMAR](https://www.alseamar-alcen.com/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
@@ -828,7 +828,7 @@ Company coverage from the national robotics ecosystem map.
 - [ROV developpement](http://www.rovdeveloppement.com/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
 - [Subsea Tech](https://www.subsea-tech.com/fr/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
 
-### Robotique Spatiale
+### Space robotics
 
 - [AIRBUS DEFENCE AND SPACE](https://www.airbus.com/en/newsroom/news/2021-02-the-new-digital-factory-hundreds-of-kilometres-above-earth) - Develops robotics, automation, autonomy, or mechatronics for space applications.
 - [Airbus Defense & Space](https://www.airbus.com/en/newsroom/stories/2024-01-the-worlds-first-metal-3d-printer-for-space-is-on-its-way-to-the-iss) - Develops robotics, automation, autonomy, or mechatronics for space applications.
@@ -843,12 +843,12 @@ Company coverage from the national robotics ecosystem map.
 - [THALES ALENIA SPACE](https://www.thalesaleniaspace.com/en) - Develops robotics, automation, autonomy, or mechatronics for space applications.
 - [Venturi Space France](https://venturi.space/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
 
-### Robotique Terrestre
+### Ground robotics
 
 - [Angetec](https://www.angatec.com/) - Develops ground robotics and autonomous mobile platforms.
 - [EFFIDENCE](https://effidence.com/) - Develops ground robotics and autonomous mobile platforms.
 
-### Service Informatique
+### Software services
 
 - [AlgoTech](https://www.algo-tech.fr/contactez-nous) - Provides software services relevant to robotics, industry, or automation.
 - [Artelys](https://www.artelys.com/fr/) - Provides software services relevant to robotics, industry, or automation.
@@ -869,11 +869,11 @@ Company coverage from the national robotics ecosystem map.
 - [PROLEXIA](https://prolexia.fr/) - Develops simulation, virtual commissioning, or modeling tools.
 - [SIMCORE](https://www.simcore.fr/) - Develops simulation, virtual commissioning, or modeling tools.
 
-### Traitement données 3D
+### 3D data processing
 
 - [A2D](https://www.a2d.ai/) - Develops 3D acquisition, processing, visualization, or decision-support tools.
 
-### vision industrielle
+### Industrial vision
 
 - [ABC vision industrielle](https://abcvision.info/fr/accueil/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
 - [ADPIX](https://www.adpix.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.

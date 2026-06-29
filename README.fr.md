@@ -16,8 +16,8 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 - [Laboratoires et instituts](#laboratoires-et-instituts)
 - [Centres techniques et transfert](#centres-techniques-et-transfert)
 - [Entreprises et startups](#entreprises-et-startups)
-- [Open source (projets français)](#open-source-projets-français)
-- [Données et datasets](#données-et-datasets)
+- [Logiciels libres (projets français)](#logiciels-libres-projets-français)
+- [Données et jeux de données](#données-et-jeux-de-données)
 - [Formations en France](#formations-en-france)
 - [Cours et ressources pédagogiques](#cours-et-ressources-pédagogiques)
 - [Veille et médias](#veille-et-médias)
@@ -202,10 +202,10 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [Techdron](https://www.techdrone.fr/) - Développement de drones pour des prestations de services dans les domaines de la topographie, l'hydrologie et l'inspection.
 - [TIDAV](http://tidav.aero/) - Conception et développement de drones Avion à Décollage et Atterrissage Vertical (ADAV/VTOL) et à performances.
 - [TURGIS GAILLARD](https://www.turgisgaillard.com/) - Conception et production de drones et autres véhicules et de sous-ensembles mécaniques.
-- [UAVIA](https://uavia.eu/) - Développement de plates-formes pour le pilotage à distance des robots aériens via le Cloud.
+- [UAVIA](https://uavia.eu/) - Développement de plates-formes pour le pilotage à distance des robots aériens.
 - [VERDRONE](https://www.verdone.fr/) - Conception, développement et commercialisation de logiciels et d'équipements pour les drones, systèmes de pilotage.
 
-### Electronique
+### Électronique
 
 - [ALEDIA](https://www.aledia.com/) - Développe des écrans d'affichage LEDs et des composants de microélectronique et traitement par l'IA.
 - [DIAMFAB](https://diamfab.com/) - Microtechnologies et microélectronique diamant pour semi-conducteurs.
@@ -231,7 +231,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [TPL SYSTEMES](https://tplsystemes.com/) - Conception et développement de matériels de radiocommunication.
 - [VITEC S.A.](http://www.vitec.com/) - Fabrication de cartes électroniques assemblées pour applications de contrôle, vidéo-numérique et équipements électroniques intégrés.
 
-### End-User
+### Utilisateurs finaux
 
 - [Air Liquide](https://www.airliquide.com/fr) - Systèmes de production et de manutention.
 - [ALCATEL SUBMARINE NETWORKS](https://www.asn.com/) - Installation de câbles sous-marins pour les réseaux de communication.
@@ -256,17 +256,17 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [VALEMO](https://www.valemo.fr/) - Maintenance, interventions techniques et exploitation de tous produits, systèmes et procédés, dans le domaine des énergies.
 - [Vinci Energie (Robots for Site)](https://leonard.vinci.com/robots-for-site-invente-les-nouvelles-equipes-de-chantier/) - Solutions robotiques mobiles et d'assistance aux opérations dédiées aux métiers du BTP.
 
-### IA4Robotique
+### IA pour la robotique
 
 - [ADAGOS](http://www.adagos.com/) - Développement de technologies de couplage de modèles et de données et de traitement par l'IA pour la prédiction.
-- [AGEATIS](http://www.agaetis.fr/) - Les activités de la société sont fortement orientées sur l’IOT, le Big Data et l’IA avec une conviction forte sur la création de valeur autour de la donnée. Intelligence artificielle ; Modélisation & Explicabilité. Interprétabilité des modèles.
+- [AGEATIS](http://www.agaetis.fr/) - Les activités de la société sont fortement orientées sur l’IoT, les données massives et l’IA avec une conviction forte sur la création de valeur autour de la donnée. Intelligence artificielle ; Modélisation & Explicabilité. Interprétabilité des modèles.
 - [AIRUDIT](https://www.airudit.com/) - Conception des interfaces humain-système utilisant le langage naturel (NLP).
 - [AKAWAN](https://www.akawan.com/) - Spécialisés dans les systèmes d'information et l'intelligence artificielle.
 - [Another Brain](https://anotherbrain.ai/) - Apprentissage des fonctions de perception.
 - [ARCURE](https://blaxtair.com/) - Société de haute technologie, spécialiste de l'intelligence artificielle appliquée au traitement d'image en embarqué pour des applications industrielles.
 - [CAPGEMINI AI Robotics and Experiences Lab](https://www.capgemini.com/about-us/who-we-are/innovation-ecosystem/ai-robotics-experiences-lab/) - Intégration de l'IA dans différents domaines de l'industrie dont la logistique, le contrôle, l'optimisation des processus industriels.
 - [Cyberus-ai](https://cyberus-ai.com/) - Techniques d'apprentissage pour les fonctions complexes en robotique.
-- [Deepomatic](https://deepomatic.com/) - Computer vision basée sur l'IA.
+- [Deepomatic](https://deepomatic.com/) - Vision par ordinateur basée sur l'IA.
 - [DEPLACE AI](https://deplaceai.com/) - Extraction de données pour la construction de modèles de fondation destinés à la programmation par apprentissage de robots.
 - [DI-ANALYSE SIGNAL](https://dianalyse.com/) - Mesure et analyse de données par l'IA ; optimisation de la maintenance, maintenance prédictive des usines et surveillance industrielle.
 - [Enchanted Tools](https://enchanted.tools/) - Conception et développement de robots sociaux.
@@ -291,7 +291,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [Probayes](http://www.probayes.com/) - Entreprise spécialisée dans les analyses prédictives et l'optimisation des données.
 - [Robocortex](http://www.robocortex.com) - Offreurs d'algorithmes d’analyse d’images, qui ont des applications dans le secteur militaire (tracking de cibles), la robotique et, aujourd’hui, en réalité augmentée.
 - [ROBOT FUTURES](https://robotfutures.co/) - Architecte produits et organisation intégrant de la robotique.
-- [Scortex](https://scortex.io/) - Computer vision basée sur l'IA.
+- [Scortex](https://scortex.io/) - Vision par ordinateur basée sur l'IA.
 - [Spirops](http://www.spirops.com/) - Systèmes de planification d'opérations.
 - [SYNAPSE DEVELOPPEMENT](http://www.synapse-developpement.fr/) - Spécialiste de l'Intelligence Artificielle appliquée au traitement du langage naturel et de textes.
 - [THALES Cortaix](https://www.thalesgroup.com/fr/monde/securite/press_release/thales-accelere-lia-defense) - Conception et intégration de systèmes robotiques pour la défense, l’aérospatial et la sécurité.
@@ -300,7 +300,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [VITA COGNITION](https://vitacognition.com/) - Offreur de moteurs d'IA Cognitive pour la robotique embarquée et autonome.
 - [Yumain](https://yumain.fr/) - Propose des produits de reconnaissance intelligente et des caméras industrielles intégrant de l’intelligence artificielle embarquée.
 
-### Informatique Industrielle
+### Informatique industrielle
 
 - [ACEL-GENESYS](https://acelgenesys.fr/) - Produits de communication ultra-robustes pour environnements industrielss.
 - [ACPI](https://www.acpi.tech/) - Mise en œuvre d'automates programmables et interfaces hommes / machines (IHM) dans le domaine de la supervision, de la variation de vitesse, et de la robotique.
@@ -341,10 +341,10 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [SVD Robotics](https://svd-robotics.com/) - Spécialiste de la programmation hors-ligne de robots manipulateurs pour les procédés continus.
 - [TERNWAVES](https://www.ternwaves.com/fr/) - Spécialisée dans les technologies de connectivité pour satellites et réseaux terrestres.
 - [THALES DIS FRANCE SAS](https://www.thalesgroup.com/en/enterprise) - Solutions de sécurité numérique et d’identité.
-- [Uniswarm](https://uniswarm.fr/) - Concepteur et fabricant de contrôleurs robotiques « Plug'n Play » pour la robotique mobile.
+- [Uniswarm](https://uniswarm.fr/) - Concepteur et fabricant de contrôleurs robotiques prêts à l’emploi pour la robotique mobile.
 - [VISTORY](https://vistory.com/) - Développement de logiciels pour la sécurisation de la supply chain industrielle ainsi que pour la fabrication additive. Cette double expertise nous permet aujourd’hui de développer une offre industrielle complète, toujours sécurisée par notre blockchain privée.
 
-### Intégrateur
+### Intégrateurs
 
 - [2IVAL](https://www.2ival.com/) - Intégration d'équipements de production industrielle (robotique, manutention, assemblage...) dans toutes les usines.
 - [3A alpes Automatic](http://3-a.fr/) - Spécialiste de l'intégration de solutions industrielles automatisées et robotisées.
@@ -372,7 +372,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [ARSN](https://www.arsn.fr/) - Solutions robotiques pour des projets à vocation industrielle, automobile et aéronautique.
 - [ARVIN AUTOMATISMES](https://www.arvin-automatismes.com/) - Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels.
 - [ASSYSTEM](https://www.assystem.com) - Développement de solutions pour la production et la mobilité.
-- [Asterion Robotics](https://asterion-robotics.odoo.com/) - Développement d'architecture logicielle robotique (ROS2, DDS, sécurité temps réel…) Développement de modules embarqués ou cloud.
+- [Asterion Robotics](https://asterion-robotics.odoo.com/) - Développement d'architecture logicielle robotique (ROS2, DDS, sécurité temps réel…) Développement de modules embarqués ou distants.
 - [ATEA](https://www.atea.net/) - Conception, développement et met en service tous types d'installations robotisées dans les domaines de l'assemblage, la soudure, l'encollage, la manutention, etc.
 - [AUTOMATISME VISION TECHNOLOGIE](https://www.avitec.fr/) - Intégrateur de solutionss de contrôle industriel.
 - [B-ROBOT](https://www.b-robot.eu/) - Conception de machines, automatismes. Intégrateur robotique et vision industrielle.
@@ -598,13 +598,13 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [V.L.M. Robotics](http://www.vlm-robotics.fr/) - Développement de cellules robotisées pour les procédés continus de fabrication.
 - [VOLUM-E](http://www.volum-e.com/) - Spécialiste de l'impression 3D en fabrication additive métal ou polymère, de la maquette au produit fini.
 
-### Programmation Robotique
+### Programmation robotique
 
 - [3IDM](https://www.3idm.fr/nos-prestations/robomaster-nantes/) - Programmation hors-ligne de robots industriels.
 - [ADAXIS](https://adaxis.eu/) - Fabrication assistée par ordinateur dédié aux procédés de fabrication additive robotisés.
 - [DASSAULT SYSTEMES / Dassault Systemes (Delmia)](https://discover.3ds.com/fr/) - Conception 3D, le maquettisme numérique 3D et les solutions pour la gestion du cycle de vie d’un produit.
 
-### Robotique Agricole
+### Robotique agricole
 
 - [AISPRID](https://aisprid.com/) - Développement de robots autonomes combinant intelligence artificielle et robotique pour la production de fruits et légumes.
 - [Cyclair](https://cyclair.fr/) - Robots autonomes de désherbage par IA, conçus pour remplacer les herbicides chimiques et favoriser une agriculture durable.
@@ -626,7 +626,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [VITIBOT](https://www.vitibot.fr/) - Développement de robots enjambeurs viticoles électriques et autonomes.
 - [VITIROVER](http://www.vitirover.com/) - Développement de robots autonomes et de gestion de flottes pour l'agriculture de précision.
 
-### robotique autonome
+### Robotique autonome
 
 - [ABLIX](https://ablix.fr/) - Conception de véhicules tout terrain et autres.
 - [AGREENCULTURE](https://www.agreenculture.fr/fr) - Développement de kits de navigation pour les engins agricoles.
@@ -655,7 +655,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [PILGRIM TECHNOLOGY](http://www.pilgrim-technology.com/) - Solutions d'inspection technique de chantiers, analyse, essais et inspections techniques par drones et autres engins.
 - [PROPHESEE](http://www.prophesee.ai/) - Développement des capteurs d'image neuromorphiques qui détectent les changements.
 - [RENAULT S.A.S](https://www.renaultgroup.com/) - Conception et intégration de systèmes robotiques pour la production automobile et de solutions d’IA pour la conduite autonome.
-- [ROB'OCC](https://www.robocc.fr/) - Conception, industrialisation et fabrication de véhicules autonomes indoor pour intralogistique.
+- [ROB'OCC](https://www.robocc.fr/) - Conception, industrialisation et fabrication de véhicules autonomes en intérieur pour intralogistique.
 - [Running Brain](https://runningbrainsrobotics.com/fr/) - Conception et fabrication de robots mobiles de surveillance autonomes pour la sécurité industrielle.
 - [SBG SYSTEMS](https://www.sbg-systems.com/fr/?utm_source=google&utm_medium=gmb&utm_campaign=gmb_fr&utm_id=GMBusiness) - Conception, fabrication et calibration de systèmes de navigation inertielle.
 - [SERA Technologie](https://serasas.com/contact) - Développe des récepteurs GPS de précision dans une variété de formats de sortie et d'interfaces.
@@ -668,7 +668,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [VALEO](https://www.valeo.com/fr/valeo-scala-lidar/) - Développement de solutions pour la voiture autonome : la détection d'objets, d'obstacles et l'estimation de la distance par laser.
 - [Yona Robotics](https://yona-robotics.com/en/home/) - Développement d'une plateforme d'intelligence artificielle dédiée à la robotique mobile autonome et des véhicules autonomes qui combine robustesse, sûreté de fonctionnement.
 
-### Robotique Chirurgicale
+### Robotique chirurgicale
 
 - [ACUSurgical](https://www.acusurgical.com/) - Assistance robotisée pour chirurgie ophtalmique.
 - [ALCYM](http://alcym.fr/) - Conception systèmes mécatroniques.
@@ -677,7 +677,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [MOON SURGICAL](https://moonsurgical.com/) - Développe et commercialise un dispositif robotique d'assistance chirurgicale dédié aux cœlioscopies exploitant la robotique à retour d'effort et la vision.
 - [SpineGuard](http://spineguard.fr/) - Conception et fabrication de dispositif et de technologies digitales de guidage chirurgical.
 
-### Robotique d'Inspection
+### Robotique d'inspection
 
 - [ACWA (AUTONOMOUS CLEAN WATER APPLIANCE  ROBOTICS)](https://www.acwa-robotics.com/) - Solutions robotiques autonomes destinées à réaliser la cartographie et à analyser l'état des réseaux d'eau potables et bruts.
 - [Compliance Robotics](https://compliance-robotics.com/) - Conception et commercialisation de solutions logicielles et matérielles en matière de robotique.
@@ -692,20 +692,20 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [TPL VISION](https://www.tpl-vision.com/) - Conception d'éclairages à leds dédiés aux processus d'automatisation qui reposent sur l'utilisation de caméras de vision industrielle.
 - [TWIN-ROBOTICS](https://www.twinrobotics.com/) - Conception et édition de logiciels de programmation pour les systèmes robotisés de Contrôle Non Destructif.
 
-### Robotique de Service
+### Robotique de service
 
 - [AIROBOTICS](https://airobotics.fr/nos-gammes/) - Offreurs de robots pour le domaine de l'hôtellerie.
 - [AWABOT](https://awabot.com/) - Téléprésence au service du lien social.
 - [FranceRol Robotics](https://francerol-robotics.com/) - Robots intelligents pour diverses applications, allant du nettoyage à la livraison, en passant par l’accueil et le service.
 - [Fybots](https://www.fybots.com/) - Conception et développement de systèmes robotiques pour le nettoyage de surfaces industrielles.
-- [POLLEN ROBOTICS](http://pollen-robotics.com/) - Fournisseur de plateformes humanoïdes hardware/software open source conçues pour développer des applications de manipulation.
+- [POLLEN ROBOTICS](http://pollen-robotics.com/) - Fournisseur de plateformes humanoïdes matérielles et logicielles libres conçues pour développer des applications de manipulation.
 - [Spoon AI](http://spoon.ai/) - Dévloppement de robots à visage expressif pour des espaces accueillant du public.
 - [UROBOT](https://urobot.fr/) - Solutions robotisées pour la livraison et la restauration.
 
-### Robotique Extérieur
+### Robotique extérieure
 
 - [Altametris / SNCF (Altametris)](https://www.altametris.com/) - Digitalisation des environnements par imagerie embarquée sur des drones aériens et terrestres ; Création de jumeaux numériques des infrastructures à partir de capture d'images embarquée sur drones et robots.
-- [LUOS](https://www.luos.io/) - Startup qui développe la nouvelle façon de penser, de créer, de maintenir et de faire évoluer les systèmes embarqués.
+- [LUOS](https://www.luos.io/) - Jeune entreprise qui développe la nouvelle façon de penser, de créer, de maintenir et de faire évoluer les systèmes embarqués.
 - [Minitrucks Robotics](https://www.minitrucks-robotics.fr/) - Conception de véhicules robotisés compacts, puissants et radiocommandés ; Développement de robots miniatures pour opérations de manutention en environnement sévère ou étroit.
 - [PGES](https://www.pges.fr) - Conception et réalisation de logiciels de supervision pour flottes de robots mobiles autonomes, des systèmes de localisation, guidage et perception.
 - [SAFRAN ELECTRONICS DEFENSE](https://www.safran-group.com/fr/societes/safran-electronics-defense) - Conception de systèmes robotiques, de capteurs intelligents pour la défense et l’aéronautique.
@@ -714,7 +714,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [Shield Robotics](https://shield-robotics.com/) - Conception, protoypage et intégration de drones et robots sur mesure pour applications de sécurité, agricole ou spéciale.
 - [Visi'Eau drones](https://www.visieaudrone.com/) - Société spécialisée dans l'inspection subaquatique et le nettoyage de cuve industrielle, y compris le lavage de cuves, grâce à des robots sous-marins.
 
-### robotique industrielle
+### Robotique industrielle
 
 - [Airbus Robotics (MTM robotics)](https://www.airbus.com/en/innovation/digital-transformation/industry-4-0/robotics) - Développement de lignes de production robotisées.
 - [AkeoPlus](https://akeoplus.com/fr/box/) - Solutions pour la génération de trajectoires, la programmation, la vision, la planification.
@@ -746,7 +746,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [ISP Aquitaine](https://www.isp-aquitaine.fr/) - Conception et développement de machines spéciales pour l'industrie et de cellules robotisées intégrant de la vision.
 - [ISP SYSTEM](https://www.isp-system.fr/) - Spécialiste en mécanique de précision, opto-mécanique et mécatronique pour des équipements indsutriels de haute précision.
 - [ISYBOT](https://www.isybot.com/cobot/) - Conception des robots collaboratifs pour l'industrie (cobots).
-- [JPB SYSTEME](https://www.jpb-systeme.com/fr/) - Spécialiste des dispositifs auto-freinants pour la sécurisation et le monitoring des ensembles vissés.
+- [JPB SYSTEME](https://www.jpb-systeme.com/fr/) - Spécialiste des dispositifs auto-freinants pour la sécurisation et la surveillance des ensembles vissés.
 - [KEEP'MOTION](http://keep-motion.com/) - Conception et optimisation de machines électriques tournantes, moteurs, alternateurs et actionneurs électromécaniques.
 - [LES COMPANIONS](http://www.lescompanions.com/) - Systèmes robotiques collaboratifs pour la peinture.
 - [LUCAS FRANCE](http://www.lucas-robotic-system.com/) - Développement de systèmes robotiques modulaires de manipulation pour les procédés de fabrication (découpe, pliage, etc).
@@ -783,9 +783,9 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [Visionic](http://www.visionic.fr/) - Solutions en contrôle dimensionnel, vision, robotique et intelligence artificielle.
 - [WATT ET WELL](https://www.wattandwell.com/) - Équipementier technologique spécialisé dans l'électronique de puissance.
 - [WEEZ-U WELDING](https://weez-u-welding.com/) - Développement de robots collaboratifs pour l'assistance aux opérations de soudure.
-- [WYCA Robotics](https://wyca-robotics.com/) - Développement de robots autonomes indoor à usage industriel.
+- [WYCA Robotics](https://wyca-robotics.com/) - Développement de robots autonomes en intérieur à usage industriel.
 
-### Robotique Médicale
+### Robotique médicale
 
 - [Axilum Robotics](https://www.axilumrobotics.com/) - Solutions robotisées d'assistance pour la Stimulation Magnétique transcrânienne.
 - [BHealthCare / BHealthCare SAS](https://www.bhealthcare.fr/) - Développement de systèmes robotiques et de technologies médicales d'imagerie pour le prélèvement sanguin ; Développement et industrialisation d'un automate robotisé pour la prise de sang.
@@ -813,7 +813,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 
 - [Orthopus](https://orthopus.com/) - Nouvelles solutions, plus abordables, aux personnes en situation de handicap.
 
-### Robotique Sociale
+### Robotique sociale
 
 - [Blue Frog Robotics](http://www.bluefrogrobotics.com/) - Robotique pour les interactions sociales.
 - [KOMPAI ROBOTICS](http://kompairobotics.com/) - Robots mobiles autonomes au service de la santé.
@@ -828,7 +828,7 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [ROV developpement](http://www.rovdeveloppement.com/) - Conception et fabrication de sous-marins robotisés et de caméras marinisées pour l'observation.
 - [Subsea Tech](https://www.subsea-tech.com/fr/) - Conception de technologies marines et sous-marines robotisées pour l'inspection et la surveillance de l'environnement.
 
-### Robotique Spatiale
+### Robotique spatiale
 
 - [AIRBUS DEFENCE AND SPACE](https://www.airbus.com/en/newsroom/news/2021-02-the-new-digital-factory-hundreds-of-kilometres-above-earth) - Développement de technologies pour le service en orbite, l'observation, la fabrication.
 - [Airbus Defense & Space](https://www.airbus.com/en/newsroom/stories/2024-01-the-worlds-first-metal-3d-printer-for-space-is-on-its-way-to-the-iss) - Développement de systèmes robotiques pour le travail dans l'espace.
@@ -841,39 +841,39 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [ROVIAL](https://www.rovial.space/) - Conception et développement de solutions robotiques dédiées à l'exploration et à l'exploitation des énergies solaires dans l'espace.
 - [SIMERA sense France](https://simera-sense.com/) - Caméras IR pour charge utile satellites.
 - [THALES ALENIA SPACE](https://www.thalesaleniaspace.com/en) - Développement de satellites et plateformes spatiales intégrant des systèmes robotiques pour la navigation autonome, la maintenance en orbite et l’analyse des données.
-- [Venturi Space France](https://venturi.space/) - Solutions de mobilité (Rovers Autonomes et rapides) capables d'affronter les conditions environnementales extrêmes de la Lune et de Mars.
+- [Venturi Space France](https://venturi.space/) - Solutions de mobilité (astromobiles autonomes et rapides) capables d'affronter les conditions environnementales extrêmes de la Lune et de Mars.
 
-### Robotique Terrestre
+### Robotique terrestre
 
 - [Angetec](https://www.angatec.com/) - Société spécialisée en robotique mobile terrestre tout terrain à énergie électrique.
 - [EFFIDENCE](https://effidence.com/) - Solutions pour la navigation autonome des véhicules et engins tout-terrain.
 
-### Service Informatique
+### Services informatiques
 
 - [AlgoTech](https://www.algo-tech.fr/contactez-nous) - Éditeur, distributeur et intégrateur de solutions logicielles dédiées aux métiers de l'électricité, de la gestion des documents techniques.
 - [Artelys](https://www.artelys.com/fr/) - Spécialiste en optimisation, aide à la décision et modélisation.
 - [ARTERIS IP](https://www.arteris.com/) - Conception et développement de composants sur puces.
 - [BeTomorrow](https://www.betomorrow.com/) - Conception, réalisation, installation de logiciels, progiciels relatifs au traitement.
 - [Black Swan Technology](https://www.black-swan-technology.fr/) - Conseil, développement solutions informatiques (dont IA) pour l'industrie.
-- [DIAGRAMS TECHNOLOGIES](https://diagrams-technologies.com/) - Conception et développement de méthodes logicielles d'analyse de données (par l'IA) pour le monitoring des systèmes de production et la maintenance prédictive.
+- [DIAGRAMS TECHNOLOGIES](https://diagrams-technologies.com/) - Conception et développement de méthodes logicielles d'analyse de données (par l'IA) pour la surveillance des systèmes de production et la maintenance prédictive.
 - [DYDU](https://www.dydu.ai/) - Développement de logiciels de traitement du langage naturel permettant de créer et d'administrer facilement des robots conversationnels.
 - [DynamicScreen](https://comeen.com) - Solutions d'affichage dynamique connecté permettant la diffusion de contenus au sein de lieux publics, chaînes de production.
 - [IMMERSION](http://www.immersion.fr/) - Spécialiste dans les technologies immersives et collaboratives, telles que la réalité virtuelle, la réalité augmentée.
-- [PICOMTO](https://www.picomto.com/) - Solutions de télémaintenance et logiciels SAAS - Conseil en systèmes et logiciels informatiques.
+- [PICOMTO](https://www.picomto.com/) - Solutions de télémaintenance et logiciels SaaS - Conseil en systèmes et logiciels informatiques.
 
 ### Simulation
 
-- [4D-Virtualiz](https://www.4d-virtualiz.com/) - Simulation 3D temps réel et Hardware-In-the-Loop pour la génération de données de capteurs contextualisées.
+- [4D-Virtualiz](https://www.4d-virtualiz.com/) - Simulation 3D temps réel et simulation matérielle dans la boucle pour la génération de données de capteurs contextualisées.
 - [GOLAEM](https://www.autodesk.com/solutions/golaem) - Solutions de modélisation et d'animation d'environnements 3D.
 - [HMI-MBS](http://hmi-mbs.fr/) - Modélisation, simulation de lignes de production en 3D, tests virtuels de configurations et optimisation des postes de palettisation.
 - [PROLEXIA](https://prolexia.fr/) - Produits et services utilisant des technologies avancées telles que la simulation, la réalité virtuelle, la réalité augmentée et de l'IA.
 - [SIMCORE](https://www.simcore.fr/) - Simulation de flux industriel.
 
-### Traitement données 3D
+### Traitement de données 3D
 
 - [A2D](https://www.a2d.ai/) - Digitalisation 3D, acquisition et traitement de données, visualisation, interprétation et aide à la décision.
 
-### vision industrielle
+### Vision industrielle
 
 - [ABC vision industrielle](https://abcvision.info/fr/accueil/) - Intégrateur en vision industrielle.
 - [ADPIX](https://www.adpix.fr/) - Développement de moyens de traitement d'images pour les applications industrielles intégrant la commande de robot.
@@ -900,21 +900,21 @@ Couverture des entreprises issue de la cartographie nationale de l'écosystème 
 - [Vision Engineering](http://www.visioneng.fr/) - Solutions de vision, de microscopie ergonomique, de visualisation numérique 3D et de métrologie.
 - [VisioNerf](http://www.visionerf.com/) - Développement de capteurs de vision 3D.
 
-## Open source (projets français)
+## Logiciels libres (projets français)
 
-- [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Bibliothèque d'optimal control pour la robotique.
+- [Crocoddyl](https://github.com/loco-3d/crocoddyl) - Bibliothèque de commande optimale pour la robotique.
 - [Gepetto Viewer](https://github.com/gepetto/gepetto-viewer) - Visualisation 3D pour la robotique.
 - [Humanoid Path Planner (HPP)](https://github.com/humanoid-path-planner) - Bibliothèques de planification de mouvement.
 - [Pinocchio](https://github.com/stack-of-tasks/pinocchio) - Bibliothèque de dynamique et de cinématique.
-- [Poppy Project](https://www.poppy-project.org/) - Plateforme open source de robots et d'éducation.
+- [Poppy Project](https://www.poppy-project.org/) - Plateforme libre de robots et d'éducation.
 - [PyPot](https://github.com/poppy-project/pypot) - Outils Python pour piloter des robots.
-- [SOFA](https://www.sofa-framework.org/) - Framework de simulation physique.
-- [Stack of Tasks](https://stack-of-tasks.github.io/) - Outils open source pour la commande et l'optimisation en robotique.
-- [TSID](https://github.com/stack-of-tasks/tsid) - Task-space inverse dynamics.
-- [Upkie](https://github.com/upkie) - Robot bipède open source et sa stack associée.
-- [ViSP](https://github.com/lagadic/visp) - Visual Servoing Platform.
+- [SOFA](https://www.sofa-framework.org/) - Cadre logiciel de simulation physique.
+- [Stack of Tasks](https://stack-of-tasks.github.io/) - Outils libres pour la commande et l'optimisation en robotique.
+- [TSID](https://github.com/stack-of-tasks/tsid) - Dynamique inverse dans l'espace opérationnel.
+- [Upkie](https://github.com/upkie) - Robot bipède libre et sa pile logicielle associée.
+- [ViSP](https://github.com/lagadic/visp) - Plateforme d'asservissement visuel.
 
-## Données et datasets
+## Données et jeux de données
 
 - [Cartographie de l'écosystème robotique national](https://c-robotique-france2030.org/fr/cartographie-de-lecosysteme-robotique-national-42) - Cartographie des entreprises, laboratoires publics et centres techniques de la robotique en France.
 - [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Jeu de données issu de Robotex 2.0 pour drones et capteurs multi-modaux.
