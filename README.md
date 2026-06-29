@@ -577,27 +577,45 @@ Selection of entry points and targeted programs. This section focuses on program
 - [CTI - Commission des titres d'ingénieur](https://www.cti-commission.fr/) - Official directory of accredited engineering schools.
 - [Mon Master](https://www.monmaster.gouv.fr/) - Official national catalog of master's degrees.
 - [Onisep](https://www.onisep.fr/) - Official reference for education and guidance.
+- [Onisep - Licence pro mention Métiers de l'industrie : mécatronique, robotique](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/licence-pro-mention-metiers-de-l-industrie-mecatronique-robotique) - National entry point for institutions offering this professional degree.
 - [Parcoursup](https://www.service-public.gouv.fr/particuliers/vosdroits/F23476) - Official overview of the national undergraduate admissions platform.
+
+### Targeted BUT and technological programs
+
+- [BUT génie électrique et informatique industrielle parcours Automatisme et informatique industrielle](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-electrique-et-informatique-industrielle-parcours-automatisme-et-informatique-industrielle) - GEII track focused on automation, industrial computing, robots, and vision.
+- [BUT génie électrique et informatique industrielle parcours Électronique et systèmes embarqués](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-electrique-et-informatique-industrielle-parcours-electronique-et-systemes-embarques) - GEII track in electronics, embedded computing, and connected systems.
+- [BUT génie mécanique et productique parcours Innovation pour l'industrie](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-mecanique-et-productique-parcours-innovation-pour-l-industrie) - GMP track covering mechanical design, production, automation, and robotics.
+- [BUT génie mécanique et productique parcours Simulation numérique et réalité virtuelle](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-mecanique-et-productique-parcours-simulation-numerique-et-realite-virtuelle) - GMP track covering advanced simulation, virtual reality, digital twins, and production systems.
+- [BUT mesures physiques parcours Techniques d'instrumentation](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-mesures-physiques-parcours-techniques-d-instrumentation) - Track focused on measurement chains and instrumentation useful for robotic and embedded systems.
 
 ### Targeted professional degrees and bridges
 
+- [Cnam - Licence professionnelle Robotique industrielle](https://www.cnam.fr/formation/licence-professionnelle-metiers-de-lindustrie-mecatronique-robotique-parcours-robotique-industrielle-3) - Apprenticeship professional degree in industrial robotics, automation, and mechatronic systems.
 - [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Professional university track in automated and robotic systems integration.
 - [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours Robotique collaborative et mobile](https://formation.univ-lille.fr/fr/offre-de-formation/licence-professionnelle-DP/licence-professionnelle-metiers-de-l-industrie-mecatronique-robotique-MG002292/robotique-collaborative-et-mobile-MX002293.html) - Track focused on mobile robotics and cobotics.
 - [Licence professionnelle Robotique](https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac3/licence-professionnelle/2556-licence-pro-robotique.html) - Professional degree focused on automation, integration, and maintenance of robotic systems.
+- [Université Claude Bernard Lyon 1 - Licence professionnelle RAVI](https://iut.univ-lyon1.fr/formation/licences-professionnelles/licence-professionnelle-ravi) - Robotics, automation, and industrial vision track for integrating robots and vision into automated lines.
+- [Université d'Orléans - Licence pro Métiers de l'industrie : mécatronique, robotique](https://www.univ-orleans.fr/fr/iut-bourges/formation/sciences-industrie/licence-pro-metiers-de-lindustrie-mecatronique-robotique) - Professional robotics degree covering mechanics, electronics, computing, and control.
+- [Université de Reims Champagne-Ardenne - Licence professionnelle Métiers de l'industrie : mécatronique, robotique](https://www.onisep.fr/ressources/structures-enseignement/grand-est/marne/iut-de-reims-universite-de-reims-champagne-ardenne/licence-pro-mention-metiers-de-l-industrie-mecatronique-robotique) - Automation and robotics track for industry of the future.
 
 ### Engineering schools and targeted programs
 
 - [Arts et Métiers](https://artsetmetiers.fr/) - Mechanics, mechatronics, and automation.
 - [Centrale Nantes](https://www.ec-nantes.fr/) - Robotics, control, and systems.
 - [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Engineering center focused on embedded systems, robotics, and digital industry.
+- [EIGSI - Robotique et intelligence embarquée](https://www.eigsi.fr/formation/robotique-intelligence-embarquee/) - Engineering specialization in industrial, collaborative, and mobile robotics with intelligent embedded systems.
 - [ENAC](https://www.enac.fr/) - Drones, embedded systems, and aerospace.
+- [ENSIL-ENSCI - Mécatronique](https://www.ensil-ensci.unilim.fr/formations/cycle-ingenieur/specialite-mecatronique-mix/) - Engineering specialization in mechatronics, control, instrumentation, and intelligent systems.
 - [ENSTA campus Brest - Formation d'ingénieur Systèmes embarqués](https://www.ensta.fr/formations/formation-dingenieur-systemes-embarques-par-alternance) - Apprenticeship engineering program in real-time embedded systems combining electronics and computing.
 - [ENSTA campus Brest and Paris-Saclay - VA Robotique et systèmes autonomes](https://www.ensta.fr/formations/ingenieurs/ingenieur-generaliste/un-large-choix-dexpertise-en-3e-annee) - Third-year specialization in robotics, autonomous systems, control, perception, AI, simulation, navigation, and mobile robots.
 - [ENSTA campus Paris-Saclay - 3A Parcours Robotique](https://synapses.ensta-paris.fr/catalogue/parcours/48/3A-PAR-ROB-3a-course-robotics) - Engineering track covering robotics, autonomous vehicles, real-time systems, robotic vision, navigation, and manipulation.
+- [ESIEA - Systèmes embarqués et autonomes](https://www.esiea.fr/programme-ingenieur/cycle-ingenieur/majeure-systemes-embarques-et-autonomes/) - Engineering major with projects in drones, autonomous robots, and connected devices.
+- [ESIGELEC - Mécatronique et génie électrique](https://www.esigelec.fr/fr/mecatronique-genie-electrique) - Engineering specialization in mechatronic systems, robotics, electronics, and control.
 - [ESTACA](https://www.estaca.fr/) - Embedded systems and autonomous mobility.
 - [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Engineering track focused on mechatronics and embedded systems.
 - [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotics, AI, and embedded systems.
 - [ISAE-SUPAERO](https://www.isae-supaero.fr/) - Drones, robotics, and embedded systems.
+- [Polytech Dijon - Robotique / Cobotique](https://polytech.ube.fr/robotique-cobotique) - Engineering department in Le Creusot with robotics and cobotics tracks.
 - [Polytech Montpellier - Systèmes embarqués](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/systemes-embarques) - Engineering specialization in embedded systems.
 - [Polytech Paris-Saclay - Électronique et Informatique pour l'Embarqué](https://www.polytech.universite-paris-saclay.fr/formation/electronique-et-informatique-pour-lembarque) - Engineering specialization in embedded electronics and robotic systems.
 - [Polytech Sorbonne - Robotique](https://www.polytech.sorbonne-universite.fr/formations/robotique) - Engineering specialization focused on robotics and mechatronics.
@@ -608,6 +626,7 @@ Selection of entry points and targeted programs. This section focuses on program
 
 ### Targeted master's degrees and university programs
 
+- [Arts et Métiers - Master Systèmes Avancés et Robotique](https://artsetmetiers.fr/fr/parcours-sar-systemes-avances-et-robotique) - Master's track in advanced systems, robotics, and mechanical engineering.
 - [ENSTA - Advanced Master's in Multimodal and Autonomous Artificial Intelligence](https://www.ensta.fr/en/training/advanced-master-multimodal-and-autonomous-artificial-intelligence) - Advanced program with robotics, human-machine interaction, language processing, and autonomous AI.
 - [Grenoble INP - Master Mobile, Autonomous and Robotic Systems (MARS)](https://ense3.grenoble-inp.fr/en/study-at-ense3/master-tsi-mobile-autonomous-and-robotic-systems-mars) - Master's degree in AI, control, mechatronics, drones, embedded systems, and intelligent mobility.
 - [ISblue - Master in Mobile Robotics](https://isblue.fr/en/our-training-offer/master-msc-in-mobile-robotics/) - Master's degree focused on mobile robots and autonomous marine and underwater vehicles.
@@ -615,7 +634,9 @@ Selection of entry points and targeted programs. This section focuses on program
 - [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master's degree focused on robotics, control, and intelligent systems.
 - [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master's degree in control, perception, and robotics.
 - [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Track in systems, autonomous machines, and field networks.
+- [Université de Montpellier - Master EEA parcours Robotique](https://formations.umontpellier.fr/fr/formations/master-XB/master-electronique-energie-electrique-automatique-ME145/robotique-PR438.html) - Master's degree in robotics, industrial computing, image processing, and control.
 - [Université de Nantes - Master Interdisciplinaire en Technologies Innovantes](https://iutnantes.univ-nantes.fr/formations/iti) - Program focused on the design, programming, and integration of advanced robotic systems in industrial settings.
+- [Université d'Orléans - Master Automatique, Robotique](https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-mars-JDN8HQ3I.html) - MARS master's degree with robotics, control, and internet of things tracks.
 - [Université de Rennes - Master Sciences pour l'ingénieur et applications, parcours Mécatronique](https://formations.univ-rennes.fr/master-mention-sciences-pour-lingenieur-et-applications-parcours-mecatronique) - Master's degree in mechatronics, systems integration, and control.
 - [Université de Strasbourg - Master imagerie, robotique, ingénierie pour le vivant (IRIV)](https://www.ipcms.unistra.fr/master-imagerie-robotique-ingenierie-pour-le-vivant-iriv/) - Master's degree at the intersection of robotics, imaging, and biomedical engineering.
 - [Université de Strasbourg - Master Physique appliquée et ingénierie physique, parcours Mécatronique, énergie et systèmes intelligents](https://formations.unistra.fr/fr/formations/master-MAS/master-physique-appliquee-et-ingenierie-physique-ME176/mecatronique-energie-et-systemes-intelligents-PR873.html) - Master's degree in mechatronics and intelligent systems.

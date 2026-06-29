@@ -577,27 +577,45 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 - [CTI - Commission des titres d'ingénieur](https://www.cti-commission.fr/) - Répertoire officiel des écoles d'ingénieurs accréditées.
 - [Mon Master](https://www.monmaster.gouv.fr/) - Catalogue national officiel des masters.
 - [Onisep](https://www.onisep.fr/) - Référentiel officiel pour les formations et l'orientation.
+- [Onisep - Licence pro mention Métiers de l'industrie : mécatronique, robotique](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/licence-pro-mention-metiers-de-l-industrie-mecatronique-robotique) - Point d'entrée national vers les établissements proposant cette licence professionnelle.
 - [Parcoursup](https://www.service-public.gouv.fr/particuliers/vosdroits/F23476) - Présentation officielle de la plateforme nationale d'admission post-bac.
+
+### BUT et formations technologiques ciblées
+
+- [BUT génie électrique et informatique industrielle parcours Automatisme et informatique industrielle](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-electrique-et-informatique-industrielle-parcours-automatisme-et-informatique-industrielle) - Parcours GEII orienté automatismes, informatique industrielle, robots et vision.
+- [BUT génie électrique et informatique industrielle parcours Électronique et systèmes embarqués](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-electrique-et-informatique-industrielle-parcours-electronique-et-systemes-embarques) - Parcours GEII en électronique, informatique embarquée et systèmes connectés.
+- [BUT génie mécanique et productique parcours Innovation pour l'industrie](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-mecanique-et-productique-parcours-innovation-pour-l-industrie) - Parcours GMP couvrant conception mécanique, production, automatismes et robotique.
+- [BUT génie mécanique et productique parcours Simulation numérique et réalité virtuelle](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-genie-mecanique-et-productique-parcours-simulation-numerique-et-realite-virtuelle) - Parcours GMP sur simulation avancée, réalité virtuelle, jumeau numérique et systèmes de production.
+- [BUT mesures physiques parcours Techniques d'instrumentation](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/but-mesures-physiques-parcours-techniques-d-instrumentation) - Parcours centré sur les chaînes de mesure et l'instrumentation utiles aux systèmes robotiques et embarqués.
 
 ### Licences professionnelles et passerelles ciblées
 
+- [Cnam - Licence professionnelle Robotique industrielle](https://www.cnam.fr/formation/licence-professionnelle-metiers-de-lindustrie-mecatronique-robotique-parcours-robotique-industrielle-3) - Licence professionnelle en alternance sur robotique industrielle, automatisme et systèmes mécatroniques.
 - [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours ISAR](https://formations.univ-rennes.fr/parcours/licence-professionnelle-mention-metiers-de-lindustrie-mecatronique-robotique-parcours-0) - Parcours universitaire professionnalisant en intégration de systèmes automatiques et robotisés.
 - [Licence professionnelle Métiers de l'industrie : mécatronique, robotique parcours Robotique collaborative et mobile](https://formation.univ-lille.fr/fr/offre-de-formation/licence-professionnelle-DP/licence-professionnelle-metiers-de-l-industrie-mecatronique-robotique-MG002292/robotique-collaborative-et-mobile-MX002293.html) - Parcours centré sur la robotique mobile et la cobotique.
 - [Licence professionnelle Robotique](https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac3/licence-professionnelle/2556-licence-pro-robotique.html) - Licence professionnelle orientée automatisation, intégration et maintenance de systèmes robotisés.
+- [Université Claude Bernard Lyon 1 - Licence professionnelle RAVI](https://iut.univ-lyon1.fr/formation/licences-professionnelles/licence-professionnelle-ravi) - Parcours Robotique, Automatisme et Vision Industriels pour l'intégration de robots et de vision dans les lignes automatisées.
+- [Université d'Orléans - Licence pro Métiers de l'industrie : mécatronique, robotique](https://www.univ-orleans.fr/fr/iut-bourges/formation/sciences-industrie/licence-pro-metiers-de-lindustrie-mecatronique-robotique) - Licence professionnelle robotique couvrant mécanique, électronique, informatique et automatique.
+- [Université de Reims Champagne-Ardenne - Licence professionnelle Métiers de l'industrie : mécatronique, robotique](https://www.onisep.fr/ressources/structures-enseignement/grand-est/marne/iut-de-reims-universite-de-reims-champagne-ardenne/licence-pro-mention-metiers-de-l-industrie-mecatronique-robotique) - Parcours Automatismes et robotique pour l'industrie du futur.
 
 ### Écoles d'ingénieurs et cursus ciblés
 
 - [Arts et Métiers](https://artsetmetiers.fr/) - Mécanique, mécatronique et automatisation.
 - [Centrale Nantes](https://www.ec-nantes.fr/) - Robotique, automatique et systèmes.
 - [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Pôle d'ingénierie tourné vers les systèmes embarqués, la robotique et l'industrie numérique.
+- [EIGSI - Robotique et intelligence embarquée](https://www.eigsi.fr/formation/robotique-intelligence-embarquee/) - Dominante d'ingénieur sur robotique industrielle, collaborative, mobile et systèmes embarqués intelligents.
 - [ENAC](https://www.enac.fr/) - Drones, systèmes embarqués et aéronautique.
+- [ENSIL-ENSCI - Mécatronique](https://www.ensil-ensci.unilim.fr/formations/cycle-ingenieur/specialite-mecatronique-mix/) - Spécialité d'ingénieur en mécatronique, automatique, instrumentation et systèmes intelligents.
 - [ENSTA campus Brest - Formation d'ingénieur Systèmes embarqués](https://www.ensta.fr/formations/formation-dingenieur-systemes-embarques-par-alternance) - Formation d'ingénieur par apprentissage en systèmes embarqués temps réel, électronique et informatique.
 - [ENSTA campus Brest et Paris-Saclay - VA Robotique et systèmes autonomes](https://www.ensta.fr/formations/ingenieurs/ingenieur-generaliste/un-large-choix-dexpertise-en-3e-annee) - Voie d'approfondissement en robotique, systèmes autonomes, automatique, perception, IA, simulation, navigation et robots mobiles.
 - [ENSTA campus Paris-Saclay - 3A Parcours Robotique](https://synapses.ensta-paris.fr/catalogue/parcours/48/3A-PAR-ROB-3a-course-robotics) - Parcours d'ingénieur couvrant robotique, véhicules autonomes, temps réel, vision robotique, navigation et manipulation.
+- [ESIEA - Systèmes embarqués et autonomes](https://www.esiea.fr/programme-ingenieur/cycle-ingenieur/majeure-systemes-embarques-et-autonomes/) - Majeure d'ingénieur avec projets en drones, robots autonomes et dispositifs connectés.
+- [ESIGELEC - Mécatronique et génie électrique](https://www.esigelec.fr/fr/mecatronique-genie-electrique) - Dominante d'ingénieur en systèmes mécatroniques, robotique, électronique et commande.
 - [ESTACA](https://www.estaca.fr/) - Systèmes embarqués et mobilité autonome.
 - [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Parcours d'ingénieur centré sur la mécatronique et les systèmes embarqués.
 - [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotique, IA et embarqué.
 - [ISAE-SUPAERO](https://www.isae-supaero.fr/) - Drones, robotique et systèmes embarqués.
+- [Polytech Dijon - Robotique / Cobotique](https://polytech.ube.fr/robotique-cobotique) - Département d'ingénierie au Creusot avec parcours robotique et cobotique.
 - [Polytech Montpellier - Systèmes embarqués](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/systemes-embarques) - Spécialité d'ingénierie en systèmes embarqués.
 - [Polytech Paris-Saclay - Électronique et Informatique pour l'Embarqué](https://www.polytech.universite-paris-saclay.fr/formation/electronique-et-informatique-pour-lembarque) - Spécialité d'ingénierie en électronique embarquée et systèmes robotisés.
 - [Polytech Sorbonne - Robotique](https://www.polytech.sorbonne-universite.fr/formations/robotique) - Spécialité d'ingénierie orientée robotique et mécatronique.
@@ -608,6 +626,7 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 
 ### Masters et parcours universitaires ciblés
 
+- [Arts et Métiers - Master Systèmes Avancés et Robotique](https://artsetmetiers.fr/fr/parcours-sar-systemes-avances-et-robotique) - Parcours de master en systèmes avancés, robotique et ingénierie mécanique.
 - [ENSTA - Mastère spécialisé Intelligence artificielle multimodale et autonome](https://www.ensta.fr/en/training/advanced-master-multimodal-and-autonomous-artificial-intelligence) - Formation avancée couvrant robotique, interaction humain-machine, traitement du langage et IA autonome.
 - [Grenoble INP - Master Mobile, Autonomous and Robotic Systems (MARS)](https://ense3.grenoble-inp.fr/en/study-at-ense3/master-tsi-mobile-autonomous-and-robotic-systems-mars) - Master en IA, commande, mécatronique, drones, systèmes embarqués et mobilité intelligente.
 - [ISblue - Master in Mobile Robotics](https://isblue.fr/en/our-training-offer/master-msc-in-mobile-robotics/) - Master centré sur les robots mobiles et les véhicules autonomes marins et sous-marins.
@@ -615,7 +634,9 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 - [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master orienté robotique, automatique et systèmes intelligents.
 - [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master en automatique, perception et robotique.
 - [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Parcours Systèmes, Machines autonomes et Réseaux de Terrains.
+- [Université de Montpellier - Master EEA parcours Robotique](https://formations.umontpellier.fr/fr/formations/master-XB/master-electronique-energie-electrique-automatique-ME145/robotique-PR438.html) - Master en robotique, informatique industrielle, traitement d'images et automatique.
 - [Université de Nantes - Master Interdisciplinaire en Technologies Innovantes](https://iutnantes.univ-nantes.fr/formations/iti) - Formation à la conception, programmation et intégration de systèmes robotiques avancés en environnement industriel.
+- [Université d'Orléans - Master Automatique, Robotique](https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-mars-JDN8HQ3I.html) - Master MARS avec parcours robotique, automatique et internet des objets.
 - [Université de Rennes - Master Sciences pour l'ingénieur et applications, parcours Mécatronique](https://formations.univ-rennes.fr/master-mention-sciences-pour-lingenieur-et-applications-parcours-mecatronique) - Master en mécatronique, intégration et commande de systèmes.
 - [Université de Strasbourg - Master imagerie, robotique, ingénierie pour le vivant (IRIV)](https://www.ipcms.unistra.fr/master-imagerie-robotique-ingenierie-pour-le-vivant-iriv/) - Master à l'interface entre robotique, imagerie et ingénierie biomédicale.
 - [Université de Strasbourg - Master Physique appliquée et ingénierie physique, parcours Mécatronique, énergie et systèmes intelligents](https://formations.unistra.fr/fr/formations/master-MAS/master-physique-appliquee-et-ingenierie-physique-ME176/mecatronique-energie-et-systemes-intelligents-PR873.html) - Master en mécatronique et systèmes intelligents.
