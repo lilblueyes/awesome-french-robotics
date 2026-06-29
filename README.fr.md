@@ -163,113 +163,742 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Entreprises et startups
 
-### Robots agricoles
+Couverture entreprise issue de la cartographie Robotique France 2030, limitée aux entrées avec un site identifié ayant répondu lors de la vérification. Les doublons régionaux de la cartographie sont fusionnés sur une ligne quand ils partagent le même site.
 
-- [Agreenculture](https://www.agreenculture.fr/fr) - Kit d'autonomie pour rendre tracteurs et machines agricoles autonomes.
-- [Aisprid](https://aisprid.com/) - Robots autonomes de haute précision pour producteurs de fruits et légumes.
-- [EXXACT Robotics](https://www.exxact-robotics.com/) - Solutions robotisées et capteurs pour l'agriculture de précision.
-- [Naio Technologies](https://www.naio-technologies.com/) - Robots agricoles autonomes.
-- [OSIRIS Agriculture](https://www.osiris-agriculture.fr/) - Robots agricoles pour le travail des cultures.
-- [PELLENC](https://www.pellenc.com/fr-fr/nos-produits/de-la-vigne-a-la-cave/viticulture/chenillard-autonome-interligne/rx-20) - Solutions de robotique viticole, dont le chenillard autonome interligne RX-20.
-- [SABI AGRI](https://sabi-agri.com/) - Tracteurs et robots agricoles électriques, avec plateforme ouverte pour la robotique agricole.
-- [VitiBot](https://vitibot.fr/) - Constructeur français de robots viticoles électriques autonomes.
-- [Vitirover](https://www.vitirover.com/) - Robots de tonte et de maintenance en viticulture.
+### Capteurs
 
-### Drones et robots aériens
+- [ADMIR](https://www.admir-analysis.com/) - Entrée cartographie France 2030 en Capteurs ; région : Auvergne-Rhône-Alpes ; type : Startup.
 
-- [AIROD Robotics](http://airod-robotics.com/) - Intégration de solutions robotiques et aériennes pour l'industrie.
-- [Azur Drones](https://www.azurdrones.com/fr/) - Solutions de surveillance et d'inspection par drone-in-a-box automatisé.
-- [Blue Smart Robotics](https://bluesmart-robotics.odoo.com/en) - Startup française de robotique appliquée à l'aéronautique.
-- [Delair](https://delair.aero/) - Drones professionnels pour usages industriels.
-- [Donecle](https://www.donecle.com/about-donecle/) - Drones autonomes d'inspection d'aéronefs pour la maintenance aéronautique.
-- [Dronisos](https://www.dronisos.com/) - Opérations de drones et essaims lumineux.
-- [Elistair](https://www.elistair.com/) - Drones filaires et solutions d'alimentation sécurisée.
-- [Parrot](https://www.parrot.com/) - Drones.
+### Drones aériens
 
-### Robots aquatiques et sous-marins
+- [AERIAL COBOTICUS SAS](http://www.aerialcoboticus.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : Startup.
+- [AERIX SYSTEMS](https://www.aerix-systems.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Atechsys Engineering](https://groupedci.fr/le-groupe/nos-marques/atechsys/) - Entrée cartographie France 2030 en Drones aériens ; région : Provence-Alpes-Côte d’Azur ; type : PME.
+- [DELAIR](https://delair.aero/) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : PME.
+- [Donecle SAS](https://www.donecle.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : Startup.
+- [DRONE ACT](https://www.drone-act.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Bretagne ; type : PME.
+- [DRONE GEOFENCING](https://drone-geofencing.com) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : Startup.
+- [DRONE INTERACTIVE](https://www.drone-interactive.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [DRONE VOLT](https://www.dronevolt.com/fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [DRONELIS](https://www.dronelis.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Pays de la Loire ; type : PME.
+- [ELISTAIR](https://elistair.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ELLISTAT](https://ellistat.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EOS Technologies](https://www.eos-technologie.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Flying Eye](https://www.flyingeye.fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [FLYRENOV](https://www.flyrenov.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Nouvelle-Aquitaine ; type : Startup.
+- [HARMATTAN](https://www.harmattan.ai/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [Hexadrone](http://www.hexadrone.fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [HEXO+](https://hexoplus.com/fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [HYLIGHT](https://www.hylight.aero/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [ICARUS SWARM](https://www.icarusswarms.ai/) - Entrée cartographie France 2030 en Drones aériens ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Lynxdrone](https://lynxdrone.fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Nouvelle-Aquitaine ; type : PME.
+- [MC2 Technologies](http://www.mc2-technologies.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Hauts-de-France ; type : PME.
+- [NOVADEM](https://www.novadem.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [PARROT](https://www.parrot.com/fr) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [SCALIAN](https://www.scalian.com/expertises/produits-solutions/unmanned-systems/) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : GE.
+- [Skydrone Robotics](http://www.skydrone-robotics.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Nouvelle-Aquitaine ; type : Startup.
+- [SQUADRONE SYSTEM](http://squadrone-system.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Survey Copter](http://www.survey-copter.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Techdron](https://www.techdrone.fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : PME.
+- [TIDAV](http://tidav.aero/) - Entrée cartographie France 2030 en Drones aériens ; région : Occitanie ; type : PME.
+- [TURGIS GAILLARD](https://www.turgisgaillard.com/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [UAVIA](https://uavia.eu/) - Entrée cartographie France 2030 en Drones aériens ; région : Île-de-France ; type : PME.
+- [VERDRONE](https://www.verdone.fr/) - Entrée cartographie France 2030 en Drones aériens ; région : Auvergne-Rhône-Alpes ; type : PME.
 
-- [ACWA Robotics](https://www.acwa-robotics.com/) - Robots sous-marins d'inspection pour réseaux d'eau.
-- [Exail](https://www.exail.com/) - Robotique maritime, drones et systèmes autonomes.
-- [Forssea Robotics](https://forssea-robotics.fr/) - Robotique sous-marine pour inspection et intervention.
-- [IADYS](https://www.iadys.com/) - Robots de surface pour collecte et monitoring environnemental.
-- [ROV Expert](https://rov-expert.fr/) - ROV, USV et capteurs pour opérations sous-marines.
-- [Subsea Tech](https://www.subsea-tech.com/fr/) - ROV, mini-ROV et USV pour inspection, infrastructures et opérations sous-marines.
-- [Watertracks](https://www.watertracks.fr/) - Solutions subaquatiques robotisées pour inspection et travaux sous-marins.
+### Electronique
 
-### Robots logistiques et mobiles autonomes
+- [ALEDIA](https://www.aledia.com/) - Entrée cartographie France 2030 en Electronique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [DIAMFAB](https://diamfab.com/) - Entrée cartographie France 2030 en Electronique ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [EP3E](https://www.mecanicvallee.com/annuaire-entreprises/ep3e/) - Entrée cartographie France 2030 en Electronique ; région : Occitanie ; type : PME.
+- [KEYSOM](https://keysom.io/) - Entrée cartographie France 2030 en Electronique ; région : Nouvelle-Aquitaine ; type : Startup.
+- [MELEXIS FRANCE](https://www.melexis.com/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : PME.
+- [MENTOR GRAPHICS France (Siemens EDA)](https://www.sw.siemens.com/fr-FR/technology/electronic-design-automation-eda/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : PME.
+- [MICRO-PACKS CIMPACA](https://www.cimpaca.org/) - Entrée cartographie France 2030 en Electronique ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [MICROWAVE CHARACTERIZATION (MC2)](https://www.mc2-technologies.com/en/) - Entrée cartographie France 2030 en Electronique ; région : Hauts-de-France ; type : PME.
+- [MURATA](https://www.murata.com/) - Entrée cartographie France 2030 en Electronique ; région : Normandie ; type : GE.
+- [NEXDOT](http://www.nexdot.fr/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : Startup.
+- [NEXESS](http://www.nexess-solutions.com/) - Entrée cartographie France 2030 en Electronique ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [S2P](https://s-2p.com/) - Entrée cartographie France 2030 en Electronique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SCINTIL PHOTONICS](https://www.scintil-photonics.com/) - Entrée cartographie France 2030 en Electronique ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [SEAMLESS WAVES](https://seamlesswaves.com/) - Entrée cartographie France 2030 en Electronique ; région : Occitanie ; type : Startup.
+- [SECURE-IC](https://www.secure-ic.com/) - Entrée cartographie France 2030 en Electronique ; région : Bretagne ; type : PME.
+- [SERMA TECHNOLOGIES](http://www.serma-technologies.com/) - Entrée cartographie France 2030 en Electronique ; région : Nouvelle-Aquitaine ; type : PME.
+- [Spin-Ion Technologies](https://www.spin-ion.com/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : Startup.
+- [STEERLIGHT](https://steerlight.com/) - Entrée cartographie France 2030 en Electronique ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [STEREOLABS](http://www.stereolabs.com/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : PME.
+- [STMICROELECTRONICS FRANC](https://www.st.com/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : GE.
+- [SYSNAV](https://www.sysnav.fr/) - Entrée cartographie France 2030 en Electronique ; région : Normandie ; type : PME.
+- [TPL SYSTEMES](https://tplsystemes.com/) - Entrée cartographie France 2030 en Electronique ; région : Nouvelle-Aquitaine ; type : PME.
+- [VITEC S.A.](http://www.vitec.com/) - Entrée cartographie France 2030 en Electronique ; région : Île-de-France ; type : PME.
 
-- [AGV Mécatronique](https://www.agv-mecatronique.com) - Robotique mobile, mécatronique et ingénierie de robots autonomes.
-- [Balyo](https://www.balyo.com/) - Robotisation de chariots et logistique autonome.
-- [EasyMile](https://easymile.com/en/) - Technologies d'autonomie pour véhicules industriels, logistiques et aéroportuaires.
-- [E-COBOT](https://e-cobot.com) - Robotique mobile autonome et IA pour l'industrie et la logistique.
-- [Exotec](https://www.exotec.com/) - Robotique logistique pour entrepôts.
-- [MecaBotiX](https://www.mecabotix.com) - Robots collaboratifs modulaires pour usages intralogistiques.
-- [Meanwhile](https://meanwhile-france.com/) - Solutions de robotique mobile autonome pour le transport de biens.
-- [QENVI Robotics](https://www.qenvirobotics.com) - Robots suiveurs, autonomes et solutions de gestion de flotte.
-- [ROB'OCC](https://www.robocc.fr) - Robots mobiles autonomes indoor pour logistique et manutention.
-- [SCALLOG](https://www.scallog.com) - Systèmes robotisés de préparation de commandes pour entrepôts.
-- [SHERPA Mobile Robotics](https://www.sherpa-mr.com) - Robots mobiles autonomes pour logistique et intralogistique.
-- [Stanley Robotics](https://stanley-robotics.com/) - Robotisation de parkings par valet autonome.
-- [TwinswHeel](http://www.twinswheel.fr/) - Robots mobiles autonomes pour logistique et livraison.
+### End-User
 
-### Cobots et robotique industrielle
+- [Air Liquide](https://www.airliquide.com/fr) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
+- [ALCATEL SUBMARINE NETWORKS](https://www.asn.com/) - Entrée cartographie France 2030 en End-User ; région : Ile-de-France ; type : GE.
+- [DRACULA TECHNOLOGIES](https://dracula-technologies.com/) - Entrée cartographie France 2030 en End-User ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EDF HYDRO](https://www.edf.fr/hydraulique-pays-de-savoie) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
+- [ELECTRO REFINING](https://www.weeecycling.com/fr/) - Entrée cartographie France 2030 en End-User ; région : Normandie ; type : PME.
+- [ELVIA PRINTED CIRCUIT BO](https://elviaelectronics.com/) - Entrée cartographie France 2030 en End-User ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [MERSEN France](https://www.mersen.com/) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
+- [MESSAGERIES FLUVIALES](https://river-connect.fr/) - Entrée cartographie France 2030 en End-User ; région : Occitanie ; type : PME.
+- [Michelin](https://www.michelin.com/expertise/des-savoir-faire-piliers-du-leadership-technologique-de-michelin/concevoir-et-industrialiser) - Entrée cartographie France 2030 en End-User ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [Nanoe](http://www.nanoe.com/fr/) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : PME.
+- [NAVAL GROUP](https://www.naval-group.com/fr) - Entrée cartographie France 2030 en End-User ; région : Pays de la Loire ; type : GE.
+- [NEOLITHE](https://neolithe.fr/) - Entrée cartographie France 2030 en End-User ; région : Pays de la Loire ; type : PME.
+- [NORIMAT](https://www.norimat.com/) - Entrée cartographie France 2030 en End-User ; région : Occitanie ; type : PME.
+- [NOVALIX STE](http://www.novalix.com/) - Entrée cartographie France 2030 en End-User ; région : Grand Est ; type : PME.
+- [POTEZ AÉRONAUTIQUE](http://www.potez.com/) - Entrée cartographie France 2030 en End-User ; région : Nouvelle-Aquitaine ; type : PME.
+- [RECIF TECHNOLOGIES](http://www.reciftech.com/) - Entrée cartographie France 2030 en End-User ; région : Occitanie ; type : PME.
+- [REDEX](http://www.redex-group.com/) - Entrée cartographie France 2030 en End-User ; région : Centre-Val de Loire ; type : PME.
+- [Suez](https://www.suez.com/fr/groupe/innovation/nos-centres-de-recherche-et-d-expertise) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
+- [Syensgo](https://www.syensqo.com/fr/france/bordeaux) - Entrée cartographie France 2030 en End-User ; région : Nouvelle-Aquitaine ; type : GE.
+- [UNITED MONOLITHIC SEMICO](https://www.ums-rf.com/) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
+- [VALEMO](https://www.valemo.fr/) - Entrée cartographie France 2030 en End-User ; région : Nouvelle-Aquitaine ; type : PME.
+- [Vinci Energie (Robots for Site)](https://leonard.vinci.com/robots-for-site-invente-les-nouvelles-equipes-de-chantier/) - Entrée cartographie France 2030 en End-User ; région : Île-de-France ; type : GE.
 
-- [Actemium Toulouse Robotique](https://www.actemium.fr/entreprise/actemium-toulouse-robotique-automation/) - Intégration de cellules robotisées pour l'industrie.
-- [Cobot One](https://cobot-one.com/fr/) - Cobots industriels pour automatisation, assemblage, soudage et dosage.
-- [ECM Robotics](https://www.ecm-robotics.com/) - Intégration robotique et automatisation industrielle.
-- [EEPROM ROBOTICS](https://eeprom-robotics.com/) - Automatismes, robotique et informatique industrielle pour systèmes de production.
-- [Niryo](https://niryo.com/) - Bras robotisés pédagogiques et industriels.
-- [Percipio Robotics](http://www.percipio-robotics.com) - Solutions cobotiques et robotiques pour micro-assemblage et micro-fabrication.
-- [RB3D](https://www.rb3d.com/fr/produits/) - Exosquelettes et solutions cobotiques d'assistance à l'effort.
-- [Sepro Group](https://www.sepro-group.com/fr_FR/) - Robotique et automatisation pour presses à injection et environnements industriels.
-- [SILEANE](https://www.sileane.com/) - Robotique industrielle, vision et systèmes adaptatifs.
+### IA4Robotique
 
-### Robots médicaux, chirurgicaux et d'assistance
+- [ADAGOS](http://www.adagos.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Occitanie ; type : Startup.
+- [AGEATIS](http://www.agaetis.fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [AIRUDIT](https://www.airudit.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Nouvelle-Aquitaine ; type : Startup.
+- [AKAWAN](https://www.akawan.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Occitanie ; type : PME.
+- [Another Brain](https://anotherbrain.ai/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [ARCURE](https://blaxtair.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [CAPGEMINI AI Robotics and Experiences Lab](https://www.capgemini.com/about-us/who-we-are/innovation-ecosystem/ai-robotics-experiences-lab/) - Entrée cartographie France 2030 en IA4Robotique ; région : Occitanie ; type : GE.
+- [Cyberus-ai](https://cyberus-ai.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [Deepomatic](https://deepomatic.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [DEPLACE AI](https://deplaceai.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [DI-ANALYSE SIGNAL](https://dianalyse.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [Enchanted Tools](https://enchanted.tools/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [Haapie](https://haapie.com/index.php/fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Bretagne ; type : Startup.
+- [HawAI.tech](https://marketing.hawaitech.com/home) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [IADYS](https://www.iadys.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Provence-Alpes-Côte d'Azur ; type : Startup.
+- [INNODURA](https://www.innodura.fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [INQU-AI](https://inqu-ai.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Hauts-de-France ; type : Startup.
+- [Jolibrain](https://jolibrain.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Occitanie ; type : PME.
+- [LEARNING ROBOTS](https://www.learningrobots.ai/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [Lettria](https://www.lettria.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [MARSO ROBOTICS](https://marsorobotics.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Hauts-de-France ; type : Startup.
+- [MEEDIA](https://www.meedia.ai/) - Entrée cartographie France 2030 en IA4Robotique ; région : Bretagne ; type : Startup.
+- [Mistral AI](https://mistral.ai/fr) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [MOTILDE](https://motilde.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [NANVER LABS](https://europe.naverlabs.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [NeoVision](http://neovision.fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [NEURAL VISION](https://neuralvision.co/) - Entrée cartographie France 2030 en IA4Robotique ; région : Corse ; type : Startup.
+- [Neuronaix](https://www.neuronaix.com) - Entrée cartographie France 2030 en IA4Robotique ; région : Provence-Alpes-Côte d’Azur ; type : Startup.
+- [PHOSPHO](https://robots.phospho.ai/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [PRISTINE ROBOTICS](https://pristine-robotics.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Bretagne ; type : PME.
+- [Probayes](http://www.probayes.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Robocortex](http://www.robocortex.com) - Entrée cartographie France 2030 en IA4Robotique ; région : Provence-Alpes-Côte d'Azur ; type : Startup.
+- [ROBOT FUTURES](https://robotfutures.co/) - Entrée cartographie France 2030 en IA4Robotique ; région : Nouvelle-Aquitaine ; type : PME.
+- [Scortex](https://scortex.io/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [Spirops](http://www.spirops.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : PME.
+- [SYNAPSE DEVELOPPEMENT](http://www.synapse-developpement.fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Occitanie ; type : PME.
+- [THALES Cortaix](https://www.thalesgroup.com/fr/monde/securite/press_release/thales-accelere-lia-defense) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : GE.
+- [THALES TAS / Thales](https://www.thalesgroup.com/fr) - Entrée cartographie France 2030 en IA4Robotique, Robotique Spatiale ; région : Nouvelle-Aquitaine, Île-de-France ; type : GE.
+- [UMA](https://uma.bot/) - Entrée cartographie France 2030 en IA4Robotique ; région : Île-de-France ; type : Startup.
+- [VITA COGNITION](https://vitacognition.com/) - Entrée cartographie France 2030 en IA4Robotique ; région : Normandie ; type : Startup.
+- [Yumain](https://yumain.fr/) - Entrée cartographie France 2030 en IA4Robotique ; région : Bourgogne-Franche-Comté ; type : Startup.
 
-- [AcuSurgical](https://acusurgical.com/) - Robotique chirurgicale dédiée à la chirurgie rétinienne.
-- [AMAROB Technologies](https://www.amarob.com/) - Microrobotique chirurgicale.
-- [BHealthCare](https://www.bhealthcare.com/) - Robotique médicale autonome pour prélèvements sanguins.
-- [DIGISURGE](http://www.digisurge.fr/) - Plateforme robotique pour interventions cardiaques structurelles par cathéter.
-- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Solutions de robotique chirurgicale et de guidage peropératoire.
-- [Ganymed Robotics](https://www.ganymedrobotics.com/) - Robotique chirurgicale orthopédique.
-- [MinMaxMedical](https://www.minmaxmedical.com/) - Robotique chirurgicale, navigation et logiciels pour chirurgie digitale.
-- [Moon Surgical](https://www.moonsurgical.com/) - Système robotique chirurgical Maestro pour chirurgie mini-invasive.
-- [Quantum Surgical](https://www.quantumsurgical.com/) - Robots médicaux pour traitement interventionnel des tumeurs.
-- [Robeauté](https://robeaute.com) - Microrobots dédiés à la neurochirurgie.
-- [Robocath](https://www.robocath.com/) - Robotique endovasculaire.
-- [Wandercraft](https://www.wandercraft.eu/) - Exosquelettes et robotique d'assistance.
+### Informatique Industrielle
 
-### Robots de service, humanoïdes et interaction
+- [ACEL-GENESYS](https://acelgenesys.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [ACPI](https://www.acpi.tech/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [ACTIVUS](https://www.equinix.com/fr) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [AKEROS](https://akeros.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Alma](https://www.alma.fr/alma-expert-logiciels-robotique-industrielle/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Bourgogne-Franche-Comté ; type : PME.
+- [ALTAROAD](https://www.altaroad.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [APHELIO](https://aphelio.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ASYGN](https://asygn.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ATIM](https://www.atim.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Beckoff Automation](https://www.beckhoff.com/fr-fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [BRAINCUBE](https://braincube.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : Startup.
+- [BRIGHTLOOP](https://brightloop.fr/fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [Custocy](https://www.custocy.ai/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Occitanie ; type : PME.
+- [CyberInflight](https://www.cyberinflight.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Occitanie ; type : PME.
+- [DELFOX - PREDICTIVE TECH](https://www.delfox.net/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [DIGISENS](https://www.digisens3d.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [DomNexX](http://www.domnexx.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EKINOPS](https://www.ekinops.com/fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [Fieldbox](https://www.fieldbox.ai/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : Startup.
+- [FIRECELL](https://firecell.io/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [Fives CortX](https://www.fivesgroup.com/fr/digital-solutions-ai) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [GO2CAM](https://go2cam.net/fr) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Go4iot](https://go4iot.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [GREEN COMMUNICATIONS](https://www.green-communications.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [Holoforge Interactive](http://www.holoforge.io/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [IC'ALPS](https://www.icalps.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [InterCellar](https://www.intercellar.io/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : Startup.
+- [Intuitive Robots](http://www.intuitive-robots.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Pays de la Loire ; type : Startup.
+- [IOTIZE](https://www.iotize.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [KALRAY](https://www.kalrayinc.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [NOVALYNX](https://novalynx.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Occitanie ; type : PME.
+- [NXP SEMICONDUCTORS FRANC](http://www.nxp.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Occitanie ; type : GE.
+- [OSE ENGINEERING](https://www.ose-engineering.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : PME.
+- [PLANILOG](https://www.planilog.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [Purecontrol](https://www.purecontrol.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Bretagne ; type : Startup.
+- [Siemens Digital Industry](https://www.sw.siemens.com/fr-FR/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : GE.
+- [SVD Robotics](https://svd-robotics.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [TERNWAVES](https://www.ternwaves.com/fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : Startup.
+- [THALES DIS FRANCE SAS](https://www.thalesgroup.com/en/enterprise) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : GE.
+- [Uniswarm](https://uniswarm.fr/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [VISTORY](https://vistory.com/) - Entrée cartographie France 2030 en Informatique Industrielle ; région : Île-de-France ; type : Startup.
 
-- [Awabot](https://awabot.com/) - Robotique de téléprésence pour inclusion, santé et collaboration à distance.
-- [Blue Frog Robotics](https://www.bluefrogrobotics.com/) - Robots de service et d'interaction.
-- [Enchanted Tools](https://enchanted.tools/) - Robots de service.
-- [Pollen Robotics](https://www.pollen-robotics.com/) - Robots open source, dont Reachy.
-- [Robosoft](https://www.robosoft.com/) - Acteur historique de la robotique de service en santé, logistique, défense et transport.
+### Intégrateur
 
-### Robots d'intervention, d'inspection et de chantier
+- [2IVAL](https://www.2ival.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [3A alpes Automatic](http://3-a.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [A2G Robotics](https://a2grobotics.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [ABS Robotique](https://absrobotics.ch/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ACEA Automatisme](https://www.acea.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ACTENIUM](https://www.actemium.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : GE.
+- [ACTIL](https://www.actil.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [ADELCOBO](https://adelcobo.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ADF Group](https://www.groupeadf.com/fr) - Entrée cartographie France 2030 en Intégrateur ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [ADNTECH](https://adntech.pro/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [AEROSPLINE / AI Robotics France](https://airobotics.fr/) - Entrée cartographie France 2030 en Intégrateur, Robotique de Service, IA4Robotique ; région : Nouvelle-Aquitaine, Île-de-France, Pays de la Loire ; type : PME, Startup.
+- [AGILEO](https://www.agileo.com/fr) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [AGILOX France](https://www.agilox.net/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [AGV Mécatronique](https://www.agv-mecatronique.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [AIP Aquitaine](https://aip-aquitaine.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [AIROD ROBOTICS](https://airod-robotics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [AKKA Technologies](https://www.akka-technologies.com) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : GE.
+- [AKKODIS](https://www.akkodis.com/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [ALCEN](https://www.alcen.com/fr) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [ALPHA PROCESS](https://alpha-process.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [APA](https://www.apafrance.com/robotique-vision) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [Archytas Robotics](https://archytasrobotics.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [ARMIN-ROBOTICS FRANCE](http://www.armin-robot.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ARSN](https://www.arsn.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [ARVIN AUTOMATISMES](https://www.arvin-automatismes.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [ASSYSTEM](https://www.assystem.com) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [Asterion Robotics](https://asterion-robotics.odoo.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : Startup.
+- [ATEA](https://www.atea.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [AUTOMATISME VISION TECHNOLOGIE](https://www.avitec.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [B-ROBOT](https://www.b-robot.eu/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [B-ROBOTICS](http://b-robotic.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [BARGY Automation](https://www.bargy-automation.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [BELLIER SOLUTION ROBOTIQUE](https://beller-solutions-robotiques.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [Bouygues Energies et Services (SEA Productique - Equans Digital)](https://www.equans-digital.com/equans-digital-france/sea-productique) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : GE.
+- [BUCCI Industrie](https://www.bucci-industries.com/fr/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [CERIA](http://www.ceria.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [CL  AUTOMATISMES](http://cl-automatismes.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [CLEIA](http://www.cleia.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [CMS Automatismes](http://www.cms-automatisme.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [COAXIAL TECHNOLOGIES](https://www.coaxial-technologie.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [CPT France](https://www.schaeffler.com/en/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [CR-Industry](https://tractmoi.com/qui-sommes-nous/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : GE.
+- [Crome Automation](https://crome-automation.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [CYBERIA](https://cyberia-robotics.com/a-propos-de-cyberia/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [DELCAIN](https://www.delcain.com/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Delta Equipements](https://www.delta-equipement.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [DELTA-IO](http://www.delta-io.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [DEPLOY Robotics](https://www.deploy-robotics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [DreamTech](http://www.dreamtech.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [DV ELECTRICITE](https://dv-group.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [ECMA Concept](https://ecma-concept.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Eeprom Robotics](https://eeprom-robotics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [Eiffage Energie Systemes - AUTOMATISMES & ROBOTIQUE (EES - A&R)](https://www.eiffageenergiesystemes.com/home) - Entrée cartographie France 2030 en Intégrateur ; région : Ile-de-France ; type : GE.
+- [EKIUM](https://www.ekium.eu/robotique-de-laboratoire/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [ELITE ROBOTIQUE](https://fr.eliterobots.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [Elyiotec (EEPI Robotics)](http://www.eepi-robotics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [ELYOTEC](https://www.elyotec.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [EMANOR](http://www.emanor.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [ENGLAB](https://www.technologyandstrategy.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : GE.
+- [Equans](https://www.equans-digital.com/equans-digital-france/robotique) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [EUROBAUT](https://www.eurobaut.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [EUROPE TECHNOLOGIES STE](https://europetechnologies.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [EXCEENIS](https://www.exceenis.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [Excent](https://www.excent.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [FB Robotique](https://fbrobotique.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [FG MECA](http://www.fgmeca.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [FINRIP](https://www.finrip.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [FIT robotique](https://www.fit-robotique.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Five Seylep](https://www.syleps.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : GE.
+- [Fives Machining](https://www.fivesgroup.com/fr/nos-activites/high-precision-machines) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : GE.
+- [GAAT](http://gaat.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Centre-Val de Loire ; type : PME.
+- [GAPE-Automatisme](https://gape-cobots.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [GARBE AUTOMATISMES](http://www.garbe-automatisme.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [GEBE2](https://gebe2-et.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Group STSI](https://www.group-stsi.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [GT Robotique (UPICO)](https://gtrobotique.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Guignard Robotisation](https://www.guignard.fr/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [HEVERETT GROUP](https://heverett-group.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [Hubert Process & Robotique](https://www.hubertprocess.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [HUMAROBOTICS](https://www.humarobotics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [HUPICO](https://www.hupico.fr/fr) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Ideatech Robotique](https://www.ideatech.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ILLUMO ROBOTICS](https://www.illumo.ai) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [INDUSAP](http://www.indusap.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [INEDIIA](https://www.inediia.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [INTERLAB](https://www.interlab.bio/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [IQANTO](https://www.snef.fr/iqanto/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ISYCOD](https://isycod.fr/contact/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ITEM](https://item24.com/fr-fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [JL CORP](http://www.jlcorp.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [JR AUTOMATION](https://www.jrautomation.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [KICKMAKER](https://www.kickmaker.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [L&P Engineering,](http://lp-engineering.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [LACROIX](https://www.lacroix-group.com/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Lexem Automation](http://www.lexem-automation.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [LM AUTOMATION](https://lm-automation.fr/Integration-Robotique-RENNES.html) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [LS ROBOTIQUE](https://lasolutionrobotique.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [MA2i](https://ma2i.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [MABIN](https://www.mabin.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [MAINDUSTRIE](https://www.maindustrie.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [MCA Process](https://mca-process.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [Mecaconcept](https://www.mecaconcept.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Mexence Digital & Robotics](http://www.mexence.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : Startup.
+- [MIDEP Robotique](http://www.midep.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [MIG Automation](https://www.mig-automation.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [MINTAKA SYSTEM INNOVATION (MS-Innov)](https://ms-innov.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [MPI Automatisation](https://www.mpi-technologies.com/fr/index.html) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [MPI Technologies](https://www.mpi-technologies.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [NBS TECHNOLOGIES](https://www.nbstech.eu.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [NEED robotics](http://www.needrobotics.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [Neos Technologie](https://www.neos-solutions.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [NOVATICS](https://www.novatics.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [OCA Convoyeur](https://www.oca.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [OFFICIIS & ROBOTIQUE](https://www.officiis-robotique63.com/integration.html) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [OIR ROBOTIQUE](https://www.oir-robotique.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [Opteamum](https://www.opteamum.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [PI SYSTEM AUTOMATION](https://www.pi-system-automation.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [PRODEL Automation SAS](https://www.ipte.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [Pygmatec](http://www.pygmatec.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Centre-Val de Loire ; type : PME.
+- [QUOTEX](https://quotex.eu/contact/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [R&D Technology](http://www.rd.technology/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [RECMI Industrie](https://www.recmi-industrie.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [REKA Industrie](https://reka-industrie.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [Revtech Systèmes](https://revtech-process-systems.com//) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [RJ INDUSTRIE](https://www.groupe-rj.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROBAUT CONCEPTION](http://www.robaut.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROBOAPPS](https://www.robapps.fr/robapps/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Roboost](https://www.roboost-sdh.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROBORATIVE](https://roborative.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [ROBOT ATELIER](https://www.robot-atelier.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [Robot Systems](https://robotsystemproducts.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Robotics3S](https://robotic3s.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROBOTIQ](https://robotiq.com/fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROBSIM](http://www.robsim.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [ROMOTECH](https://www.romotech.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
+- [ROUX JOURFIER](http://www.groupe-rj.com/contact/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ROVALTECH](http://www.rovaltech.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SAB Robotique](https://groupe-sab.fr/robotique/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SACMO](https://www.sacmo.com/fr/specialiste-du-conditionnement/programmation/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [SB PROCESS](https://sbprocess.fr/robotique/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SCOVAL](https://www.scoval.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Centre-Val de Loire ; type : PME.
+- [SECMA](https://www.secma-sa.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [SEEB Automation](https://www.groupeseeb.com/robotique-cobotique.html) - Entrée cartographie France 2030 en Intégrateur ; région : Bourgogne-Franche-Comté ; type : PME.
+- [SEMO](http://www.semo.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [SEMSO](http://www.semso.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [SERAAP](https://seraap.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [SERMAZ](https://www.sermaz.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Occitanie ; type : PME.
+- [SIGMA France](https://sigma-france.fr/reference-robotique) - Entrée cartographie France 2030 en Intégrateur ; région : Hauts-de-France ; type : PME.
+- [SMI IA](https://smi-ia.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Nouvelle-Aquitaine ; type : PME.
+- [SOLECAD](https://solecad.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SOLU-TECH](https://www.solu-tech.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [Sowilo Technologies](http://www.sowilo-technologies.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [Specigone](https://www.specigone-industries.fr/machines-speciales/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SPR](https://www.groupe-spr.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [SYBOTX](https://sybotx.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Synaptiks](https://synaptik.ai/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [TD CONCEPTION](https://www.td-conception.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [TECAUMA](http://www.tecauma.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Pays de la Loire ; type : PME.
+- [Tech3D](https://tech3d-france.com/) - Entrée cartographie France 2030 en Intégrateur ; région : Grand Est ; type : PME.
+- [TECHPLUS](http://www.techplus.net/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Visiobotic](https://www.visiobotic.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Normandie ; type : PME.
+- [VisioShape](http://www.visioshape.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [West Robotic](http://www.westrobotic.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Bretagne ; type : PME.
+- [XPERT ROBOT](https://www.xpert-robot.fr/) - Entrée cartographie France 2030 en Intégrateur ; région : Île-de-France ; type : PME.
 
-- [ILD·IS Robotics](https://ild-solutions.com/) - Solutions robotisées autonomes pour entretien, inspection et surveillance de centrales photovoltaïques.
-- [Nimble One](https://nimbleone.io/) - Robotique d'inspection et de maintenance pour environnements industriels.
-- [PaintUP](https://www.paintup.fr) - Robot collaboratif de traitement de façade pour le BTP.
-- [Running Brains Robotics](https://www.runningbrainsrobotics.com/fr/) - Robots d'inspection et de sécurité pour sites industriels.
-- [Shark Robotics](https://www.shark-robotics.com/) - Robots d'intervention pour sécurité et incendie.
-- [SFYNX Industry](https://sfynx-industry.com) - Robotique terrestre et aquatique pour usages industriels.
+### Intralogistique
 
-### Vision, capteurs, embarqué et technologies d'appui
+- [Alstef](https://www.alstefgroup.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Centre-Val de Loire ; type : GE.
+- [APROLIS](https://www.aprolis.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [BALYO](https://www.balyo.com/fr-fr/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [BOA CONCEPT](https://www.boa-concept.com/fr-fr) - Entrée cartographie France 2030 en Intralogistique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [E-COBOT](https://e-cobot.solutions/) - Entrée cartographie France 2030 en Intralogistique ; région : Pays de la Loire ; type : PME.
+- [EASYMOV Robotics](https://www.euroquity.com/en/company/easymov-robotics) - Entrée cartographie France 2030 en Intralogistique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EXOTEC](https://www.exotec.com/fr/) - Entrée cartographie France 2030 en Intralogistique ; région : Hauts-de-France ; type : PME.
+- [Fives Xcella](https://www.fivesgroup.com/fr/) - Entrée cartographie France 2030 en Intralogistique ; région : Bretagne ; type : GE.
+- [FORX](https://www.forx.rent/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [Galam Robotics](https://www.galam-robotics.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [Generix Group](https://www.generixgroup.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [IFOLLOW SAS](https://www.ifollow.fr/robots-autonomes-mobiles-logistique/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [JNOV TECH](http://www.jnovtech.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Occitanie ; type : PME.
+- [MEANWHILE](http://www.meanwhile-france.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Savoye](https://www.savoye.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Bourgogne-Franche-Comté ; type : PME.
+- [SCALLOG](https://www.scallog.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Île-de-France ; type : PME.
+- [SEQUENCE ROBOTICS](https://sequence-robotics.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Grand Est ; type : PME.
+- [SHERPA Mobile Robotics](https://sherpa-mr.com/) - Entrée cartographie France 2030 en Intralogistique ; région : Grand Est ; type : PME.
 
-- [DEFITECH](https://defitech.fr/) - Préhenseurs par vide et composants d'effecteurs pour robots et drones.
-- [ELWAVE](https://www.elwave.fr/) - Capteurs de détection électromagnétique pour applications robotiques.
-- [Fuzzy Logic Robotics](https://flr.io/fr-fr/) - Plateforme logicielle pour déploiement rapide de cellules robotiques industrielles.
-- [Haption](https://www.haption.com/) - Interfaces haptiques et téléopération pour applications robotiques.
-- [Inbolt](https://www.inbolt.com/) - Vision 3D temps réel pour robots industriels.
-- [Kalray](https://www.kalrayinc.com/) - Processeurs et accélération pour systèmes embarqués intensifs.
-- [MicroEJ](https://www.microej.com/) - Plateforme logicielle pour systèmes embarqués et objets connectés.
-- [OpenIndus](https://www.openindus.com/) - Automates modulaires pour machines industrielles et robots mobiles.
-- [Perception4D](https://perception4d.com/) - Bureau d'études spécialisé en LiDAR 3D, SLAM et localisation robotique.
-- [Prophesee](https://www.prophesee.ai/) - Capteurs de vision neuromorphiques.
-- [Symétrie](https://symetrie.fr/) - Plateformes de mouvement et hexapodes pour applications robotiques et industrielles.
-- [VISIONIC](https://www.visionic.fr) - Vision industrielle, robotique agile et intelligence artificielle pour l'industrie.
+### Logistique
+
+- [MEKAPHARMA](http://www.mekapharm.fr/) - Entrée cartographie France 2030 en Logistique ; région : Normandie ; type : PME.
+- [PHARMAX](http://www.pharmax.fr/) - Entrée cartographie France 2030 en Logistique ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+
+### Machines spéciales
+
+- [BOSCH ROBERT STE](https://www.boschrexroth.com/fr/fr/produits/solutions-industrielles/robotique-mobile/) - Entrée cartographie France 2030 en Machines spéciales ; région : Auvergne-Rhône-Alpes ; type : GE.
+
+### Micro-robotique
+
+- [3DIS TECHNOLOGIES](https://www.3dis-tech.com/) - Entrée cartographie France 2030 en Micro-robotique ; région : Occitanie ; type : PME.
+
+### Navigation autonome
+
+- [iNGAGE](https://www.ingage-mems.com/) - Entrée cartographie France 2030 en Navigation autonome ; région : Auvergne-Rhône-Alpes ; type : Startup.
+
+### Procédés
+
+- [3D-ICONIC](https://www.3d-iconic.com/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [3Deus Dynamics](https://3deusdynamics.com/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [ADDUP](https://www.decip.fr/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : ETI.
+- [AIR LIQUIDE ELECTRONICS](https://electronics.airliquide.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : GG.
+- [AMBPR](https://ambpr.com/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [AMFREE](https://amfree.eu/) - Entrée cartographie France 2030 en Procédés ; région : Grand Est ; type : Startup.
+- [ANIAH](https://aniah.fr/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [AVEL ROBTICS](https://www.avelrobotics.com/) - Entrée cartographie France 2030 en Procédés ; région : Bretagne ; type : PME.
+- [Bayad Industrie](http://www.bayab.fr/) - Entrée cartographie France 2030 en Procédés ; région : Occitanie ; type : PME.
+- [CAILABS](https://www.cailabs.com/fr/) - Entrée cartographie France 2030 en Procédés ; région : Bretagne ; type : Startup.
+- [CIRTES](https://www.cirtes.com/) - Entrée cartographie France 2030 en Procédés ; région : Grand Est ; type : PME.
+- [CONSTRUCTIONS - 3D](https://www.constructions-3d.com/fr) - Entrée cartographie France 2030 en Procédés ; région : Hauts-de-France ; type : Startup.
+- [CORIOLIS COMPOSITES](https://www.coriolis-composites.com/) - Entrée cartographie France 2030 en Procédés ; région : Bretagne ; type : Startup.
+- [COSMYX](https://www.cosmyx3d.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [CRYMIROTECH](https://monomeris-chemicals.com/) - Entrée cartographie France 2030 en Procédés ; région : Hauts-de-France ; type : PME.
+- [DELTA MU](http://www.deltamu.com/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EDDYFI](https://www.eddyfi.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [Erowa France](https://www.erowa.fr/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ERPO](http://www.erpo.fr/) - Entrée cartographie France 2030 en Procédés ; région : Occitanie ; type : PME.
+- [FABULOUS](https://fabulous.com.co/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : Startup.
+- [FLYING VISION](https://www.flying-vision.com/) - Entrée cartographie France 2030 en Procédés ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [G-HBP](https://hbp.group/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [GEOMNIA](https://www.geomnia.eu/fr) - Entrée cartographie France 2030 en Procédés ; région : Hauts-de-France ; type : PME.
+- [HUMMINK](http://hummink.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : Startup.
+- [INVERT ROBOTICS](https://invertrobotics.com/) - Entrée cartographie France 2030 en Procédés ; région : Hauts-de-France ; type : PME.
+- [ION BEAM SERVICES](https://www.ion-beam-services.com/) - Entrée cartographie France 2030 en Procédés ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [IUMTEK](https://iumtek.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : Startup.
+- [KELENN TECHNOLOGY](https://kelenntech.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [LABORATOIRES NANO](http://www.laboratoires-nano.com/) - Entrée cartographie France 2030 en Procédés ; région : Occitanie ; type : PME.
+- [Lassarat](https://www.lassarat.com/) - Entrée cartographie France 2030 en Procédés ; région : Normandie ; type : PME.
+- [Lectra](https://www.lectra.com/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [LIGENTEC FRANCE](http://www.ligentec.fr/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [lynxter](https://lynxter.com/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [MATRASUR COMPOSITE](https://matrasurcomposites.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [MELIAD](https://www.meliad-sas.com/) - Entrée cartographie France 2030 en Procédés ; région : Pays de la Loire ; type : PME.
+- [METALIS Group](https://www.metalis-group.com/) - Entrée cartographie France 2030 en Procédés ; région : Bourgogne-Franche-Comté ; type : GE.
+- [NHOD Industries](https://nhod-industries.com/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [Novadditive](http://novadditive.fr/) - Entrée cartographie France 2030 en Procédés ; région : Occitanie ; type : PME.
+- [PISEO](http://www.piseo.fr/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [RESCOLL](https://rescoll.fr/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [ROBOCOL](https://www.robocol.com/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [SAFRAN ADDITIVE MANUFACTURING CAMPUS](https://www.lindustrie-recrute.fr/entreprise/19191/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : GE.
+- [TMUA](http://www.tmua.fr/) - Entrée cartographie France 2030 en Procédés ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [TPSH](https://www.tpsh.fr/) - Entrée cartographie France 2030 en Procédés ; région : Île-de-France ; type : PME.
+- [V.L.M. Robotics](http://www.vlm-robotics.fr/) - Entrée cartographie France 2030 en Procédés ; région : Nouvelle-Aquitaine ; type : PME.
+- [VOLUM-E](http://www.volum-e.com/) - Entrée cartographie France 2030 en Procédés ; région : Normandie ; type : PME.
+
+### Programmation Robotique
+
+- [3IDM](https://www.3idm.fr/nos-prestations/robomaster-nantes/) - Entrée cartographie France 2030 en Programmation Robotique ; région : Centre-Val de Loire ; type : PME.
+- [ADAXIS](https://adaxis.eu/) - Entrée cartographie France 2030 en Programmation Robotique ; région : Nouvelle-Aquitaine ; type : Startup.
+- [DASSAULT SYSTEMES / Dassault Systemes (Delmia)](https://discover.3ds.com/fr/) - Entrée cartographie France 2030 en Programmation Robotique ; région : Île-de-France ; type : GE.
+
+### Robotique Agricole
+
+- [AISPRID](https://aisprid.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Bretagne ; type : Startup.
+- [Cyclair](https://cyclair.fr/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Dilepix (Bretagne)](https://www.dilepix.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Bretagne ; type : PME.
+- [Dilepix (Provence-Alpes-Côte d’Azur)](https://www.dilepix.com/fr/machinisme-robotique) - Entrée cartographie France 2030 en Robotique Agricole ; région : Provence-Alpes-Côte d’Azur ; type : PME.
+- [Dussau Development](http://www.dussau-developpement.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Nouvelle-Aquitaine ; type : PME.
+- [ELATEC](https://www.elatec-rfid.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Occitanie ; type : PME.
+- [Exxact Robotics](https://exxact-robotics.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Grand Est ; type : PME.
+- [INSTAR Robotics](https://instar-robotics.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Île-de-France ; type : Startup.
+- [LEGER SAS](https://www.legersas.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Nouvelle-Aquitaine ; type : Startup.
+- [MAF AGROBOTIC](https://www.maf-roda.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Occitanie ; type : PME.
+- [NAIO Technologies](http://naio-technologies.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Occitanie ; type : PME.
+- [OCTOPUS](https://www.octopusbiosafety.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Bretagne ; type : Startup.
+- [OSIRIS AGRICULTURE](https://osiris-agriculture.fr/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Hauts-de-France ; type : PME.
+- [SABIAGRI](http://www.sabi-agri.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SITIA](http://www.sitia.fr/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Pays de la Loire ; type : PME.
+- [SIZA ROBOTICS](https://siza-robotics.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Occitanie ; type : Startup.
+- [SYLETKIS](https://www.sylektis.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Île-de-France ; type : Startup.
+- [VITIBOT](https://www.vitibot.fr/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Nouvelle-Aquitaine ; type : startup.
+- [VITIROVER](http://www.vitirover.com/) - Entrée cartographie France 2030 en Robotique Agricole ; région : Nouvelle-Aquitaine ; type : PME.
+
+### Robotique Autonome
+
+- [ABLIX](https://ablix.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Nouvelle-Aquitaine ; type : PME.
+- [AGREENCULTURE](https://www.agreenculture.fr/fr) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : Startup.
+- [CONSCIENCE ROBOTICS](https://conscience-robotics.com/fr_fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Normandie ; type : Startup.
+- [CONTINENTAL AUTOMOTIVE F](https://www.continental.com/fr-fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : GE.
+- [EASYMILE](https://easymile.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : PME.
+- [ECA robotics / Exail Robotics](https://www.exail.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie, Provence-Alpes-Côte d'Azur ; type : PME, GE.
+- [Elwave](https://elwave.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Pays de la Loire ; type : Startup.
+- [EX9](https://ex9.tech/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : Startup.
+- [Exwayz](https://www.exwayz.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : Startup.
+- [GENERATE (ex DIBOTIX)](https://www.dibotics.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : PME.
+- [Glocal Robotics](https://www.glocalrobotics.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Nouvelle-Aquitaine ; type : PME.
+- [Heracles Robotics](https://www.heracles-robotics.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Normandie ; type : PME.
+- [Intempora](https://intempora.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : PME.
+- [IPSUMTEK](http://www.ipsumtek.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [Isymap](https://isymap.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : PME.
+- [KNDS France Robotics](https://knds.com/fr) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : GE.
+- [LOHR](https://www.lohr.fr/fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Grand Est ; type : PME.
+- [Magellium](http://www.magellium.com/fr) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : PME.
+- [Mandarine Robotique](http://www.mandarinesolutions.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : Startup.
+- [MecaBotiX](http://www.mecabotix.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : Startup.
+- [NAWATECHNOLOGIES](https://nawah.fr/fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Provence-Alpes-Côte d'Azur ; type : Startup.
+- [NIMBLE ONE](https://nimbleone.io/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : Startup.
+- [NOTILO PLUS](https://www.notiloplus.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [PERCEPTION 4D](https://perception4d.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [PILGRIM TECHNOLOGY](http://www.pilgrim-technology.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Pays de la Loire ; type : PME.
+- [PROPHESEE](http://www.prophesee.ai/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : Startup.
+- [RENAULT S.A.S](https://www.renaultgroup.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : GE.
+- [ROB'OCC](https://www.robocc.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : Startup.
+- [Running Brain](https://runningbrainsrobotics.com/fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Nouvelle-Aquitaine ; type : Startup.
+- [SBG SYSTEMS](https://www.sbg-systems.com/fr/?utm_source=google&utm_medium=gmb&utm_campaign=gmb_fr&utm_id=GMBusiness) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : PME.
+- [SERA Technologie](https://serasas.com/contact) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : Type non spécifié.
+- [SFYNX INDUSTRY](http://sfynx-industry.com/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Pays de la Loire ; type : PME.
+- [SOBEN](https://soben.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : PME.
+- [STANLEY Robotics](http://stanley-robotics.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : Startup.
+- [Subtop](http://www.subtop.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Île-de-France ; type : PME.
+- [TwinsWheel](https://www.twinswheel.fr/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Occitanie ; type : PME.
+- [UNIK TECHNOLOGIES](https://www.francemobilites.fr/acteurs/unik-technologies) - Entrée cartographie France 2030 en Robotique Autonome ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [VALEO](https://www.valeo.com/fr/valeo-scala-lidar/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Bourgogne-Franche-Comté ; type : GE.
+- [Yona Robotics](https://yona-robotics.com/en/home/) - Entrée cartographie France 2030 en Robotique Autonome ; région : Auvergne-Rhône-Alpes ; type : Startup.
+
+### Robotique Chirurgicale
+
+- [ACUSurgical](https://www.acusurgical.com/) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Occitanie ; type : Startup.
+- [ALCYM](http://alcym.fr/) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Bourgogne-Franche-Comté ; type : PME.
+- [AMAROB Technologies](http://amarob.com/) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Bourgogne-Franche-Comté ; type : Startup.
+- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [MOON SURGICAL](https://moonsurgical.com/) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Île-de-France ; type : Startup.
+- [SpineGuard](http://spineguard.fr/) - Entrée cartographie France 2030 en Robotique Chirurgicale ; région : Île-de-France ; type : startup.
+
+### Robotique d'Inspection
+
+- [ACWA (AUTONOMOUS CLEAN WATER APPLIANCE  ROBOTICS)](https://www.acwa-robotics.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Provence-Alpes-Côte d’Azur ; type : Startup.
+- [Compliance Robotics](https://compliance-robotics.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Hauts-de-France ; type : Startup.
+- [CORNIS](https://cornis.fr/index.php/fr/home/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Île-de-France ; type : Startup.
+- [Framatome](https://www.framatome.com/medias/des-specialistes-de-la-robotique-nous-parlent-de-leurs-projets/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Bourgogne-Franche-Comté ; type : GE.
+- [IVYSPEC](https://ivyspec.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Pays de la Loire ; type : Startup.
+- [Nimbl’Bot](http://www.nimbl-bot.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Nouvelle-Aquitaine ; type : Startup.
+- [ROBOPLANET](https://roboplanet.fr/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Pays de la Loire ; type : PME.
+- [ROBOT IV](https://robot-iv.webflow.io/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Île-de-France ; type : PME.
+- [Technip](http://www.cybernetix.fr/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Provence-Alpes-Côte d'Azur ; type : GE.
+- [ThinkDeep AI](https://www.thinkdeep.ai/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Nouvelle-Aquitaine ; type : Startup.
+- [TPL VISION](https://www.tpl-vision.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Pays de la Loire ; type : PME.
+- [TWIN-ROBOTICS](https://www.twinrobotics.com/) - Entrée cartographie France 2030 en Robotique d'Inspection ; région : Auvergne-Rhône-Alpes ; type : PME.
+
+### Robotique de Service
+
+- [AIROBOTICS](https://airobotics.fr/nos-gammes/) - Entrée cartographie France 2030 en Robotique de Service ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [AWABOT](https://awabot.com/) - Entrée cartographie France 2030 en Robotique de Service ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [FranceRol Robotics](https://francerol-robotics.com/) - Entrée cartographie France 2030 en Robotique de Service ; région : Nouvelle-Aquitaine ; type : PME.
+- [Fybots](https://www.fybots.com/) - Entrée cartographie France 2030 en Robotique de Service ; région : Île-de-France ; type : PME.
+- [POLLEN ROBOTICS](http://pollen-robotics.com/) - Entrée cartographie France 2030 en Robotique de Service ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Spoon AI](http://spoon.ai/) - Entrée cartographie France 2030 en Robotique de Service ; région : Île-de-France ; type : Startup.
+- [UROBOT](https://urobot.fr/) - Entrée cartographie France 2030 en Robotique de Service ; région : Île-de-France ; type : PME.
+
+### Robotique Extérieur
+
+- [Altametris / SNCF (Altametris)](https://www.altametris.com/) - Entrée cartographie France 2030 en Robotique Extérieur, Digitalisation Env. ; région : Île-de-France ; type : PME, Type non spécifié.
+- [LUOS](https://www.luos.io/) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Minitrucks Robotics](https://www.minitrucks-robotics.fr/) - Entrée cartographie France 2030 en Robotique Extérieur, Robotique Autonome ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [PGES](https://www.pges.fr) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SAFRAN ELECTRONICS DEFENSE](https://www.safran-group.com/fr/societes/safran-electronics-defense) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Île-de-France ; type : GE.
+- [SHARK ROBOTICS](http://www.shark-robotics.com/) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Nouvelle-Aquitaine ; type : PME.
+- [SHERPA ENGINEERING](https://www.sherpa-eng.com/) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Île-de-France ; type : PME.
+- [Shield Robotics](https://shield-robotics.com/) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Visi'Eau drones](https://www.visieaudrone.com/) - Entrée cartographie France 2030 en Robotique Extérieur ; région : Auvergne-Rhône-Alpes ; type : PME.
+
+### Robotique Industrielle
+
+- [Airbus Robotics (MTM robotics)](https://www.airbus.com/en/innovation/digital-transformation/industry-4-0/robotics) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : GE.
+- [AkeoPlus](https://akeoplus.com/fr/box/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [Alema Automation](https://alema-automation.it/about-us/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [ATG TECHNOLOGIES](https://www.atg-technologies.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [ATI Group](https://www.groupe-ati.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [AUREA](https://www.aurea25.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bourgogne-Franche-Comté ; type : PME.
+- [AX Group](http://www.ax-group.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Hauts-de-France ; type : PME.
+- [AXIOME](https://www.axiome.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : intégrateur.
+- [BATechgroup.com](https://www.batechgroup.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bretagne ; type : ETI.
+- [COBOT ONE](https://cobot-one.com/fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [Cognitive Engine](https://cogengines.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : Startup.
+- [COMMERCY ROBOTIQUE](https://www.commercy-robotique.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Grand Est ; type : PME.
+- [COVAL](https://www.coval.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [DMG MORI](http://fr.dmgmori.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : PME.
+- [ECLORE](https://eclore-actuators.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : Startup.
+- [Equans Digital Robotics & Automation](https://www.equans-digital.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : GE.
+- [ERM Automatisme](http://www.erm-automatismes.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [FESTO](https://www.festo.com/fr/fr/e/a-propos-de-festo/blog/robotics-id_9229-1153/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : GE.
+- [FTS WELDING](http://fts-welding.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Type non spécifié.
+- [FUZZY ROBOTICS](https://flr.io/fr-fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [GAPE CEMES](https://gape-cemes.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [GENERAL ROBOTICS](https://general-robotics.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : Startup.
+- [Gobano Robotics](https://www.gobano.ai/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [Haption](https://www.haption.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : PME.
+- [HURON GRAFFENSTADEN SAS](http://huron.fr/fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Grand Est ; type : PME.
+- [IDEATEC](https://www.ideatec.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [INBOLT](http://www.inbolt.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [ISP Aquitaine](https://www.isp-aquitaine.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [ISP SYSTEM](https://www.isp-system.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : PME.
+- [ISYBOT](https://www.isybot.com/cobot/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [JPB SYSTEME](https://www.jpb-systeme.com/fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : PME.
+- [KEEP'MOTION](http://keep-motion.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [LES COMPANIONS](http://www.lescompanions.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Hauts-de-France ; type : Startup.
+- [LUCAS FRANCE](http://www.lucas-robotic-system.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [MECANUMERIC](http://www.mecanumeric.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : PME.
+- [MOOG](https://www.moog.com/markets/industrial-automation/robotics.html) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : GE.
+- [Neoditech](http://www.neoditech.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : PME.
+- [NIRYO](https://niryo.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Hauts-de-France ; type : Startup.
+- [Novaxion](https://www.novaxion.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [Optiflux](http://www.optiflux-sas.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [PaintUP SAS](http://www.paintup.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [Panarobotics](https://lespepitestech.com/startup-de-la-french-tech/panarobotics) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bourgogne-Franche-Comté ; type : Startup.
+- [PERCIPIO ROBOTICS](http://www.percipio-robotics.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bourgogne-Franche-Comté ; type : Startup.
+- [PFEIFFER VACUUM](https://www.pfeiffer-vacuum.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [Proditec](https://www.proditec.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [R-ACTIV](https://r-activ.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [RB3D](http://www.rb3d.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bourgogne-Franche-Comté ; type : PME.
+- [RD Vision](https://www.rd-vision.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : PME.
+- [Real Time robotics](https://realtime-robotics.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [Robkub (Groupe FIDEIP)](https://www.robkub.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : PME.
+- [Safran Industrie](https://www.safran-group.com/fr) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : GE.
+- [SANANGA SAS](https://www.sananga.tech/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : Startup.
+- [SAVOY INGENIERIE ROBOTIQUE](https://www.groupe-savoy.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Schneider Electrics](https://www.se.com/fr/fr/product-subcategory/2915-robotique-et-axes-lin%C3%A9aires/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : GE.
+- [SEPRO Group](http://www.sepro-group.com/fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : GE.
+- [SIDEL](https://www.sidel.com/fr/machines-repository/robotique-encaissage-et-manipulation-produits/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : PME.
+- [SILEANE](http://www.sileane.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [SOPRA STERIA](https://www.soprasteria.com/services/technology-services/intelligent-process-automation) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Île-de-France ; type : GE.
+- [Staubli](https://www.staubli.com/fr-fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [STIRWELD](https://www.stirweld.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Bretagne ; type : Startup.
+- [Symetrie](http://www.symetrie.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : PME.
+- [TDM-Automation](https://tdm-automation.fr/machines-speciales-transitique/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Centre-Val de Loire ; type : PME.
+- [Tesseract Solutions](https://finovamgestion.fr/portfolio/tesseract-solutions-sas/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Hauts-de-France ; type : Startup.
+- [TOPSOLID](http://www.topsolid.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [Visionic](http://www.visionic.fr/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Normandie ; type : PME.
+- [WATT ET WELL](https://www.wattandwell.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [WEEZ-U WELDING](https://weez-u-welding.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Pays de la Loire ; type : Startup.
+- [WYCA Robotics](https://wyca-robotics.com/) - Entrée cartographie France 2030 en Robotique Industrielle ; région : Occitanie ; type : Startup.
+
+### Robotique Médicale
+
+- [Axilum Robotics](https://www.axilumrobotics.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Grand Est ; type : PME.
+- [BHealthCare / BHealthCare SAS](https://www.bhealthcare.fr/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Pays de la Loire ; type : Startup.
+- [Capsix Robotics](https://www.capsix.com/fr/accueil-fr/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [DIABELOOP](http://diabeloop.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [DIGISURGE](https://www.digisurge.fr/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Occitanie ; type : Startup.
+- [Exhauss](https://www.exhauss.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [GANYMED ROBOTICS](https://www.ganymedrobotics.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Île-de-France ; type : Startup.
+- [GE HealthCare](https://www.gehealthcare.fr/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Île-de-France ; type : GE.
+- [GENSENSOR](https://gensensor.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Pays de la Loire ; type : Startup.
+- [KYNISKA ROBOTICS](https://www.kyniska-robotics.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [MAXTRONICS ROBOTICS](https://www.maxtronics.com/fr/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Île-de-France ; type : PME.
+- [MinMaxMedical](https://www.minmaxmedical.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Quantum Surgical](http://www.quantumsurgical.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Occitanie ; type : Startup.
+- [REEV](https://reev.care/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Occitanie ; type : Startup.
+- [ROBEAUTE](https://www.robeaute.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Île-de-France ; type : Startup.
+- [ROBOCATH](http://www.robocath.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Normandie ; type : Startup.
+- [SpinEM Robotics](https://spinem-robotics.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [SURGITEC ROBOTICS](https://www.surgitec.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Hauts-de-France ; type : Startup.
+- [Wandercraft](https://en.wandercraft.eu/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Île-de-France ; type : startup.
+- [Zentact robotics](https://zentact-robotics.com/) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [Zimmer Bionet France](https://www.zimmerbiomet.eu/fr-fr/french-home) - Entrée cartographie France 2030 en Robotique Médicale ; région : Auvergne-Rhône-Alpes ; type : PME.
+
+### Robotique pour le handicap
+
+- [Orthopus](https://orthopus.com/) - Entrée cartographie France 2030 en Robotique pour le handicap ; région : Pays de la Loire ; type : Startup.
+
+### Robotique Sociale
+
+- [Blue Frog Robotics](http://www.bluefrogrobotics.com/) - Entrée cartographie France 2030 en Robotique Sociale ; région : Île-de-France ; type : PME.
+- [KOMPAI ROBOTICS](http://kompairobotics.com/) - Entrée cartographie France 2030 en Robotique Sociale ; région : Nouvelle-Aquitaine ; type : PME.
+- [LEOBOTICS](https://www.leobotics.com/) - Entrée cartographie France 2030 en Robotique Sociale ; région : Auvergne-Rhône-Alpes ; type : PME.
+
+### Robotique sous-marine & marine
+
+- [AIRSUB Drone](https://air-sub-drone.fr/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Pays de la Loire ; type : PME.
+- [ALSEAMAR](https://www.alseamar-alcen.com/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [Forsea Robotics](https://forssea-robotics.fr/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Occitanie ; type : PME.
+- [ROBOTSWIM](http://www.robotswim.com/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Île-de-France ; type : Startup.
+- [ROV developpement](http://www.rovdeveloppement.com/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [Subsea Tech](https://www.subsea-tech.com/fr/) - Entrée cartographie France 2030 en Robotique sous-marine & marine ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+
+### Robotique Spatiale
+
+- [AIRBUS DEFENCE AND SPACE](https://www.airbus.com/en/newsroom/news/2021-02-the-new-digital-factory-hundreds-of-kilometres-above-earth) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : GE.
+- [Airbus Defense & Space](https://www.airbus.com/en/newsroom/stories/2024-01-the-worlds-first-metal-3d-printer-for-space-is-on-its-way-to-the-iss) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : GE.
+- [ARCSPACE](https://www.arc-space.com/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Île-de-France ; type : Startup.
+- [Astro-Scale France](https://astroscale.com/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : Startup.
+- [EXOTRAIL](https://exotrail.com/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Île-de-France ; type : Startup.
+- [Exploration Company](https://www.exploration.space/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Infinite Orbits](https://www.infiniteorbits.io/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : Startup.
+- [PHIGI](https://www.phigi.io/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Bourgogne-Franche-Comté ; type : Startup.
+- [ROVIAL](https://www.rovial.space/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : Startup.
+- [SIMERA sense France](https://simera-sense.com/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : PME.
+- [THALES ALENIA SPACE](https://www.thalesaleniaspace.com/en) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Provence-Alpes-Côte d'Azur ; type : GE.
+- [Venturi Space France](https://venturi.space/) - Entrée cartographie France 2030 en Robotique Spatiale ; région : Occitanie ; type : Startup.
+
+### Robotique Terrestre
+
+- [Angetec](https://www.angatec.com/) - Entrée cartographie France 2030 en Robotique Terrestre ; région : Nouvelle-Aquitaine ; type : Startup.
+- [EFFIDENCE](https://effidence.com/) - Entrée cartographie France 2030 en Robotique Terrestre ; région : Auvergne-Rhône-Alpes ; type : Startup.
+
+### Service Informatique
+
+- [AlgoTech](https://www.algo-tech.fr/contactez-nous) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [Artelys](https://www.artelys.com/fr/) - Entrée cartographie France 2030 en Service Informatique ; région : Île-de-France ; type : PME.
+- [ARTERIS IP](https://www.arteris.com/) - Entrée cartographie France 2030 en Service Informatique ; région : Île-de-France ; type : GE.
+- [BeTomorrow](https://www.betomorrow.com/) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [Black Swan Technology](https://www.black-swan-technology.fr/) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [DIAGRAMS TECHNOLOGIES](https://diagrams-technologies.com/) - Entrée cartographie France 2030 en Service Informatique ; région : Hauts-de-France ; type : Startup.
+- [DYDU](https://www.dydu.ai/) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [DynamicScreen](https://comeen.com) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [IMMERSION](http://www.immersion.fr/) - Entrée cartographie France 2030 en Service Informatique ; région : Nouvelle-Aquitaine ; type : PME.
+- [PICOMTO](https://www.picomto.com/) - Entrée cartographie France 2030 en Service Informatique ; région : Hauts-de-France ; type : PME.
+
+### Simulation
+
+- [4D-Virtualiz](https://www.4d-virtualiz.com/) - Entrée cartographie France 2030 en Simulation ; région : Auvergne-Rhône-Alpes ; type : Startup.
+- [GOLAEM](https://www.autodesk.com/solutions/golaem) - Entrée cartographie France 2030 en Simulation ; région : Bretagne ; type : PME.
+- [HMI-MBS](http://hmi-mbs.fr/) - Entrée cartographie France 2030 en Simulation ; région : Centre-Val de Loire ; type : Startup.
+- [PROLEXIA](https://prolexia.fr/) - Entrée cartographie France 2030 en Simulation ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [SIMCORE](https://www.simcore.fr/) - Entrée cartographie France 2030 en Simulation ; région : Bretagne ; type : PME.
+
+### Traitement données 3D
+
+- [A2D](https://www.a2d.ai/) - Entrée cartographie France 2030 en Traitement données 3D ; région : Nouvelle-Aquitaine ; type : Startup.
+
+### Vision Industrielle
+
+- [ABC Vision Industrielle](https://abcvision.info/fr/accueil/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ADPIX](https://www.adpix.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [AOI Numii](http://www.aoisystems.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [APREX Solutions](https://aprex-solutions.com/fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Grand Est ; type : Startup.
+- [ARTEKA](https://arteka.tech/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Hauts-de-France ; type : Startup.
+- [AVENIR VISION Industrie](http://www.avenirvision.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [AVIWEST](https://innovacom.com/company/aviwest/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Bretagne ; type : PME.
+- [CAPTIC / CAPTIC VISION](https://capticvision.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Provence-Alpes-Côte d'Azur ; type : PME.
+- [CEVILOG](https://www.cevilog.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Grand Est ; type : PME.
+- [CIRA VISION](https://www.cira-vision.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Hauts-de-France ; type : PME.
+- [CODA Systèmes](https://www.coda-systemes.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Île-de-France ; type : PME.
+- [E2V SEMICONDUCTORS](https://semiconductors.teledyne-e2v.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [EDIXIA Automation](http://www.edixia.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Bretagne ; type : PME.
+- [EXPERTISE VISION](https://expertisevision.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [I2S](https://i2s.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Nouvelle-Aquitaine ; type : PME.
+- [INPIXAL](https://www.inpixal.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Bretagne ; type : PME.
+- [KEYENCE](https://www.keyence.fr/products/vision/vision-sys/2d_vgr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Île-de-France ; type : intégrateur.
+- [LYNRED](https://www.lynred.com/fr) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : GE.
+- [NEOTEC VISION](http://neotec-vision.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Bretagne ; type : PME.
+- [New Imaging](https://new-imaging-technologies.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Île-de-France ; type : Startup.
+- [ROBSYS](http://www.robsys.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Auvergne-Rhône-Alpes ; type : PME.
+- [ST37](https://www.st37.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Nouvelle-Aquitaine ; type : Startup.
+- [Vision Engineering](http://www.visioneng.fr/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Île-de-France ; type : PME.
+- [VisioNerf](http://www.visionerf.com/) - Entrée cartographie France 2030 en Vision Industrielle ; région : Pays de la Loire ; type : PME.
 
 ## Open source (projets français)
 
