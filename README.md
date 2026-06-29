@@ -76,6 +76,7 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 - [IBISC](http://www.ibisc.univ-evry.fr/) - Université d'Évry lab in perception, interpretation, decision, image, and control.
 - [ICube](https://icube.unistra.fr/) - Research lab in engineering, imaging, and robotics.
 - [IFREMER](https://www.ifremer.fr/) - Research and test capabilities in underwater robotics, navigation, and teleoperation.
+- [IM2NP](https://www.im2np.fr/fr) - Marseille-Toulon lab in materials, microelectronics, and nanosciences, with embedded AI work applied to robotics.
 - [Inria](https://www.inria.fr/fr) - Research in robotics, AI, and systems.
 - [Inria Acentauri](https://team.inria.fr/acentauri/) - Project team on autonomous robotics, perception, and human-robot interaction.
 - [Inria Astra](https://astra-team.github.io/) - Project team on autonomous navigation, computer vision, and planning.
@@ -165,740 +166,389 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 Company coverage from the national robotics ecosystem map.
 
-### Sensors
-
-- [ADMIR](https://www.admir-analysis.com/) - Develops sensing and measurement technologies for robotics or industry.
-
 ### Aerial drones
 
-- [AERIAL COBOTICUS SAS](http://www.aerialcoboticus.com/) - Develops, operates, or supports aerial drone systems.
-- [AERIX SYSTEMS](https://www.aerix-systems.com/) - Develops, operates, or supports aerial drone systems.
-- [Atechsys Engineering](https://groupedci.fr/le-groupe/nos-marques/atechsys/) - Develops, operates, or supports aerial drone systems.
-- [DELAIR](https://delair.aero/) - Develops, operates, or supports aerial drone systems.
-- [Donecle SAS](https://www.donecle.com/) - Develops, operates, or supports aerial drone systems.
-- [DRONE ACT](https://www.drone-act.com/) - Develops, operates, or supports aerial drone systems.
-- [DRONE GEOFENCING](https://drone-geofencing.com) - Develops, operates, or supports aerial drone systems.
-- [DRONE INTERACTIVE](https://www.drone-interactive.com/) - Develops, operates, or supports aerial drone systems.
-- [DRONE VOLT](https://www.dronevolt.com/fr/) - Develops, operates, or supports aerial drone systems.
-- [DRONELIS](https://www.dronelis.com/) - Develops, operates, or supports aerial drone systems.
-- [ELISTAIR](https://elistair.com/) - Develops, operates, or supports aerial drone systems.
-- [ELLISTAT](https://ellistat.com/) - Develops, operates, or supports aerial drone systems.
-- [EOS Technologies](https://www.eos-technologie.com/) - Develops, operates, or supports aerial drone systems.
-- [Flying Eye](https://www.flyingeye.fr/) - Develops, operates, or supports aerial drone systems.
-- [FLYRENOV](https://www.flyrenov.com/) - Develops, operates, or supports aerial drone systems.
-- [HARMATTAN](https://www.harmattan.ai/) - Develops, operates, or supports aerial drone systems.
-- [Hexadrone](http://www.hexadrone.fr/) - Develops, operates, or supports aerial drone systems.
-- [HEXO+](https://hexoplus.com/fr/) - Develops, operates, or supports aerial drone systems.
-- [HYLIGHT](https://www.hylight.aero/) - Develops, operates, or supports aerial drone systems.
-- [ICARUS SWARM](https://www.icarusswarms.ai/) - Develops, operates, or supports aerial drone systems.
-- [Lynxdrone](https://lynxdrone.fr/) - Develops, operates, or supports aerial drone systems.
-- [MC2 Technologies](http://www.mc2-technologies.com/) - Develops, operates, or supports aerial drone systems.
-- [NOVADEM](https://www.novadem.com/) - Develops, operates, or supports aerial drone systems.
-- [PARROT](https://www.parrot.com/fr) - Develops, operates, or supports aerial drone systems.
-- [SCALIAN](https://www.scalian.com/expertises/produits-solutions/unmanned-systems/) - Develops, operates, or supports aerial drone systems.
-- [Skydrone Robotics](http://www.skydrone-robotics.com/) - Develops, operates, or supports aerial drone systems.
-- [SQUADRONE SYSTEM](http://squadrone-system.com/) - Develops, operates, or supports aerial drone systems.
-- [Survey Copter](http://www.survey-copter.com/) - Develops, operates, or supports aerial drone systems.
-- [Techdron](https://www.techdrone.fr/) - Develops, operates, or supports aerial drone systems.
-- [TIDAV](http://tidav.aero/) - Develops, operates, or supports aerial drone systems.
-- [TURGIS GAILLARD](https://www.turgisgaillard.com/) - Develops, operates, or supports aerial drone systems.
-- [UAVIA](https://uavia.eu/) - Develops, operates, or supports aerial drone systems.
-- [VERDRONE](https://www.verdone.fr/) - Develops, operates, or supports aerial drone systems.
+- [AERIAL COBOTICUS SAS](http://www.aerialcoboticus.com/) - Builds heavy-duty aerial drones for high-pressure cleaning, concrete scabbling, and material projection.
+- [AERIX SYSTEMS](https://www.aerix-systems.com/) - Develops high-speed drone platforms and airframes ready for technical integration.
+- [Atechsys Engineering](https://groupedci.fr/le-groupe/nos-marques/atechsys/) - Designs drone systems for civil, industrial, and defense missions.
+- [DELAIR](https://delair.aero/) - Provides fixed-wing UAVs and data workflows for industrial inspection and mapping.
+- [Donecle SAS](https://www.donecle.com/) - Automates visual inspection of aircraft and large structures with drone-based systems.
+- [DRONE ACT](https://www.drone-act.com/) - Manufactures professional multirotor drones for operational field use.
+- [DRONE GEOFENCING](https://drone-geofencing.com) - Develops software for mission preparation, geofencing, and drone fleet supervision.
+- [DRONE VOLT](https://www.dronevolt.com/fr/) - Builds professional civil drones with embedded AI options for inspection and security.
+- [DRONELIS](https://www.dronelis.com/) - Operates professional drones for inspection, mapping, and technical imaging.
+- [ELISTAIR](https://elistair.com/) - Specializes in tethered drones for persistent observation and secured aerial surveillance.
+- [ELLISTAT](https://ellistat.com/) - Designs automated tethered drones for long-duration observation.
+- [EOS Technologies](https://www.eos-technologie.com/) - Manufactures fixed-wing UAVs for intelligence, surveillance, and reconnaissance missions.
+- [Flying Eye](https://www.flyingeye.fr/) - Supplies and integrates drones for surveillance and inspection missions.
+- [FLYRENOV](https://www.flyrenov.com/) - Develops automated drone tools for facade cleaning and work-at-height operations.
+- [HARMATTAN](https://www.harmattan.ai/) - Develops drones with embedded AI for autonomous perception and mission execution.
+- [Hexadrone](http://www.hexadrone.fr/) - Designs modular drone platforms for civil and military payload integration.
+- [HEXO+](https://hexoplus.com/fr/) - Develops autonomous camera drones.
+- [HYLIGHT](https://www.hylight.aero/) - Builds airship drones for long-range inspection of power lines and critical infrastructure.
+- [ICARUS SWARM](https://www.icarusswarms.ai/) - Creates autonomy software for coordinating fleets of drones and mobile robots.
+- [Lynxdrone](https://lynxdrone.fr/) - Builds rolling and flying inspection robots for industrial environments.
+- [NOVADEM](https://www.novadem.com/) - Designs compact drone systems for civil security, defense, and industrial users.
+- [PARROT](https://www.parrot.com/fr) - Develops professional rotary-wing drones for defense, inspection, and mapping applications.
+- [SCALIAN](https://www.scalian.com/expertises/produits-solutions/unmanned-systems/) - Develops embedded systems and unmanned solutions for aerospace, defense, and industry.
+- [Skydrone Robotics](http://www.skydrone-robotics.com/) - Integrates professional drones, ground stations, and operational support systems.
+- [SQUADRONE SYSTEM](http://squadrone-system.com/) - Develops autonomous drones for complex missions, including swarm-oriented use cases.
+- [Survey Copter](http://www.survey-copter.com/) - Builds tactical fixed-wing and rotary-wing UAVs with ground control stations.
+- [Techdron](https://www.techdrone.fr/) - Deploys drones for surveying, hydrology, and technical inspection work.
+- [TIDAV](http://tidav.aero/) - Designs VTOL drones combining vertical takeoff with fixed-wing flight.
+- [TURGIS GAILLARD](https://www.turgisgaillard.com/) - Produces drones, vehicles, and mechanical subassemblies for specialized applications.
+- [UAVIA](https://uavia.eu/) - Provides remote operation platforms for connected aerial robots.
+- [VERDRONE](https://www.verdone.fr/) - Develops autopilot, control, and embedded equipment for drone systems.
 
-### Electronics
+### AI, perception, and robotics software
 
-- [ALEDIA](https://www.aledia.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [DIAMFAB](https://diamfab.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [EP3E](https://www.mecanicvallee.com/annuaire-entreprises/ep3e/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [KEYSOM](https://keysom.io/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [MELEXIS FRANCE](https://www.melexis.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [MENTOR GRAPHICS France (Siemens EDA)](https://www.sw.siemens.com/fr-FR/technology/electronic-design-automation-eda/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [MICRO-PACKS CIMPACA](https://www.cimpaca.org/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [MICROWAVE CHARACTERIZATION (MC2)](https://www.mc2-technologies.com/en/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [MURATA](https://www.murata.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [NEXDOT](http://www.nexdot.fr/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [NEXESS](http://www.nexess-solutions.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [S2P](https://s-2p.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [SCINTIL PHOTONICS](https://www.scintil-photonics.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [SEAMLESS WAVES](https://seamlesswaves.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [SECURE-IC](https://www.secure-ic.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [SERMA TECHNOLOGIES](http://www.serma-technologies.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [Spin-Ion Technologies](https://www.spin-ion.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [STEERLIGHT](https://steerlight.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [STEREOLABS](http://www.stereolabs.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [STMICROELECTRONICS FRANC](https://www.st.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [SYSNAV](https://www.sysnav.fr/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [TPL SYSTEMES](https://tplsystemes.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
-- [VITEC S.A.](http://www.vitec.com/) - Develops electronics, sensors, or embedded hardware used in industrial systems.
+- [3IDM](https://www.3idm.fr/nos-prestations/robomaster-nantes/) - Provides offline programming for industrial robots.
+- [ADAXIS](https://adaxis.eu/) - Develops CAM software for robotic additive manufacturing and large-format deposition.
+- [AkeoPlus](https://akeoplus.com/fr/box/) - Works on robot trajectory generation, vision, planning, and industrial task programming.
+- [Another Brain](https://anotherbrain.ai/) - Works on learned perception functions for autonomous systems.
+- [ARCURE](https://blaxtair.com/) - Applies embedded computer vision to pedestrian detection around industrial vehicles.
+- [Asterion Robotics](https://asterion-robotics.odoo.com/) - Builds ROS 2, DDS, and real-time software components for robotic architectures.
+- [CONSCIENCE ROBOTICS](https://conscience-robotics.com/fr_fr/) - Creates high-level AI software to increase autonomy on aerial and ground robots.
+- [Cyberus-ai](https://cyberus-ai.com/) - Develops learning methods for complex robotic functions and adaptive behavior.
+- [DASSAULT SYSTEMES / Dassault Systemes (Delmia)](https://discover.3ds.com/fr/) - Provides simulation and programming tools for robotized production lines.
+- [DEPLACE AI](https://deplaceai.com/) - Builds datasets and foundation-model tooling for learning-based robot programming.
+- [Exwayz](https://www.exwayz.fr/) - Provides real-time 3D LiDAR perception and localization software for autonomous machines.
+- [FUZZY ROBOTICS](https://flr.io/fr-fr/) - Develops digital-twin tools for programming, supervising, and integrating robot cells.
+- [GENERATE (ex DIBOTIX)](https://www.dibotics.com/) - Works on 3D SLAM, teleoperation, and localization for mobile robotics.
+- [Haption](https://www.haption.com/) - Develops haptic interfaces and force-feedback systems for teleoperation.
+- [INBOLT](http://www.inbolt.com/) - Uses AI vision to guide industrial and collaborative robots in real time.
+- [iNGAGE](https://www.ingage-mems.com/) - Designs MEMS navigation sensors for drones, industrial robots, and autonomous mobility.
+- [INNODURA](https://www.innodura.fr/) - Works on perception, planning, AI, and mechatronics for robotic systems.
+- [Intuitive Robots](http://www.intuitive-robots.com/) - Develops application software for humanoid robots and interactive robotics deployments.
+- [LEARNING ROBOTS](https://www.learningrobots.ai/) - Provides an educational platform for experimenting with real-time AI and robot behavior.
+- [MARSO ROBOTICS](https://marsorobotics.com/) - Works on embedded AI and vision-language models for robotic systems.
+- [NANVER LABS](https://europe.naverlabs.com/) - Develops work in vision, learning, NLP, and human-robot interaction.
+- [Naver Labs Europe](https://europe.naverlabs.com/) - Researches machine learning, computer vision, and human-robot interaction in France.
+- [Neuronaix](https://www.neuronaix.com) - Develops AI tools for programming robot manipulators from motion-capture demonstrations.
+- [Panarobotics](https://lespepitestech.com/startup-de-la-french-tech/panarobotics) - Develops graphical programming interfaces for industrial robots.
+- [PERCEPTION 4D](https://perception4d.com/) - Provides computer vision, SLAM, and tracking expertise for robotics R&D projects.
+- [PGES](https://www.pges.fr) - Develops supervision, localization, guidance, and perception software for robot fleets.
+- [PHOSPHO](https://robots.phospho.ai/) - Builds AI tooling for observing, evaluating, and improving robotic behavior.
+- [PRISTINE ROBOTICS](https://pristine-robotics.com/) - Supports mobile robotics and AI projects from architecture to field deployment.
+- [PROPHESEE](http://www.prophesee.ai/) - Develops event-based vision sensors useful for fast robotic perception.
+- [Real Time robotics](https://realtime-robotics.com/) - Creates motion-planning software for collision-aware robot trajectory generation.
+- [Robocortex](http://www.robocortex.com) - Develops image-analysis algorithms used in robotics, defense tracking, and augmented reality.
+- [ROBOT FUTURES](https://robotfutures.co/) - Supports product and organizational architecture for projects involving robotics.
+- [STEREOLABS](http://www.stereolabs.com/) - Makes stereo cameras and spatial AI SDKs used by mobile robots and autonomous systems.
+- [SVD Robotics](https://svd-robotics.com/) - Specializes in offline programming for industrial robots used in continuous processes.
+- [SYSNAV](https://www.sysnav.fr/) - Develops infrastructure-free navigation, localization, and motion-capture technologies.
+- [THALES Cortaix](https://www.thalesgroup.com/fr/monde/securite/press_release/thales-accelere-lia-defense) - Thales defense AI center with applications to robotic and autonomous systems.
+- [THALES TAS / Thales](https://www.thalesgroup.com/fr) - Works on robotic and autonomous systems for defense, aerospace, and security.
+- [Uniswarm](https://uniswarm.fr/) - Designs ready-to-use robotic controllers for mobile robot development.
+- [VITA COGNITION](https://vitacognition.com/) - Develops cognitive AI engines for embedded and autonomous robotics.
+- [Yona Robotics](https://yona-robotics.com/en/home/) - Develops an AI platform for autonomous mobile robots and autonomous vehicles.
+- [Yumain](https://yumain.fr/) - Builds smart cameras and embedded AI products for industrial perception.
 
-### End users
+### Industrial robotics and integrators
 
-- [Air Liquide](https://www.airliquide.com/fr) - Uses or develops automation and robotics in industrial operations.
-- [ALCATEL SUBMARINE NETWORKS](https://www.asn.com/) - Uses or develops automation and robotics in industrial operations.
-- [DRACULA TECHNOLOGIES](https://dracula-technologies.com/) - Uses or develops automation and robotics in industrial operations.
-- [EDF HYDRO](https://www.edf.fr/hydraulique-pays-de-savoie) - Uses or develops automation and robotics in industrial operations.
-- [ELECTRO REFINING](https://www.weeecycling.com/fr/) - Uses or develops automation and robotics in industrial operations.
-- [ELVIA PRINTED CIRCUIT BO](https://elviaelectronics.com/) - Uses or develops automation and robotics in industrial operations.
-- [MERSEN France](https://www.mersen.com/) - Uses or develops automation and robotics in industrial operations.
-- [MESSAGERIES FLUVIALES](https://river-connect.fr/) - Uses or develops automation and robotics in industrial operations.
-- [Michelin](https://www.michelin.com/expertise/des-savoir-faire-piliers-du-leadership-technologique-de-michelin/concevoir-et-industrialiser) - Uses or develops automation and robotics in industrial operations.
-- [Nanoe](http://www.nanoe.com/fr/) - Uses or develops automation and robotics in industrial operations.
-- [NAVAL GROUP](https://www.naval-group.com/fr) - Uses or develops automation and robotics in industrial operations.
-- [NEOLITHE](https://neolithe.fr/) - Uses or develops automation and robotics in industrial operations.
-- [NORIMAT](https://www.norimat.com/) - Uses or develops automation and robotics in industrial operations.
-- [NOVALIX STE](http://www.novalix.com/) - Uses or develops automation and robotics in industrial operations.
-- [POTEZ AÉRONAUTIQUE](http://www.potez.com/) - Uses or develops automation and robotics in industrial operations.
-- [RECIF TECHNOLOGIES](http://www.reciftech.com/) - Uses or develops automation and robotics in industrial operations.
-- [REDEX](http://www.redex-group.com/) - Uses or develops automation and robotics in industrial operations.
-- [Suez](https://www.suez.com/fr/groupe/innovation/nos-centres-de-recherche-et-d-expertise) - Uses or develops automation and robotics in industrial operations.
-- [Syensgo](https://www.syensqo.com/fr/france/bordeaux) - Uses or develops automation and robotics in industrial operations.
-- [UNITED MONOLITHIC SEMICO](https://www.ums-rf.com/) - Uses or develops automation and robotics in industrial operations.
-- [VALEMO](https://www.valemo.fr/) - Uses or develops automation and robotics in industrial operations.
-- [Vinci Energie (Robots for Site)](https://leonard.vinci.com/robots-for-site-invente-les-nouvelles-equipes-de-chantier/) - Uses or develops automation and robotics in industrial operations.
+- [2IVAL](https://www.2ival.com/) - Integrates robotic handling, assembly, and production equipment for factories.
+- [3A alpes Automatic](http://3-a.fr/) - Builds automated and robotized industrial systems around production constraints.
+- [A2G Robotics](https://a2grobotics.fr/) - Programs PLCs, HMIs, and supervision systems for robotized cells.
+- [ABS Robotique](https://absrobotics.ch/) - Integrates FANUC robot cells for industrial applications.
+- [ACEA Automatisme](https://www.acea.fr/) - Installs and optimizes industrial robotics cells.
+- [ACPI](https://www.acpi.tech/) - Integrates PLCs, HMIs, supervision systems, and industrial robotics.
+- [ACTIL](https://www.actil.fr/) - Integrates robotics and vision for pick-and-place, palletizing, and handling.
+- [ADELCOBO](https://adelcobo.com/) - Builds automated and robotized systems for industrial processes.
+- [ADNTECH](https://adntech.pro/) - Develops industrial automation and custom robot systems.
+- [AEROSPLINE / AI Robotics France](https://airobotics.fr/) - Develops collaborative and autonomous robotic systems for aerospace, logistics, retail, and healthcare.
+- [AGILEO](https://www.agileo.com/fr) - Provides software and robotics solutions for production machines.
+- [AIP Aquitaine](https://aip-aquitaine.com/) - Programs, commissions, and supports ESTUN industrial robots.
+- [AIROD ROBOTICS](https://airod-robotics.com/) - Provides engineering and integration services for robotized production cells.
+- [AKKODIS](https://www.akkodis.com/fr/) - Integrates AI, robotics, and IoT in industrial engineering services.
+- [ALCEN](https://www.alcen.com/fr) - Robotizes industrial equipment, machines, and process lines.
+- [Alma](https://www.alma.fr/alma-expert-logiciels-robotique-industrielle/) - Develops CAM and programming software for industrial robotics.
+- [ALPHA PROCESS](https://alpha-process.fr/) - Programs PLCs, HMIs, and robots for supervised industrial systems.
+- [AMBPR](https://ambpr.com/) - Develops robotic painting systems for metal structures.
+- [APA](https://www.apafrance.com/robotique-vision) - Designs, programs, and operates robotized systems with industrial vision.
+- [Archytas Robotics](https://archytasrobotics.fr/) - Develops robotized special machines for the food industry.
+- [ARMIN-ROBOTICS FRANCE](http://www.armin-robot.com/) - Specializes in robotic loading and unloading for CNC machine tools.
+- [ARSN](https://www.arsn.fr/) - Builds robotic solutions for industrial, automotive, and aerospace projects.
+- [ATEA](https://www.atea.net/) - Designs and commissions robotized installations for assembly, welding, gluing, and handling.
+- [ATG TECHNOLOGIES](https://www.atg-technologies.fr/) - Builds communicating machines for industrial, collaborative, and mobile robotics.
+- [AX Group](http://www.ax-group.com/) - Manufactures robotic cleaning systems, especially for solar panels.
+- [AXIOME](https://www.axiome.com/) - Develops robotized machines for cutting, machining, deburring, finishing, and automated inspection.
+- [B-ROBOT](https://www.b-robot.eu/) - Combines machine design, automation, robotics, and industrial vision integration.
+- [B-ROBOTICS](http://b-robotic.net/) - Integrates robotics, automation, and 2D/3D vision.
+- [BATechgroup.com](https://www.batechgroup.com/) - Develops robotic mobility and cobotics solutions for production systems.
+- [BELLIER SOLUTION ROBOTIQUE](https://beller-solutions-robotiques.net/) - Integrates six-axis robots from major industrial robot manufacturers.
+- [CERIA](http://www.ceria.fr/) - Integrates manufacturing lines, special machines, automation, and robotics.
+- [CIRTES](https://www.cirtes.com/) - Applies robotics to monitored machining, additive manufacturing, and stratoconception.
+- [COAXIAL TECHNOLOGIES](https://www.coaxial-technologie.com/) - Designs conveying and robotics solutions for industry.
+- [COBOT ONE](https://cobot-one.com/fr/) - Develops collaborative robot arms for industrial automation tasks.
+- [Cognitive Engine](https://cogengines.com/) - Develops industrial collaborative robotics solutions.
+- [COMMERCY ROBOTIQUE](https://www.commercy-robotique.com/) - Designs robotized welding installations for metalworking production.
+- [CORIOLIS COMPOSITES](https://www.coriolis-composites.com/) - Develops robotized cells and software for composite fiber placement.
+- [Crome Automation](https://crome-automation.fr/) - Integrates robotics, automation, and mechanical systems for industrial sites.
+- [CYBERIA](https://cyberia-robotics.com/a-propos-de-cyberia/) - Develops robotic and electronic systems for operation in harsh environments.
+- [DEPLOY Robotics](https://www.deploy-robotics.com/) - Acts as a multi-brand integrator for industrial and collaborative robotics.
+- [DreamTech](http://www.dreamtech.fr/) - Installs industrial automation, robot, and cobot systems.
+- [DV ELECTRICITE](https://dv-group.com/) - Integrates automation, robotics, and digital engineering solutions.
+- [ECMA Concept](https://ecma-concept.fr/) - Designs and installs robotized equipment and special machines.
+- [Eeprom Robotics](https://eeprom-robotics.com/) - Builds controls and supervision systems for special machines and production lines.
+- [EKIUM](https://www.ekium.eu/robotique-de-laboratoire/) - Designs robotized equipment for laboratories and R&D centers.
+- [ELITE ROBOTIQUE](https://fr.eliterobots.com/) - Supplies collaborative robots, six-axis arms, and turnkey automation systems.
+- [ELYOTEC](https://www.elyotec.com/) - Designs special machines based on robotic arms.
+- [EMANOR](http://www.emanor.fr/) - Designs custom mechanical and electrical systems including cobotics.
+- [Equans](https://www.equans-digital.com/equans-digital-france/robotique) - Deploys industrial robotics solutions through Equans Digital.
+- [Equans Digital Robotics & Automation](https://www.equans-digital.com/) - Designs, integrates, and maintains custom robotic systems for Industry 4.0.
+- [Erowa France](https://www.erowa.fr/) - Provides automation and robotization systems for production processes.
+- [EXCEENIS](https://www.exceenis.com/) - Develops electronic, mechanical, and robotic products from prototype to series.
+- [FB Robotique](https://fbrobotique.fr/) - Designs and installs robotized cells for production workshops.
+- [FINRIP](https://www.finrip.fr/) - Designs, manufactures, and distributes automation, robotics, and cobotics equipment.
+- [FIT robotique](https://www.fit-robotique.com/) - Deploys six-axis collaborative and mobile robots in industrial settings.
+- [FLYING VISION](https://www.flying-vision.com/) - Designs robotic non-destructive testing systems.
+- [GAAT](http://gaat.fr/) - Builds robotized islands and special machines.
+- [GAPE CEMES](https://gape-cemes.fr/) - Designs high-throughput assembly and packaging machines suitable for robotization.
+- [GAPE-Automatisme](https://gape-cobots.com/) - Manufactures automation machines, special machines, and robotic applications.
+- [GARBE AUTOMATISMES](http://www.garbe-automatisme.com/) - Develops robotized cells for injection, assembly, inspection, and palletizing.
+- [GEBE2](https://gebe2-et.com/) - Robotizes gluing, welding, and insert-placement processes in production.
+- [GENERAL ROBOTICS](https://general-robotics.com/) - Develops reconfigurable robotic and cobotic systems for manufacturing.
+- [Gobano Robotics](https://www.gobano.ai/) - Designs robotized special machines for assembly, packaging, and inspection.
+- [GT Robotique (UPICO)](https://gtrobotique.fr/) - Supplies and integrates industrial robots and automated robotized assemblies.
+- [Guignard Robotisation](https://www.guignard.fr/fr/) - Distributes and integrates industrial robots and cobots.
+- [Hubert Process & Robotique](https://www.hubertprocess.com/) - Builds automated processes with optical sorting for food products.
+- [HUMAROBOTICS](https://www.humarobotics.com/) - Integrates collaborative robots and custom robotized applications.
+- [HUPICO](https://www.hupico.fr/fr) - Integrates robotic handling systems with industrial vision.
+- [Ideatech Robotique](https://www.ideatech.fr/) - Develops cobot-based robotized cells.
+- [ILLUMO ROBOTICS](https://www.illumo.ai) - Builds ROS-based industrial robotic systems, especially for bin picking.
+- [INDUSAP](http://www.indusap.fr/) - Integrates robotics and special machines for packaging lines.
+- [INEDIIA](https://www.inediia.com/) - Develops digital and robotic solutions for industry.
+- [ISYBOT](https://www.isybot.com/cobot/) - Designs collaborative robots for industrial manual-assistance tasks.
+- [ISYCOD](https://isycod.fr/contact/) - Integrates mechanical, electrical, automation, and collaborative robotics systems.
+- [ITEM](https://item24.com/fr-fr/) - Supplies modular systems for robot cells, cobotics, and intralogistics.
+- [JL CORP](http://www.jlcorp.fr/) - Integrates collaborative robots, including Universal Robots systems.
+- [LES COMPANIONS](http://www.lescompanions.com/) - Develops collaborative robotic systems for painting work.
+- [LM AUTOMATION](https://lm-automation.fr/Integration-Robotique-RENNES.html) - Integrates industrial and collaborative robotics in western France.
+- [LS ROBOTIQUE](https://lasolutionrobotique.com/) - Deploys robotic solutions for welding, vision, and industrial applications.
+- [LUCAS FRANCE](http://www.lucas-robotic-system.com/) - Develops modular robotic handling systems for cutting, bending, and manufacturing processes.
+- [MA2i](https://ma2i.fr/) - Combines automation and robotics integration for production lines.
+- [MABIN](https://www.mabin.fr/) - Automates and robotizes plastics-industry and palletizing processes.
+- [MAINDUSTRIE](https://www.maindustrie.fr/) - Integrates articulated robots for handling, cutting, polishing, packaging, and palletizing.
+- [MCA Process](https://mca-process.fr/) - Automates and robotizes processes for the food industry.
+- [Mecaconcept](https://www.mecaconcept.com/) - Designs machines, automation, and robotic systems for industrial engineering.
+- [MELIAD](https://www.meliad-sas.com/) - Combines laser surface treatment, stress analysis, and flexible industrial robotics.
+- [Mexence Digital & Robotics](http://www.mexence.com/) - Develops and distributes digital and robotic solutions for industry.
+- [MIDEP Robotique](http://www.midep.fr/) - Trains and supports manufacturers on welding and robotics.
+- [MIG Automation](https://www.mig-automation.fr/) - Robotizes industrial machines and production lines.
+- [MINTAKA SYSTEM INNOVATION (MS-Innov)](https://ms-innov.fr/) - Develops simplified robotic loading and unloading solutions around the MORFOSE robot.
+- [MPI Automatisation](https://www.mpi-technologies.com/fr/index.html) - Provides custom robotization, cobots, and end-of-line automation.
+- [MPI Technologies](https://www.mpi-technologies.com/) - Supplies new and fully refurbished industrial robots across brands.
+- [NEED robotics](http://www.needrobotics.net/) - Integrates robotics, mechatronics, and automation technologies.
+- [Neos Technologie](https://www.neos-solutions.com/) - Designs robotized installations for solid-waste treatment.
+- [NIRYO](https://niryo.com/) - Builds compact collaborative robot arms for education, research, and light industry.
+- [OFFICIIS & ROBOTIQUE](https://www.officiis-robotique63.com/integration.html) - Develops robotized welding processes.
+- [OIR ROBOTIQUE](https://www.oir-robotique.fr/) - Designs special machines and industrial robotics applications.
+- [Opteamum](https://www.opteamum.com/) - Commissions automated and robotized installations for industry.
+- [PaintUP SAS](http://www.paintup.fr/) - Builds robotized systems for cleaning, stripping, and painting large surfaces.
+- [PERCIPIO ROBOTICS](http://www.percipio-robotics.com/) - Develops micro-manipulation robots for assembling complex microsystems.
+- [QUOTEX](https://quotex.eu/contact/) - Programs robotized cells with Visual Components 3D simulation.
+- [R&D Technology](http://www.rd.technology/) - Designs and builds robotized cells.
+- [R-ACTIV](https://r-activ.com/) - Analyzes workstations to target robotics and automation opportunities.
+- [RB3D](http://www.rb3d.com/) - Develops cobots and exoskeletons for physically demanding industrial work.
+- [RECMI Industrie](https://www.recmi-industrie.com/) - Develops end-of-line robots and production solutions.
+- [REKA Industrie](https://reka-industrie.com/) - Integrates automation, robotics, and supervision for industrial sites.
+- [Revtech Systèmes](https://revtech-process-systems.com//) - Integrates industrial robots, cobots, mobile robots, and artificial vision.
+- [RJ INDUSTRIE](https://www.groupe-rj.com/) - Builds robotized islands, including applications for nuclear dismantling.
+- [ROBAUT CONCEPTION](http://www.robaut.fr/) - Designs production lines, special assembly machines, and test benches.
+- [Robkub (Groupe FIDEIP)](https://www.robkub.fr/) - Builds modular turnkey cobots for repetitive industrial operations.
+- [ROBOAPPS](https://www.robapps.fr/robapps/) - Develops robotic applications for varied industrial sectors.
+- [ROBOCOL](https://www.robocol.com/) - Specializes in dosing systems combined with industrial robots.
+- [Roboost](https://www.roboost-sdh.com/) - Designs robotic systems for security, defense, healthcare, and operational needs.
+- [ROBORATIVE](https://roborative.com/) - Integrates collaborative and industrial robots for production automation.
+- [ROBOT ATELIER](https://www.robot-atelier.com/) - Designs, installs, and maintains industrial robot cells from ABB, FANUC, and KUKA.
+- [Robot Systems](https://robotsystemproducts.com/) - Studies and manufactures robotic equipment for the automotive industry.
+- [Robotics3S](https://robotic3s.com/) - Supplies industrial robots and related systems.
+- [ROBSIM](http://www.robsim.com/) - Designs and deploys robotic systems for industrial production.
+- [ROBSYS](http://www.robsys.fr/) - Integrates robotics and industrial vision for production applications.
+- [ROMOTECH](https://www.romotech.net/) - Programs robot applications for welding, riveting, painting, gluing, and handling.
+- [ROVALTECH](http://www.rovaltech.com/) - Installs turnkey robotized and automated lines.
+- [SAB Robotique](https://groupe-sab.fr/robotique/) - Designs, integrates, and produces robotic solutions for varied industrial environments.
+- [SACMO](https://www.sacmo.com/fr/specialiste-du-conditionnement/programmation/) - Manufactures and programs automatic machines and robotized cells.
+- [SANANGA SAS](https://www.sananga.tech/) - Develops custom robotic systems from prototype to industrial model.
+- [SAVOY INGENIERIE ROBOTIQUE](https://www.groupe-savoy.fr/) - Designs automated lines, assembly systems, and robotized tooling.
+- [SB PROCESS](https://sbprocess.fr/robotique/) - Integrates robotics and automation solutions for industrial SMEs and mid-market firms.
+- [SCOVAL](https://www.scoval.fr/) - Integrates robotics into molding and manufacturing processes.
+- [SECMA](https://www.secma-sa.com/) - Designs special machines and automated systems using robotics and vision.
+- [SEEB Automation](https://www.groupeseeb.com/robotique-cobotique.html) - Builds robotized cells for light and heavy industrial loads.
+- [SEMO](http://www.semo.fr/) - Integrates custom robotic systems with industrial and collaborative robots plus 2D/3D vision.
+- [SEMSO](http://www.semso.fr/) - Automates and robotizes production lines.
+- [SERAAP](https://seraap.com/) - Manufactures special machines and production lines based on robotic systems.
+- [SIDEL](https://www.sidel.com/fr/machines-repository/robotique-encaissage-et-manipulation-produits/) - Supplies robotized palletizing and product-handling systems.
+- [SIGMA France](https://sigma-france.fr/reference-robotique) - Deploys robotized palletizing islands and simulates production lines.
+- [SILEANE](http://www.sileane.com/) - Develops robotic machines able to automate gestures in variable or unknown contexts.
+- [SMI IA](https://smi-ia.com/) - Designs automation, robotic systems, and industrial process digitalization.
+- [SOLU-TECH](https://www.solu-tech.fr/) - Integrates electrical systems, automation, robotics, vision, and special machines.
+- [Sowilo Technologies](http://www.sowilo-technologies.com/) - Provides robotics engineering, industrial computing, and automation services.
+- [Specigone](https://www.specigone-industries.fr/machines-speciales/) - Designs special machines for production automation and optimization.
+- [SPR](https://www.groupe-spr.com/) - Builds automated systems for assembly, inspection, transfer, vision, and robotics.
+- [Staubli](https://www.staubli.com/fr-fr/) - Manufactures industrial robot arms for manufacturing, cleanroom, and medical environments.
+- [SYBOTX](https://sybotx.com/) - Specializes in robotized spraying, painting, coating, and sealing processes.
+- [Symetrie](http://www.symetrie.fr/) - Builds precision hexapods for positioning, motion simulation, and test benches.
+- [TD CONCEPTION](https://www.td-conception.com/) - Integrates robotics and cobotics into industrial automation systems.
+- [TECAUMA](http://www.tecauma.fr/) - Manufactures automated and robotized handling systems.
+- [Tech3D](https://tech3d-france.com/) - Integrates robotics and automation for industrial applications.
+- [TECHPLUS](http://www.techplus.net/) - Installs robotized cells, especially on machining centers.
+- [Tesseract Solutions](https://finovamgestion.fr/portfolio/tesseract-solutions-sas/) - Develops intuitive programming software for industrial robot arms.
+- [TMUA](http://www.tmua.fr/) - Develops robotic finishing processes for abrasive applications.
+- [V.L.M. Robotics](http://www.vlm-robotics.fr/) - Develops robotized cells for continuous manufacturing processes.
+- [Visiobotic](https://www.visiobotic.fr/) - Provides robot-vision systems for picking, inspection, and sorting.
+- [Visionic](http://www.visionic.fr/) - Combines dimensional inspection, vision, robotics, and AI for industrial automation.
+- [VisioShape](http://www.visioshape.fr/) - Integrates robotics and vision for bin picking, handling, and inspection.
+- [WEEZ-U WELDING](https://weez-u-welding.com/) - Develops collaborative robots that assist manual welding operations.
+- [West Robotic](http://www.westrobotic.fr/) - Combines automation, industrial electrical systems, vision, and robotics.
+- [WYCA Robotics](https://wyca-robotics.com/) - Develops indoor autonomous robots for industrial and service environments.
+- [XPERT ROBOT](https://www.xpert-robot.fr/) - Deploys robotics and automation for demanding production environments.
 
-### AI for robotics
+### Intralogistics and mobile robots
 
-- [ADAGOS](http://www.adagos.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [AGEATIS](http://www.agaetis.fr/) - Develops AI, perception, language, or software capabilities for robotics.
-- [AIRUDIT](https://www.airudit.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [AKAWAN](https://www.akawan.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Another Brain](https://anotherbrain.ai/) - Develops AI, perception, language, or software capabilities for robotics.
-- [ARCURE](https://blaxtair.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [CAPGEMINI AI Robotics and Experiences Lab](https://www.capgemini.com/about-us/who-we-are/innovation-ecosystem/ai-robotics-experiences-lab/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Cyberus-ai](https://cyberus-ai.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Deepomatic](https://deepomatic.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [DEPLACE AI](https://deplaceai.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [DI-ANALYSE SIGNAL](https://dianalyse.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Enchanted Tools](https://enchanted.tools/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Haapie](https://haapie.com/index.php/fr/) - Develops AI, perception, language, or software capabilities for robotics.
-- [HawAI.tech](https://marketing.hawaitech.com/home) - Develops AI, perception, language, or software capabilities for robotics.
-- [IADYS](https://www.iadys.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [INNODURA](https://www.innodura.fr/) - Develops AI, perception, language, or software capabilities for robotics.
-- [INQU-AI](https://inqu-ai.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Jolibrain](https://jolibrain.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [LEARNING ROBOTS](https://www.learningrobots.ai/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Lettria](https://www.lettria.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [MARSO ROBOTICS](https://marsorobotics.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [MEEDIA](https://www.meedia.ai/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Mistral AI](https://mistral.ai/fr) - Develops AI, perception, language, or software capabilities for robotics.
-- [MOTILDE](https://motilde.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [NANVER LABS](https://europe.naverlabs.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [NeoVision](http://neovision.fr/) - Develops AI, perception, language, or software capabilities for robotics.
-- [NEURAL VISION](https://neuralvision.co/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Neuronaix](https://www.neuronaix.com) - Develops AI, perception, language, or software capabilities for robotics.
-- [PHOSPHO](https://robots.phospho.ai/) - Develops AI, perception, language, or software capabilities for robotics.
-- [PRISTINE ROBOTICS](https://pristine-robotics.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Probayes](http://www.probayes.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Robocortex](http://www.robocortex.com) - Develops AI, perception, language, or software capabilities for robotics.
-- [ROBOT FUTURES](https://robotfutures.co/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Scortex](https://scortex.io/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Spirops](http://www.spirops.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [SYNAPSE DEVELOPPEMENT](http://www.synapse-developpement.fr/) - Develops AI, perception, language, or software capabilities for robotics.
-- [THALES Cortaix](https://www.thalesgroup.com/fr/monde/securite/press_release/thales-accelere-lia-defense) - Develops AI, perception, language, or software capabilities for robotics.
-- [THALES TAS / Thales](https://www.thalesgroup.com/fr) - Works across AI, perception, and software for robotics, space robotics.
-- [UMA](https://uma.bot/) - Develops AI, perception, language, or software capabilities for robotics.
-- [VITA COGNITION](https://vitacognition.com/) - Develops AI, perception, language, or software capabilities for robotics.
-- [Yumain](https://yumain.fr/) - Develops AI, perception, language, or software capabilities for robotics.
-
-### Industrial computing
-
-- [ACEL-GENESYS](https://acelgenesys.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [ACPI](https://www.acpi.tech/) - Develops industrial software, automation, supervision, or control systems.
-- [ACTIVUS](https://www.equinix.com/fr) - Develops industrial software, automation, supervision, or control systems.
-- [AKEROS](https://akeros.com/) - Develops industrial software, automation, supervision, or control systems.
-- [Alma](https://www.alma.fr/alma-expert-logiciels-robotique-industrielle/) - Develops industrial software, automation, supervision, or control systems.
-- [ALTAROAD](https://www.altaroad.com/) - Develops industrial software, automation, supervision, or control systems.
-- [APHELIO](https://aphelio.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [ASYGN](https://asygn.com/) - Develops industrial software, automation, supervision, or control systems.
-- [ATIM](https://www.atim.com/) - Develops industrial software, automation, supervision, or control systems.
-- [Beckoff Automation](https://www.beckhoff.com/fr-fr/) - Develops industrial software, automation, supervision, or control systems.
-- [BRAINCUBE](https://braincube.com/) - Develops industrial software, automation, supervision, or control systems.
-- [BRIGHTLOOP](https://brightloop.fr/fr/) - Develops industrial software, automation, supervision, or control systems.
-- [Custocy](https://www.custocy.ai/) - Develops industrial software, automation, supervision, or control systems.
-- [CyberInflight](https://www.cyberinflight.com/) - Develops industrial software, automation, supervision, or control systems.
-- [DELFOX - PREDICTIVE TECH](https://www.delfox.net/) - Develops industrial software, automation, supervision, or control systems.
-- [DIGISENS](https://www.digisens3d.com/) - Develops industrial software, automation, supervision, or control systems.
-- [DomNexX](http://www.domnexx.com/) - Develops industrial software, automation, supervision, or control systems.
-- [EKINOPS](https://www.ekinops.com/fr/) - Develops industrial software, automation, supervision, or control systems.
-- [Fieldbox](https://www.fieldbox.ai/) - Develops industrial software, automation, supervision, or control systems.
-- [FIRECELL](https://firecell.io/) - Develops industrial software, automation, supervision, or control systems.
-- [Fives CortX](https://www.fivesgroup.com/fr/digital-solutions-ai) - Develops industrial software, automation, supervision, or control systems.
-- [GO2CAM](https://go2cam.net/fr) - Develops industrial software, automation, supervision, or control systems.
-- [Go4iot](https://go4iot.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [GREEN COMMUNICATIONS](https://www.green-communications.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [Holoforge Interactive](http://www.holoforge.io/) - Develops industrial software, automation, supervision, or control systems.
-- [IC'ALPS](https://www.icalps.com/) - Develops industrial software, automation, supervision, or control systems.
-- [InterCellar](https://www.intercellar.io/) - Develops industrial software, automation, supervision, or control systems.
-- [Intuitive Robots](http://www.intuitive-robots.com/) - Develops industrial software, automation, supervision, or control systems.
-- [IOTIZE](https://www.iotize.com/) - Develops industrial software, automation, supervision, or control systems.
-- [KALRAY](https://www.kalrayinc.com/) - Develops industrial software, automation, supervision, or control systems.
-- [NOVALYNX](https://novalynx.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [NXP SEMICONDUCTORS FRANC](http://www.nxp.com/) - Develops industrial software, automation, supervision, or control systems.
-- [OSE ENGINEERING](https://www.ose-engineering.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [PLANILOG](https://www.planilog.com/) - Develops industrial software, automation, supervision, or control systems.
-- [Purecontrol](https://www.purecontrol.com/) - Develops industrial software, automation, supervision, or control systems.
-- [Siemens Digital Industry](https://www.sw.siemens.com/fr-FR/) - Develops industrial software, automation, supervision, or control systems.
-- [SVD Robotics](https://svd-robotics.com/) - Develops industrial software, automation, supervision, or control systems.
-- [TERNWAVES](https://www.ternwaves.com/fr/) - Develops industrial software, automation, supervision, or control systems.
-- [THALES DIS FRANCE SAS](https://www.thalesgroup.com/en/enterprise) - Develops industrial software, automation, supervision, or control systems.
-- [Uniswarm](https://uniswarm.fr/) - Develops industrial software, automation, supervision, or control systems.
-- [VISTORY](https://vistory.com/) - Develops industrial software, automation, supervision, or control systems.
-
-### Integrators
-
-- [2IVAL](https://www.2ival.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [3A alpes Automatic](http://3-a.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [A2G Robotics](https://a2grobotics.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ABS Robotique](https://absrobotics.ch/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ACEA Automatisme](https://www.acea.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ACTENIUM](https://www.actemium.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ACTIL](https://www.actil.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ADELCOBO](https://adelcobo.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ADF Group](https://www.groupeadf.com/fr) - Integrates industrial automation, robotics, vision, and production systems.
-- [ADNTECH](https://adntech.pro/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AEROSPLINE / AI Robotics France](https://airobotics.fr/) - Works across industrial automation and robotic system integration, service robotics, AI, perception, and software for robotics.
-- [AGILEO](https://www.agileo.com/fr) - Integrates industrial automation, robotics, vision, and production systems.
-- [AGILOX France](https://www.agilox.net/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AGV Mécatronique](https://www.agv-mecatronique.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AIP Aquitaine](https://aip-aquitaine.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AIROD ROBOTICS](https://airod-robotics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AKKA Technologies](https://www.akka-technologies.com) - Integrates industrial automation, robotics, vision, and production systems.
-- [AKKODIS](https://www.akkodis.com/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ALCEN](https://www.alcen.com/fr) - Integrates industrial automation, robotics, vision, and production systems.
-- [ALPHA PROCESS](https://alpha-process.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [APA](https://www.apafrance.com/robotique-vision) - Integrates industrial automation, robotics, vision, and production systems.
-- [Archytas Robotics](https://archytasrobotics.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ARMIN-ROBOTICS FRANCE](http://www.armin-robot.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ARSN](https://www.arsn.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ARVIN AUTOMATISMES](https://www.arvin-automatismes.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ASSYSTEM](https://www.assystem.com) - Integrates industrial automation, robotics, vision, and production systems.
-- [Asterion Robotics](https://asterion-robotics.odoo.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ATEA](https://www.atea.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [AUTOMATISME VISION TECHNOLOGIE](https://www.avitec.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [B-ROBOT](https://www.b-robot.eu/) - Integrates industrial automation, robotics, vision, and production systems.
-- [B-ROBOTICS](http://b-robotic.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [BARGY Automation](https://www.bargy-automation.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [BELLIER SOLUTION ROBOTIQUE](https://beller-solutions-robotiques.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Bouygues Energies et Services (SEA Productique - Equans Digital)](https://www.equans-digital.com/equans-digital-france/sea-productique) - Integrates industrial automation, robotics, vision, and production systems.
-- [BUCCI Industrie](https://www.bucci-industries.com/fr/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CERIA](http://www.ceria.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CL  AUTOMATISMES](http://cl-automatismes.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CLEIA](http://www.cleia.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CMS Automatismes](http://www.cms-automatisme.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [COAXIAL TECHNOLOGIES](https://www.coaxial-technologie.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CPT France](https://www.schaeffler.com/en/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CR-Industry](https://tractmoi.com/qui-sommes-nous/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Crome Automation](https://crome-automation.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [CYBERIA](https://cyberia-robotics.com/a-propos-de-cyberia/) - Integrates industrial automation, robotics, vision, and production systems.
-- [DELCAIN](https://www.delcain.com/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Delta Equipements](https://www.delta-equipement.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [DELTA-IO](http://www.delta-io.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [DEPLOY Robotics](https://www.deploy-robotics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [DreamTech](http://www.dreamtech.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [DV ELECTRICITE](https://dv-group.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ECMA Concept](https://ecma-concept.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Eeprom Robotics](https://eeprom-robotics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Eiffage Energie Systemes - AUTOMATISMES & ROBOTIQUE (EES - A&R)](https://www.eiffageenergiesystemes.com/home) - Integrates industrial automation, robotics, vision, and production systems.
-- [EKIUM](https://www.ekium.eu/robotique-de-laboratoire/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ELITE ROBOTIQUE](https://fr.eliterobots.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Elyiotec (EEPI Robotics)](http://www.eepi-robotics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ELYOTEC](https://www.elyotec.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [EMANOR](http://www.emanor.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ENGLAB](https://www.technologyandstrategy.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Equans](https://www.equans-digital.com/equans-digital-france/robotique) - Integrates industrial automation, robotics, vision, and production systems.
-- [EUROBAUT](https://www.eurobaut.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [EUROPE TECHNOLOGIES STE](https://europetechnologies.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [EXCEENIS](https://www.exceenis.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Excent](https://www.excent.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [FB Robotique](https://fbrobotique.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [FG MECA](http://www.fgmeca.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [FINRIP](https://www.finrip.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [FIT robotique](https://www.fit-robotique.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Five Seylep](https://www.syleps.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Fives Machining](https://www.fivesgroup.com/fr/nos-activites/high-precision-machines) - Integrates industrial automation, robotics, vision, and production systems.
-- [GAAT](http://gaat.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [GAPE-Automatisme](https://gape-cobots.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [GARBE AUTOMATISMES](http://www.garbe-automatisme.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [GEBE2](https://gebe2-et.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Group STSI](https://www.group-stsi.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [GT Robotique (UPICO)](https://gtrobotique.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Guignard Robotisation](https://www.guignard.fr/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [HEVERETT GROUP](https://heverett-group.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Hubert Process & Robotique](https://www.hubertprocess.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [HUMAROBOTICS](https://www.humarobotics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [HUPICO](https://www.hupico.fr/fr) - Integrates industrial automation, robotics, vision, and production systems.
-- [Ideatech Robotique](https://www.ideatech.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ILLUMO ROBOTICS](https://www.illumo.ai) - Integrates industrial automation, robotics, vision, and production systems.
-- [INDUSAP](http://www.indusap.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [INEDIIA](https://www.inediia.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [INTERLAB](https://www.interlab.bio/) - Integrates industrial automation, robotics, vision, and production systems.
-- [IQANTO](https://www.snef.fr/iqanto/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ISYCOD](https://isycod.fr/contact/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ITEM](https://item24.com/fr-fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [JL CORP](http://www.jlcorp.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [JR AUTOMATION](https://www.jrautomation.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [KICKMAKER](https://www.kickmaker.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [L&P Engineering,](http://lp-engineering.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [LACROIX](https://www.lacroix-group.com/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Lexem Automation](http://www.lexem-automation.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [LM AUTOMATION](https://lm-automation.fr/Integration-Robotique-RENNES.html) - Integrates industrial automation, robotics, vision, and production systems.
-- [LS ROBOTIQUE](https://lasolutionrobotique.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MA2i](https://ma2i.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MABIN](https://www.mabin.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MAINDUSTRIE](https://www.maindustrie.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MCA Process](https://mca-process.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Mecaconcept](https://www.mecaconcept.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Mexence Digital & Robotics](http://www.mexence.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MIDEP Robotique](http://www.midep.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MIG Automation](https://www.mig-automation.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MINTAKA SYSTEM INNOVATION (MS-Innov)](https://ms-innov.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [MPI Automatisation](https://www.mpi-technologies.com/fr/index.html) - Integrates industrial automation, robotics, vision, and production systems.
-- [MPI Technologies](https://www.mpi-technologies.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [NBS TECHNOLOGIES](https://www.nbstech.eu.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [NEED robotics](http://www.needrobotics.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Neos Technologie](https://www.neos-solutions.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [NOVATICS](https://www.novatics.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [OCA Convoyeur](https://www.oca.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [OFFICIIS & ROBOTIQUE](https://www.officiis-robotique63.com/integration.html) - Integrates industrial automation, robotics, vision, and production systems.
-- [OIR ROBOTIQUE](https://www.oir-robotique.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Opteamum](https://www.opteamum.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [PI SYSTEM AUTOMATION](https://www.pi-system-automation.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [PRODEL Automation SAS](https://www.ipte.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Pygmatec](http://www.pygmatec.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [QUOTEX](https://quotex.eu/contact/) - Integrates industrial automation, robotics, vision, and production systems.
-- [R&D Technology](http://www.rd.technology/) - Integrates industrial automation, robotics, vision, and production systems.
-- [RECMI Industrie](https://www.recmi-industrie.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [REKA Industrie](https://reka-industrie.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Revtech Systèmes](https://revtech-process-systems.com//) - Integrates industrial automation, robotics, vision, and production systems.
-- [RJ INDUSTRIE](https://www.groupe-rj.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBAUT CONCEPTION](http://www.robaut.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBOAPPS](https://www.robapps.fr/robapps/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Roboost](https://www.roboost-sdh.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBORATIVE](https://roborative.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBOT ATELIER](https://www.robot-atelier.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Robot Systems](https://robotsystemproducts.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Robotics3S](https://robotic3s.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBOTIQ](https://robotiq.com/fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROBSIM](http://www.robsim.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROMOTECH](https://www.romotech.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROUX JOURFIER](http://www.groupe-rj.com/contact/) - Integrates industrial automation, robotics, vision, and production systems.
-- [ROVALTECH](http://www.rovaltech.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SAB Robotique](https://groupe-sab.fr/robotique/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SACMO](https://www.sacmo.com/fr/specialiste-du-conditionnement/programmation/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SB PROCESS](https://sbprocess.fr/robotique/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SCOVAL](https://www.scoval.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SECMA](https://www.secma-sa.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SEEB Automation](https://www.groupeseeb.com/robotique-cobotique.html) - Integrates industrial automation, robotics, vision, and production systems.
-- [SEMO](http://www.semo.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SEMSO](http://www.semso.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SERAAP](https://seraap.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SERMAZ](https://www.sermaz.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SIGMA France](https://sigma-france.fr/reference-robotique) - Integrates industrial automation, robotics, vision, and production systems.
-- [SMI IA](https://smi-ia.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SOLECAD](https://solecad.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SOLU-TECH](https://www.solu-tech.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Sowilo Technologies](http://www.sowilo-technologies.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Specigone](https://www.specigone-industries.fr/machines-speciales/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SPR](https://www.groupe-spr.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [SYBOTX](https://sybotx.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Synaptiks](https://synaptik.ai/) - Integrates industrial automation, robotics, vision, and production systems.
-- [TD CONCEPTION](https://www.td-conception.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [TECAUMA](http://www.tecauma.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Tech3D](https://tech3d-france.com/) - Integrates industrial automation, robotics, vision, and production systems.
-- [TECHPLUS](http://www.techplus.net/) - Integrates industrial automation, robotics, vision, and production systems.
-- [Visiobotic](https://www.visiobotic.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [VisioShape](http://www.visioshape.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [West Robotic](http://www.westrobotic.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-- [XPERT ROBOT](https://www.xpert-robot.fr/) - Integrates industrial automation, robotics, vision, and production systems.
-
-### Intralogistics
-
-- [Alstef](https://www.alstefgroup.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [APROLIS](https://www.aprolis.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [BALYO](https://www.balyo.com/fr-fr/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [BOA CONCEPT](https://www.boa-concept.com/fr-fr) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [E-COBOT](https://e-cobot.solutions/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [EASYMOV Robotics](https://www.euroquity.com/en/company/easymov-robotics) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [EXOTEC](https://www.exotec.com/fr/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [Fives Xcella](https://www.fivesgroup.com/fr/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [FORX](https://www.forx.rent/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [Galam Robotics](https://www.galam-robotics.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [Generix Group](https://www.generixgroup.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [IFOLLOW SAS](https://www.ifollow.fr/robots-autonomes-mobiles-logistique/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [JNOV TECH](http://www.jnovtech.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [MEANWHILE](http://www.meanwhile-france.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [Savoye](https://www.savoye.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [SCALLOG](https://www.scallog.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [SEQUENCE ROBOTICS](https://sequence-robotics.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-- [SHERPA Mobile Robotics](https://sherpa-mr.com/) - Develops intralogistics automation, AGV/AMR, warehouse, or material-handling solutions.
-
-### Logistics
-
-- [MEKAPHARMA](http://www.mekapharm.fr/) - Develops logistics robotics or automated handling solutions.
-- [PHARMAX](http://www.pharmax.fr/) - Develops logistics robotics or automated handling solutions.
-
-### Special-purpose machines
-
-- [BOSCH ROBERT STE](https://www.boschrexroth.com/fr/fr/produits/solutions-industrielles/robotique-mobile/) - Builds special-purpose automated or robotic machines.
-
-### Microrobotics
-
-- [3DIS TECHNOLOGIES](https://www.3dis-tech.com/) - Develops microrobotics and miniaturized mechatronic systems.
-
-### Autonomous navigation
-
-- [iNGAGE](https://www.ingage-mems.com/) - Develops autonomous navigation technologies.
-
-### Industrial processes
-
-- [3D-ICONIC](https://www.3d-iconic.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [3Deus Dynamics](https://3deusdynamics.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [ADDUP](https://www.decip.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [AIR LIQUIDE ELECTRONICS](https://electronics.airliquide.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [AMBPR](https://ambpr.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [AMFREE](https://amfree.eu/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [ANIAH](https://aniah.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [AVEL ROBTICS](https://www.avelrobotics.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [Bayad Industrie](http://www.bayab.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [CAILABS](https://www.cailabs.com/fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [CIRTES](https://www.cirtes.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [CONSTRUCTIONS - 3D](https://www.constructions-3d.com/fr) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [CORIOLIS COMPOSITES](https://www.coriolis-composites.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [COSMYX](https://www.cosmyx3d.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [CRYMIROTECH](https://monomeris-chemicals.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [DELTA MU](http://www.deltamu.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [EDDYFI](https://www.eddyfi.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [Erowa France](https://www.erowa.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [ERPO](http://www.erpo.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [FABULOUS](https://fabulous.com.co/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [FLYING VISION](https://www.flying-vision.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [G-HBP](https://hbp.group/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [GEOMNIA](https://www.geomnia.eu/fr) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [HUMMINK](http://hummink.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [INVERT ROBOTICS](https://invertrobotics.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [ION BEAM SERVICES](https://www.ion-beam-services.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [IUMTEK](https://iumtek.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [KELENN TECHNOLOGY](https://kelenntech.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [LABORATOIRES NANO](http://www.laboratoires-nano.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [Lassarat](https://www.lassarat.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [Lectra](https://www.lectra.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [LIGENTEC FRANCE](http://www.ligentec.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [lynxter](https://lynxter.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [MATRASUR COMPOSITE](https://matrasurcomposites.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [MELIAD](https://www.meliad-sas.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [METALIS Group](https://www.metalis-group.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [NHOD Industries](https://nhod-industries.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [Novadditive](http://novadditive.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [PISEO](http://www.piseo.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [RESCOLL](https://rescoll.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [ROBOCOL](https://www.robocol.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [SAFRAN ADDITIVE MANUFACTURING CAMPUS](https://www.lindustrie-recrute.fr/entreprise/19191/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [TMUA](http://www.tmua.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [TPSH](https://www.tpsh.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [V.L.M. Robotics](http://www.vlm-robotics.fr/) - Develops manufacturing, additive, materials, or industrial process technologies.
-- [VOLUM-E](http://www.volum-e.com/) - Develops manufacturing, additive, materials, or industrial process technologies.
-
-### Robot programming
-
-- [3IDM](https://www.3idm.fr/nos-prestations/robomaster-nantes/) - Provides robot programming and offline programming tools or services.
-- [ADAXIS](https://adaxis.eu/) - Provides robot programming and offline programming tools or services.
-- [DASSAULT SYSTEMES / Dassault Systemes (Delmia)](https://discover.3ds.com/fr/) - Provides robot programming and offline programming tools or services.
+- [AGILOX France](https://www.agilox.net/fr/) - Supplies autonomous mobile robots for automating internal material flows.
+- [Alstef](https://www.alstefgroup.com/) - Designs and integrates turnkey automated intralogistics systems.
+- [APROLIS](https://www.aprolis.com/) - Supports intralogistics automation with AGV forklift solutions.
+- [BALYO](https://www.balyo.com/fr-fr/) - Automates forklift and warehouse flows with navigation and fleet-management systems.
+- [BOA CONCEPT](https://www.boa-concept.com/fr-fr) - Develops automated systems for intralogistics and order preparation.
+- [E-COBOT](https://e-cobot.solutions/) - Develops robotic and AI systems for logistics flow automation.
+- [EASYMOV Robotics](https://www.euroquity.com/en/company/easymov-robotics) - Develops mobile robotics software and deploys AGVs in factories and warehouses.
+- [EXOTEC](https://www.exotec.com/fr/) - Builds warehouse robotics systems based on fleets of autonomous mobile robots.
+- [Fives Xcella](https://www.fivesgroup.com/fr/) - Deploys automated storage based on fleets of mobile robots.
+- [FORX](https://www.forx.rent/) - Develops and integrates autonomous mobile robots for logistics handling.
+- [Galam Robotics](https://www.galam-robotics.com/) - Creates modular robotic storage systems for compact logistics spaces.
+- [IFOLLOW SAS](https://www.ifollow.fr/robots-autonomes-mobiles-logistique/) - Manufactures autonomous mobile robots for logistics, industry, and cold-chain picking.
+- [JNOV TECH](http://www.jnovtech.com/) - Develops industrial mobile robotics products for moving heavy ground loads.
+- [MEANWHILE](http://www.meanwhile-france.com/) - Develops natural-navigation mobile robots for intralogistics.
+- [MEKAPHARMA](http://www.mekapharm.fr/) - Builds robotized pharmacy storage and dispensing systems.
+- [PHARMAX](http://www.pharmax.fr/) - Installs automated pharmacy systems for product storage and dispensing tasks.
+- [ROB'OCC](https://www.robocc.fr/) - Industrializes autonomous indoor vehicles for intralogistics.
+- [Savoye](https://www.savoye.com/) - Designs intralogistics systems combining software, automation, and robotics.
+- [SCALLOG](https://www.scallog.com/) - Develops goods-to-person robots for order preparation.
+- [SEQUENCE ROBOTICS](https://sequence-robotics.com/) - Builds robotic systems for logistics sorting and product picking.
+- [SHERPA Mobile Robotics](https://sherpa-mr.com/) - Develops collaborative mobile robots for industrial transport and assistance.
+- [SOBEN](https://soben.fr/) - Builds autonomous mobile robots for urban logistics and factory transport.
+- [STANLEY Robotics](http://stanley-robotics.fr/) - Develops autonomous robots that move parked vehicles in logistics-style facilities.
+- [TwinsWheel](https://www.twinswheel.fr/) - Develops autonomous delivery robots for urban and industrial logistics.
 
 ### Agricultural robotics
 
-- [AISPRID](https://aisprid.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [Cyclair](https://cyclair.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [Dilepix (Bretagne)](https://www.dilepix.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [Dilepix (Provence-Alpes-Côte d’Azur)](https://www.dilepix.com/fr/machinisme-robotique) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [Dussau Development](http://www.dussau-developpement.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [ELATEC](https://www.elatec-rfid.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [Exxact Robotics](https://exxact-robotics.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [INSTAR Robotics](https://instar-robotics.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [LEGER SAS](https://www.legersas.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [MAF AGROBOTIC](https://www.maf-roda.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [NAIO Technologies](http://naio-technologies.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [OCTOPUS](https://www.octopusbiosafety.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [OSIRIS AGRICULTURE](https://osiris-agriculture.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [SABIAGRI](http://www.sabi-agri.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [SITIA](http://www.sitia.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [SIZA ROBOTICS](https://siza-robotics.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [SYLETKIS](https://www.sylektis.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [VITIBOT](https://www.vitibot.fr/) - Develops robotic or automated systems for agriculture and agri-food operations.
-- [VITIROVER](http://www.vitirover.com/) - Develops robotic or automated systems for agriculture and agri-food operations.
+- [AGREENCULTURE](https://www.agreenculture.fr/fr) - Develops autonomous navigation kits for agricultural vehicles.
+- [AISPRID](https://aisprid.com/) - Builds autonomous robots combining AI and robotics for fruit and vegetable production.
+- [Cyclair](https://cyclair.fr/) - Develops AI-guided autonomous weeding robots as alternatives to herbicides.
+- [Dilepix](https://www.dilepix.com/fr/machinisme-robotique) - Creates computer-vision and AI software for agricultural machines and livestock automation.
+- [Dussau Development](http://www.dussau-developpement.com/) - Builds robotic equipment for livestock farming, including bedding and monitoring tasks.
+- [ELATEC](https://www.elatec-rfid.com/) - Designs agricultural machines that can support automated field operations.
+- [Exxact Robotics](https://exxact-robotics.com/) - Develops precision-agriculture systems combining robotic equipment, sensors, and image analysis.
+- [INSTAR Robotics](https://instar-robotics.com/) - Builds autonomous mobile robots for horticulture.
+- [LEGER SAS](https://www.legersas.com/) - Develops robotized agricultural machines for arboriculture and viticulture.
+- [MAF AGROBOTIC](https://www.maf-roda.com/) - Builds automated grading, sorting, and packing systems for fresh produce.
+- [NAIO Technologies](http://naio-technologies.com/) - Designs, manufactures, and markets autonomous agricultural robots.
+- [OCTOPUS](https://www.octopusbiosafety.com/) - Develops autonomous robots and AI systems for hygiene and productivity in livestock facilities.
+- [OSIRIS AGRICULTURE](https://osiris-agriculture.fr/) - Develops multipurpose robotic platforms for agricultural work.
+- [SABIAGRI](http://www.sabi-agri.com/) - Designs robotic agricultural equipment, including electric tractors.
+- [SITIA](http://www.sitia.fr/) - Develops autonomous tractor platforms and test vehicles.
+- [SIZA ROBOTICS](https://siza-robotics.com/) - Builds autonomous-navigation robots for agricultural operations.
+- [SYLETKIS](https://www.sylektis.com/) - Develops harvesting robots for market-garden fruit and vegetable crops.
+- [VITIBOT](https://www.vitibot.fr/) - Builds electric autonomous straddle robots for vineyards.
+- [VITIROVER](http://www.vitirover.com/) - Develops autonomous mowing robots and fleet management for precision agriculture.
 
-### Autonomous robotics
+### Medical and assistive robotics
 
-- [ABLIX](https://ablix.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [AGREENCULTURE](https://www.agreenculture.fr/fr) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [CONSCIENCE ROBOTICS](https://conscience-robotics.com/fr_fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [CONTINENTAL AUTOMOTIVE F](https://www.continental.com/fr-fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [EASYMILE](https://easymile.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [ECA robotics / Exail Robotics](https://www.exail.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Elwave](https://elwave.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [EX9](https://ex9.tech/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Exwayz](https://www.exwayz.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [GENERATE (ex DIBOTIX)](https://www.dibotics.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Glocal Robotics](https://www.glocalrobotics.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Heracles Robotics](https://www.heracles-robotics.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Intempora](https://intempora.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [IPSUMTEK](http://www.ipsumtek.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Isymap](https://isymap.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [KNDS France Robotics](https://knds.com/fr) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [LOHR](https://www.lohr.fr/fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Magellium](http://www.magellium.com/fr) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Mandarine Robotique](http://www.mandarinesolutions.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [MecaBotiX](http://www.mecabotix.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [NAWATECHNOLOGIES](https://nawah.fr/fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [NIMBLE ONE](https://nimbleone.io/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [NOTILO PLUS](https://www.notiloplus.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [PERCEPTION 4D](https://perception4d.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [PILGRIM TECHNOLOGY](http://www.pilgrim-technology.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [PROPHESEE](http://www.prophesee.ai/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [RENAULT S.A.S](https://www.renaultgroup.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [ROB'OCC](https://www.robocc.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Running Brain](https://runningbrainsrobotics.com/fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [SBG SYSTEMS](https://www.sbg-systems.com/fr/?utm_source=google&utm_medium=gmb&utm_campaign=gmb_fr&utm_id=GMBusiness) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [SERA Technologie](https://serasas.com/contact) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [SFYNX INDUSTRY](http://sfynx-industry.com/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [SOBEN](https://soben.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [STANLEY Robotics](http://stanley-robotics.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Subtop](http://www.subtop.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [TwinsWheel](https://www.twinswheel.fr/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [UNIK TECHNOLOGIES](https://www.francemobilites.fr/acteurs/unik-technologies) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [VALEO](https://www.valeo.com/fr/valeo-scala-lidar/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
-- [Yona Robotics](https://yona-robotics.com/en/home/) - Develops autonomous robots, vehicles, navigation, or autonomy software.
+- [ACUSurgical](https://www.acusurgical.com/) - Develops robotic assistance for ophthalmic microsurgery.
+- [AMAROB Technologies](http://amarob.com/) - Develops medical devices using microrobotics for intracorporeal laser surgery.
+- [Axilum Robotics](https://www.axilumrobotics.com/) - Builds robotic assistance systems for transcranial magnetic stimulation.
+- [BHealthCare / BHealthCare SAS](https://www.bhealthcare.fr/) - Develops a robotized blood-draw automation system.
+- [Capsix Robotics](https://www.capsix.com/fr/accueil-fr/) - Combines 3D sensing and robotic arms for automated massage.
+- [DIGISURGE](https://www.digisurge.fr/) - Develops robotic platforms for transcatheter heart-valve procedures.
+- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Builds imaging and surgical navigation systems for robotic operating rooms.
+- [Exhauss](https://www.exhauss.com/) - Manufactures occupational exoskeletons for industrial assistance.
+- [GANYMED ROBOTICS](https://www.ganymedrobotics.com/) - Develops robotic assistance for orthopedic surgery.
+- [GE HealthCare](https://www.gehealthcare.fr/) - Develops robotized platforms and software for medical imaging and decision support.
+- [KYNISKA ROBOTICS](https://www.kyniska-robotics.com/) - Develops innovative medical devices with robotic positioning capabilities.
+- [MAXTRONICS ROBOTICS](https://www.maxtronics.com/fr/) - Designs humanoid robots for education and healthcare uses.
+- [MOON SURGICAL](https://moonsurgical.com/) - Develops a robotic surgical assistant for laparoscopy.
+- [Orthopus](https://orthopus.com/) - Develops affordable assistive devices for people with disabilities.
+- [Quantum Surgical](http://www.quantumsurgical.com/) - Builds robotic medical systems for cancer treatment procedures.
+- [REEV](https://reev.care/) - Develops wearable robotic assistance for people with neurological gait disorders.
+- [ROBEAUTE](https://www.robeaute.com/) - Develops microrobots for diagnosis and treatment inside the brain.
+- [ROBOCATH](http://www.robocath.com/) - Develops robotic systems for vascular interventional procedures.
+- [SpinEM Robotics](https://spinem-robotics.com/) - Provides navigation technology for robotic spine surgery.
+- [SURGITEC ROBOTICS](https://www.surgitec.com/) - Develops advanced robotic systems for surgery.
+- [Wandercraft](https://en.wandercraft.eu/) - Develops self-balancing exoskeletons for rehabilitation and work assistance.
+- [Zentact robotics](https://zentact-robotics.com/) - Develops robotic tools for ENT surgery.
+- [Zimmer Bionet France](https://www.zimmerbiomet.eu/fr-fr/french-home) - Provides robotic assistance systems for orthopedic surgery.
 
-### Surgical robotics
+### Inspection, marine, and field robotics
 
-- [ACUSurgical](https://www.acusurgical.com/) - Develops robotic assistance for surgical applications.
-- [ALCYM](http://alcym.fr/) - Develops robotic assistance for surgical applications.
-- [AMAROB Technologies](http://amarob.com/) - Develops robotic assistance for surgical applications.
-- [eCential Robotics](https://www.ecential-robotics.com/fr-fr) - Develops robotic assistance for surgical applications.
-- [MOON SURGICAL](https://moonsurgical.com/) - Develops robotic assistance for surgical applications.
-- [SpineGuard](http://spineguard.fr/) - Develops robotic assistance for surgical applications.
+- [ACWA](https://www.acwa-robotics.com/) - Develops autonomous robots that map and inspect drinking-water networks from the inside.
+- [AIRSUB Drone](https://air-sub-drone.fr/) - Operates underwater robots for inspection, tank cleaning, and confined aquatic work.
+- [ALSEAMAR](https://www.alseamar-alcen.com/) - Designs underwater gliders, surface drones, and naval robotic systems.
+- [Angetec](https://www.angatec.com/) - Builds electric all-terrain ground robots.
+- [Compliance Robotics](https://compliance-robotics.com/) - Develops software and hardware tools for robotics compliance and deployment.
+- [CORNIS](https://cornis.fr/index.php/fr/home/) - Uses vision and AI for wind-turbine inspection and maintenance.
+- [ECA robotics / Exail Robotics](https://www.exail.com/) - Develops robotic and autonomous systems for defense, civil, naval, nuclear, and transport uses.
+- [EDDYFI](https://www.eddyfi.com/) - Automates non-destructive testing technologies through robotic solutions.
+- [EFFIDENCE](https://effidence.com/) - Develops autonomous navigation solutions for off-road vehicles and mobile machines.
+- [EX9](https://ex9.tech/) - Builds electric autonomous tractor robots for terminal and industrial transport.
+- [Forsea Robotics](https://forssea-robotics.fr/) - Builds intelligent underwater robotic systems for offshore energy and defense.
+- [Framatome](https://www.framatome.com/medias/des-specialistes-de-la-robotique-nous-parlent-de-leurs-projets/) - Develops robotic systems for maintenance and intervention in hostile environments.
+- [Fybots](https://www.fybots.com/) - Builds robotic cleaning systems for industrial surfaces.
+- [Glocal Robotics](https://www.glocalrobotics.com/) - Develops autonomous security robots for large outdoor sites.
+- [Heracles Robotics](https://www.heracles-robotics.com/) - Develops robotics and embedded autonomy for mobile machines.
+- [INVERT ROBOTICS](https://invertrobotics.com/) - Builds climbing robotic systems for industrial inspection.
+- [IPSUMTEK](http://www.ipsumtek.com/) - Develops autonomous mobile robots with embedded AI and integrated navigation.
+- [IVYSPEC](https://ivyspec.com/) - Develops inspection robotics for pipelines and confined spaces.
+- [KNDS France Robotics](https://knds.com/fr) - Specializes in defense robotics within the KNDS group.
+- [Mandarine Robotique](http://www.mandarinesolutions.fr/) - Develops robots for automated electric-vehicle battery charging.
+- [MecaBotiX](http://www.mecabotix.com/) - Designs modular robotic systems for mobility and manipulation.
+- [Minitrucks Robotics](https://www.minitrucks-robotics.fr/) - Builds compact remote-controlled robotic vehicles for harsh or narrow environments.
+- [NIMBLE ONE](https://nimbleone.io/) - Develops modular autonomous robots for outdoor and uneven environments.
+- [Nimbl’Bot](http://www.nimbl-bot.com/) - Develops biomimetic robotic arms for inspection and maintenance in inaccessible areas.
+- [NOTILO PLUS](https://www.notiloplus.com/) - Designs autonomous underwater drones and associated data platforms.
+- [PILGRIM TECHNOLOGY](http://www.pilgrim-technology.com/) - Performs technical site inspections using drones and instrumented machines.
+- [ROBOPLANET](https://roboplanet.fr/) - Develops robotic platforms for inspection in difficult industrial environments.
+- [ROBOT IV](https://robot-iv.webflow.io/) - Develops construction-site robotics, especially for sanitation work.
+- [ROBOTSWIM](http://www.robotswim.com/) - Develops bio-inspired underwater robots.
+- [ROV developpement](http://www.rovdeveloppement.com/) - Builds robotized submersibles and marine cameras for observation tasks.
+- [Running Brain](https://runningbrainsrobotics.com/fr/) - Builds autonomous surveillance robots for industrial security.
+- [SAFRAN ELECTRONICS DEFENSE](https://www.safran-group.com/fr/societes/safran-electronics-defense) - Designs sensors and robotic systems for defense and aerospace.
+- [SFYNX INDUSTRY](http://sfynx-industry.com/) - Integrates land and aquatic robotic systems for industrial missions.
+- [SHARK ROBOTICS](http://www.shark-robotics.com/) - Develops rugged robots for firefighting, security, and explosive-ordnance response.
+- [SHERPA ENGINEERING](https://www.sherpa-eng.com/) - Designs standardized autonomous mobile robots for CNC-machine automation.
+- [Shield Robotics](https://shield-robotics.com/) - Designs and prototypes custom drones and robots for security, agriculture, and special missions.
+- [Subsea Tech](https://www.subsea-tech.com/fr/) - Develops marine and underwater robotic technologies for inspection and environmental monitoring.
+- [Subtop](http://www.subtop.fr/) - Develops marine robots equipped with sensors for seabed and environment mapping.
+- [Technip](http://www.cybernetix.fr/) - Develops robotic systems for industrial-site monitoring and maintenance.
+- [TWIN-ROBOTICS](https://www.twinrobotics.com/) - Creates programming software for robotic non-destructive testing systems.
+- [Visi'Eau drones](https://www.visieaudrone.com/) - Uses underwater robots for subaquatic inspection and industrial tank cleaning.
 
-### Inspection robotics
+### Service and social robotics
 
-- [ACWA (AUTONOMOUS CLEAN WATER APPLIANCE  ROBOTICS)](https://www.acwa-robotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
-- [Compliance Robotics](https://compliance-robotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
-- [CORNIS](https://cornis.fr/index.php/fr/home/) - Develops inspection robots, sensors, or robotic inspection services.
-- [Framatome](https://www.framatome.com/medias/des-specialistes-de-la-robotique-nous-parlent-de-leurs-projets/) - Develops inspection robots, sensors, or robotic inspection services.
-- [IVYSPEC](https://ivyspec.com/) - Develops inspection robots, sensors, or robotic inspection services.
-- [Nimbl’Bot](http://www.nimbl-bot.com/) - Develops inspection robots, sensors, or robotic inspection services.
-- [ROBOPLANET](https://roboplanet.fr/) - Develops inspection robots, sensors, or robotic inspection services.
-- [ROBOT IV](https://robot-iv.webflow.io/) - Develops inspection robots, sensors, or robotic inspection services.
-- [Technip](http://www.cybernetix.fr/) - Develops inspection robots, sensors, or robotic inspection services.
-- [ThinkDeep AI](https://www.thinkdeep.ai/) - Develops inspection robots, sensors, or robotic inspection services.
-- [TPL VISION](https://www.tpl-vision.com/) - Develops inspection robots, sensors, or robotic inspection services.
-- [TWIN-ROBOTICS](https://www.twinrobotics.com/) - Develops inspection robots, sensors, or robotic inspection services.
-
-### Service robotics
-
-- [AIROBOTICS](https://airobotics.fr/nos-gammes/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [AWABOT](https://awabot.com/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [FranceRol Robotics](https://francerol-robotics.com/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [Fybots](https://www.fybots.com/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [POLLEN ROBOTICS](http://pollen-robotics.com/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [Spoon AI](http://spoon.ai/) - Develops service robots for public, hospitality, retail, or facility use cases.
-- [UROBOT](https://urobot.fr/) - Develops service robots for public, hospitality, retail, or facility use cases.
-
-### Outdoor robotics
-
-- [Altametris / SNCF (Altametris)](https://www.altametris.com/) - Works across outdoor robotics, digitalisation env..
-- [LUOS](https://www.luos.io/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [Minitrucks Robotics](https://www.minitrucks-robotics.fr/) - Works across outdoor robotics, autonomous robotics.
-- [PGES](https://www.pges.fr) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [SAFRAN ELECTRONICS DEFENSE](https://www.safran-group.com/fr/societes/safran-electronics-defense) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [SHARK ROBOTICS](http://www.shark-robotics.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [SHERPA ENGINEERING](https://www.sherpa-eng.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [Shield Robotics](https://shield-robotics.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-- [Visi'Eau drones](https://www.visieaudrone.com/) - Develops outdoor robots for maintenance, infrastructure, agriculture, or field operations.
-
-### Industrial robotics
-
-- [Airbus Robotics (MTM robotics)](https://www.airbus.com/en/innovation/digital-transformation/industry-4-0/robotics) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [AkeoPlus](https://akeoplus.com/fr/box/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Alema Automation](https://alema-automation.it/about-us/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ATG TECHNOLOGIES](https://www.atg-technologies.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ATI Group](https://www.groupe-ati.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [AUREA](https://www.aurea25.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [AX Group](http://www.ax-group.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [AXIOME](https://www.axiome.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [BATechgroup.com](https://www.batechgroup.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [COBOT ONE](https://cobot-one.com/fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Cognitive Engine](https://cogengines.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [COMMERCY ROBOTIQUE](https://www.commercy-robotique.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [COVAL](https://www.coval.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [DMG MORI](http://fr.dmgmori.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ECLORE](https://eclore-actuators.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Equans Digital Robotics & Automation](https://www.equans-digital.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ERM Automatisme](http://www.erm-automatismes.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [FESTO](https://www.festo.com/fr/fr/e/a-propos-de-festo/blog/robotics-id_9229-1153/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [FTS WELDING](http://fts-welding.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [FUZZY ROBOTICS](https://flr.io/fr-fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [GAPE CEMES](https://gape-cemes.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [GENERAL ROBOTICS](https://general-robotics.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Gobano Robotics](https://www.gobano.ai/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Haption](https://www.haption.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [HURON GRAFFENSTADEN SAS](http://huron.fr/fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [IDEATEC](https://www.ideatec.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [INBOLT](http://www.inbolt.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ISP Aquitaine](https://www.isp-aquitaine.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ISP SYSTEM](https://www.isp-system.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [ISYBOT](https://www.isybot.com/cobot/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [JPB SYSTEME](https://www.jpb-systeme.com/fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [KEEP'MOTION](http://keep-motion.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [LES COMPANIONS](http://www.lescompanions.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [LUCAS FRANCE](http://www.lucas-robotic-system.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [MECANUMERIC](http://www.mecanumeric.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [MOOG](https://www.moog.com/markets/industrial-automation/robotics.html) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Neoditech](http://www.neoditech.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [NIRYO](https://niryo.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Novaxion](https://www.novaxion.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Optiflux](http://www.optiflux-sas.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [PaintUP SAS](http://www.paintup.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Panarobotics](https://lespepitestech.com/startup-de-la-french-tech/panarobotics) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [PERCIPIO ROBOTICS](http://www.percipio-robotics.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [PFEIFFER VACUUM](https://www.pfeiffer-vacuum.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Proditec](https://www.proditec.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [R-ACTIV](https://r-activ.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [RB3D](http://www.rb3d.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [RD Vision](https://www.rd-vision.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Real Time robotics](https://realtime-robotics.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Robkub (Groupe FIDEIP)](https://www.robkub.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Safran Industrie](https://www.safran-group.com/fr) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SANANGA SAS](https://www.sananga.tech/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SAVOY INGENIERIE ROBOTIQUE](https://www.groupe-savoy.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Schneider Electrics](https://www.se.com/fr/fr/product-subcategory/2915-robotique-et-axes-lin%C3%A9aires/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SEPRO Group](http://www.sepro-group.com/fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SIDEL](https://www.sidel.com/fr/machines-repository/robotique-encaissage-et-manipulation-produits/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SILEANE](http://www.sileane.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [SOPRA STERIA](https://www.soprasteria.com/services/technology-services/intelligent-process-automation) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Staubli](https://www.staubli.com/fr-fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [STIRWELD](https://www.stirweld.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Symetrie](http://www.symetrie.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [TDM-Automation](https://tdm-automation.fr/machines-speciales-transitique/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Tesseract Solutions](https://finovamgestion.fr/portfolio/tesseract-solutions-sas/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [TOPSOLID](http://www.topsolid.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [Visionic](http://www.visionic.fr/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [WATT ET WELL](https://www.wattandwell.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [WEEZ-U WELDING](https://weez-u-welding.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-- [WYCA Robotics](https://wyca-robotics.com/) - Develops industrial robots, cobots, robotic cells, or automation equipment.
-
-### Medical robotics
-
-- [Axilum Robotics](https://www.axilumrobotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [BHealthCare / BHealthCare SAS](https://www.bhealthcare.fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Capsix Robotics](https://www.capsix.com/fr/accueil-fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [DIABELOOP](http://diabeloop.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [DIGISURGE](https://www.digisurge.fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Exhauss](https://www.exhauss.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [GANYMED ROBOTICS](https://www.ganymedrobotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [GE HealthCare](https://www.gehealthcare.fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [GENSENSOR](https://gensensor.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [KYNISKA ROBOTICS](https://www.kyniska-robotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [MAXTRONICS ROBOTICS](https://www.maxtronics.com/fr/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [MinMaxMedical](https://www.minmaxmedical.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Quantum Surgical](http://www.quantumsurgical.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [REEV](https://reev.care/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [ROBEAUTE](https://www.robeaute.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [ROBOCATH](http://www.robocath.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [SpinEM Robotics](https://spinem-robotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [SURGITEC ROBOTICS](https://www.surgitec.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Wandercraft](https://en.wandercraft.eu/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Zentact robotics](https://zentact-robotics.com/) - Develops medical robotics, assistive devices, or automated medical technologies.
-- [Zimmer Bionet France](https://www.zimmerbiomet.eu/fr-fr/french-home) - Develops medical robotics, assistive devices, or automated medical technologies.
-
-### Assistive robotics
-
-- [Orthopus](https://orthopus.com/) - Develops assistive robotics for disability and mobility support.
-
-### Social robotics
-
-- [Blue Frog Robotics](http://www.bluefrogrobotics.com/) - Develops social or companion robots and related services.
-- [KOMPAI ROBOTICS](http://kompairobotics.com/) - Develops social or companion robots and related services.
-- [LEOBOTICS](https://www.leobotics.com/) - Develops social or companion robots and related services.
-
-### Marine and underwater robotics
-
-- [AIRSUB Drone](https://air-sub-drone.fr/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
-- [ALSEAMAR](https://www.alseamar-alcen.com/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
-- [Forsea Robotics](https://forssea-robotics.fr/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
-- [ROBOTSWIM](http://www.robotswim.com/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
-- [ROV developpement](http://www.rovdeveloppement.com/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
-- [Subsea Tech](https://www.subsea-tech.com/fr/) - Develops marine, underwater, ROV, or autonomous inspection robotics.
+- [AIROBOTICS](https://airobotics.fr/nos-gammes/) - Supplies service robots for hospitality and public-facing environments.
+- [AWABOT](https://awabot.com/) - Deploys telepresence robots for remote presence and social connection.
+- [Blue Frog Robotics](http://www.bluefrogrobotics.com/) - Develops companion robots for social interaction.
+- [Enchanted Tools](https://enchanted.tools/) - Develops expressive service robots for human-facing environments.
+- [FranceRol Robotics](https://francerol-robotics.com/) - Offers service robots for cleaning, delivery, reception, and assistance.
+- [IADYS](https://www.iadys.com/) - Develops AI-assisted robots for collecting floating waste from water surfaces.
+- [KOMPAI ROBOTICS](http://kompairobotics.com/) - Develops autonomous mobile robots for healthcare and assistance settings.
+- [LEOBOTICS](https://www.leobotics.com/) - Provides ROS-based robotic platforms for education and experimentation.
+- [POLLEN ROBOTICS](http://pollen-robotics.com/) - Builds open hardware and software humanoid platforms for manipulation research.
+- [Spoon AI](http://spoon.ai/) - Develops expressive front-desk robots for public spaces.
+- [UMA](https://uma.bot/) - Develops generative-AI robotic platforms for industrial and logistics task automation.
+- [UROBOT](https://urobot.fr/) - Builds service robots for delivery and restaurant operations.
 
 ### Space robotics
 
-- [AIRBUS DEFENCE AND SPACE](https://www.airbus.com/en/newsroom/news/2021-02-the-new-digital-factory-hundreds-of-kilometres-above-earth) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [Airbus Defense & Space](https://www.airbus.com/en/newsroom/stories/2024-01-the-worlds-first-metal-3d-printer-for-space-is-on-its-way-to-the-iss) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [ARCSPACE](https://www.arc-space.com/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [Astro-Scale France](https://astroscale.com/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [EXOTRAIL](https://exotrail.com/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [Exploration Company](https://www.exploration.space/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [Infinite Orbits](https://www.infiniteorbits.io/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [PHIGI](https://www.phigi.io/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [ROVIAL](https://www.rovial.space/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [SIMERA sense France](https://simera-sense.com/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [THALES ALENIA SPACE](https://www.thalesaleniaspace.com/en) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-- [Venturi Space France](https://venturi.space/) - Develops robotics, automation, autonomy, or mechatronics for space applications.
-
-### Ground robotics
-
-- [Angetec](https://www.angatec.com/) - Develops ground robotics and autonomous mobile platforms.
-- [EFFIDENCE](https://effidence.com/) - Develops ground robotics and autonomous mobile platforms.
-
-### Software services
-
-- [AlgoTech](https://www.algo-tech.fr/contactez-nous) - Provides software services relevant to robotics, industry, or automation.
-- [Artelys](https://www.artelys.com/fr/) - Provides software services relevant to robotics, industry, or automation.
-- [ARTERIS IP](https://www.arteris.com/) - Provides software services relevant to robotics, industry, or automation.
-- [BeTomorrow](https://www.betomorrow.com/) - Provides software services relevant to robotics, industry, or automation.
-- [Black Swan Technology](https://www.black-swan-technology.fr/) - Provides software services relevant to robotics, industry, or automation.
-- [DIAGRAMS TECHNOLOGIES](https://diagrams-technologies.com/) - Provides software services relevant to robotics, industry, or automation.
-- [DYDU](https://www.dydu.ai/) - Provides software services relevant to robotics, industry, or automation.
-- [DynamicScreen](https://comeen.com) - Provides software services relevant to robotics, industry, or automation.
-- [IMMERSION](http://www.immersion.fr/) - Provides software services relevant to robotics, industry, or automation.
-- [PICOMTO](https://www.picomto.com/) - Provides software services relevant to robotics, industry, or automation.
-
-### Simulation
-
-- [4D-Virtualiz](https://www.4d-virtualiz.com/) - Develops simulation, virtual commissioning, or modeling tools.
-- [GOLAEM](https://www.autodesk.com/solutions/golaem) - Develops simulation, virtual commissioning, or modeling tools.
-- [HMI-MBS](http://hmi-mbs.fr/) - Develops simulation, virtual commissioning, or modeling tools.
-- [PROLEXIA](https://prolexia.fr/) - Develops simulation, virtual commissioning, or modeling tools.
-- [SIMCORE](https://www.simcore.fr/) - Develops simulation, virtual commissioning, or modeling tools.
-
-### 3D data processing
-
-- [A2D](https://www.a2d.ai/) - Develops 3D acquisition, processing, visualization, or decision-support tools.
-
-### Industrial vision
-
-- [ABC vision industrielle](https://abcvision.info/fr/accueil/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [ADPIX](https://www.adpix.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [AOI Numii](http://www.aoisystems.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [APREX Solutions](https://aprex-solutions.com/fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [ARTEKA](https://arteka.tech/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [AVENIR VISION Industrie](http://www.avenirvision.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [AVIWEST](https://innovacom.com/company/aviwest/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [CAPTIC / CAPTIC VISION](https://capticvision.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [CEVILOG](https://www.cevilog.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [CIRA VISION](https://www.cira-vision.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [CODA Systèmes](https://www.coda-systemes.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [E2V SEMICONDUCTORS](https://semiconductors.teledyne-e2v.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [EDIXIA Automation](http://www.edixia.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [EXPERTISE VISION](https://expertisevision.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [I2S](https://i2s.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [INPIXAL](https://www.inpixal.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [KEYENCE](https://www.keyence.fr/products/vision/vision-sys/2d_vgr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [LYNRED](https://www.lynred.com/fr) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [NEOTEC VISION](http://neotec-vision.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [New Imaging](https://new-imaging-technologies.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [ROBSYS](http://www.robsys.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [ST37](https://www.st37.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [Vision Engineering](http://www.visioneng.fr/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
-- [VisioNerf](http://www.visionerf.com/) - Develops industrial vision, image processing, inspection, or machine-vision systems.
+- [AIRBUS DEFENCE AND SPACE](https://www.airbus.com/en/newsroom/news/2021-02-the-new-digital-factory-hundreds-of-kilometres-above-earth) - Works on space technologies including in-orbit servicing, observation, and automated manufacturing.
+- [Airbus Defense & Space](https://www.airbus.com/en/newsroom/stories/2024-01-the-worlds-first-metal-3d-printer-for-space-is-on-its-way-to-the-iss) - Develops robotized systems for manufacturing and intervention in space environments.
+- [ARCSPACE](https://www.arc-space.com/) - Develops in-orbit assembly, inspection, automation, and welding technologies.
+- [Astro-Scale France](https://astroscale.com/) - Works on in-orbit servicing missions for sustainable space operations.
+- [Infinite Orbits](https://www.infiniteorbits.io/) - Develops autonomous vision-based rendezvous and navigation services for satellites.
+- [PHIGI](https://www.phigi.io/) - Develops algorithms for coordinating micro-robots in demanding environments.
+- [ROVIAL](https://www.rovial.space/) - Develops robotic systems for space exploration and solar-energy infrastructure.
+- [THALES ALENIA SPACE](https://www.thalesaleniaspace.com/en) - Integrates autonomy, navigation, and robotics into space platforms and missions.
+- [Venturi Space France](https://venturi.space/) - Develops autonomous rovers for lunar and Martian environments.
 
 ## Open source (French projects)
 
