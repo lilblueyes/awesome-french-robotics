@@ -163,7 +163,7 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Entreprises et startups
 
-Couverture des entreprises issue de la cartographie nationale de l'écosystème robotique, limitée aux entrées avec un site identifié ayant répondu lors de la vérification. Les doublons sont fusionnés sur une ligne quand ils partagent le même site.
+Couverture des entreprises issue de la cartographie nationale de l'écosystème robotique.
 
 ### Capteurs
 

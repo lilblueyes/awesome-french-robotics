@@ -163,7 +163,7 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 ## Companies and startups
 
-Company coverage from the national robotics ecosystem map, limited to entries with an identified website that responded during verification. Duplicate records are merged on one line when they share the same website.
+Company coverage from the national robotics ecosystem map.
 
 ### Capteurs
 
