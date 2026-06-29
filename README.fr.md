@@ -942,8 +942,9 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 - [Centrale Nantes](https://www.ec-nantes.fr/) - Robotique, automatique et systèmes.
 - [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Pôle d'ingénierie tourné vers les systèmes embarqués, la robotique et l'industrie numérique.
 - [ENAC](https://www.enac.fr/) - Drones, systèmes embarqués et aéronautique.
-- [ENSTA Bretagne](https://www.ensta-bretagne.fr/) - Robotique, électronique et systèmes embarqués.
-- [ENSTA Paris](https://www.ensta-paris.fr/) - Robotique, systèmes et embarqué.
+- [ENSTA campus Brest - Formation d'ingénieur Systèmes embarqués](https://www.ensta.fr/formations/formation-dingenieur-systemes-embarques-par-alternance) - Formation d'ingénieur par apprentissage en systèmes embarqués temps réel, électronique et informatique.
+- [ENSTA campus Brest et Paris-Saclay - VA Robotique et systèmes autonomes](https://www.ensta.fr/formations/ingenieurs/ingenieur-generaliste/un-large-choix-dexpertise-en-3e-annee) - Voie d'approfondissement en robotique, systèmes autonomes, automatique, perception, IA, simulation, navigation et robots mobiles.
+- [ENSTA campus Paris-Saclay - 3A Parcours Robotique](https://synapses.ensta-paris.fr/catalogue/parcours/48/3A-PAR-ROB-3a-course-robotics) - Parcours d'ingénieur couvrant robotique, véhicules autonomes, temps réel, vision robotique, navigation et manipulation.
 - [ESTACA](https://www.estaca.fr/) - Systèmes embarqués et mobilité autonome.
 - [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Parcours d'ingénieur centré sur la mécatronique et les systèmes embarqués.
 - [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotique, IA et embarqué.
@@ -958,6 +959,10 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 
 ### Masters et parcours universitaires ciblés
 
+- [ENSTA - Mastère spécialisé Intelligence artificielle multimodale et autonome](https://www.ensta.fr/en/training/advanced-master-multimodal-and-autonomous-artificial-intelligence) - Formation avancée couvrant robotique, interaction humain-machine, traitement du langage et IA autonome.
+- [Grenoble INP - Master Mobile, Autonomous and Robotic Systems (MARS)](https://ense3.grenoble-inp.fr/en/study-at-ense3/master-tsi-mobile-autonomous-and-robotic-systems-mars) - Master en IA, commande, mécatronique, drones, systèmes embarqués et mobilité intelligente.
+- [ISblue - Master in Mobile Robotics](https://isblue.fr/en/our-training-offer/master-msc-in-mobile-robotics/) - Master centré sur les robots mobiles et les véhicules autonomes marins et sous-marins.
+- [Paris-Saclay - M2 Ingénierie des systèmes industriels avancés, parcours RSP](https://www.universite-paris-saclay.fr/en/education/masters-degree/industrial-engineering/m2-ingenierie-des-systemes-industriels-avances) - Parcours robotique et systèmes de production pour conception et intégration de systèmes robotiques industriels.
 - [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master orienté robotique, automatique et systèmes intelligents.
 - [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master en automatique, perception et robotique.
 - [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Parcours Systèmes, Machines autonomes et Réseaux de Terrains.

@@ -942,8 +942,9 @@ Selection of entry points and targeted programs. This section focuses on program
 - [Centrale Nantes](https://www.ec-nantes.fr/) - Robotics, control, and systems.
 - [ECAM LaSalle - Systèmes Embarqués et Robotique](https://www.ecam.fr/pole-numerique/) - Engineering center focused on embedded systems, robotics, and digital industry.
 - [ENAC](https://www.enac.fr/) - Drones, embedded systems, and aerospace.
-- [ENSTA Bretagne](https://www.ensta-bretagne.fr/) - Robotics, electronics, and embedded systems.
-- [ENSTA Paris](https://www.ensta-paris.fr/) - Robotics, systems, and embedded engineering.
+- [ENSTA campus Brest - Formation d'ingénieur Systèmes embarqués](https://www.ensta.fr/formations/formation-dingenieur-systemes-embarques-par-alternance) - Apprenticeship engineering program in real-time embedded systems combining electronics and computing.
+- [ENSTA campus Brest and Paris-Saclay - VA Robotique et systèmes autonomes](https://www.ensta.fr/formations/ingenieurs/ingenieur-generaliste/un-large-choix-dexpertise-en-3e-annee) - Third-year specialization in robotics, autonomous systems, control, perception, AI, simulation, navigation, and mobile robots.
+- [ENSTA campus Paris-Saclay - 3A Parcours Robotique](https://synapses.ensta-paris.fr/catalogue/parcours/48/3A-PAR-ROB-3a-course-robotics) - Engineering track covering robotics, autonomous vehicles, real-time systems, robotic vision, navigation, and manipulation.
 - [ESTACA](https://www.estaca.fr/) - Embedded systems and autonomous mobility.
 - [ESTIA - Ingénieur Mécatronique et Systèmes Embarqués](https://www.estia.fr/formations/formations-en-partenariat-par-apprentissage/ingenieur-mecatronique-et-systemes-embarques-1/) - Engineering track focused on mechatronics and embedded systems.
 - [IMT Atlantique](https://www.imt-atlantique.fr/) - Robotics, AI, and embedded systems.
@@ -958,6 +959,10 @@ Selection of entry points and targeted programs. This section focuses on program
 
 ### Targeted master's degrees and university programs
 
+- [ENSTA - Advanced Master's in Multimodal and Autonomous Artificial Intelligence](https://www.ensta.fr/en/training/advanced-master-multimodal-and-autonomous-artificial-intelligence) - Advanced program with robotics, human-machine interaction, language processing, and autonomous AI.
+- [Grenoble INP - Master Mobile, Autonomous and Robotic Systems (MARS)](https://ense3.grenoble-inp.fr/en/study-at-ense3/master-tsi-mobile-autonomous-and-robotic-systems-mars) - Master's degree in AI, control, mechatronics, drones, embedded systems, and intelligent mobility.
+- [ISblue - Master in Mobile Robotics](https://isblue.fr/en/our-training-offer/master-msc-in-mobile-robotics/) - Master's degree focused on mobile robots and autonomous marine and underwater vehicles.
+- [Paris-Saclay - M2 Ingénierie des systèmes industriels avancés, parcours RSP](https://www.universite-paris-saclay.fr/en/education/masters-degree/industrial-engineering/m2-ingenierie-des-systemes-industriels-avances) - Robotics and production systems track for industrial robotic system design and integration.
 - [Sorbonne Université - Master Sciences pour l'ingénieur, parcours Robotique](https://masters-sdi.sorbonne-universite.fr/automatique-robotique/le-parcours-robotique) - Master's degree focused on robotics, control, and intelligent systems.
 - [Université de Lille - Master Automatique et robotique](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-robotique-MG002682.html) - Master's degree in control, perception, and robotics.
 - [Université de Lille - Master Automatique et systèmes électriques, parcours SMaRT](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-automatique-et-systemes-electriques-MG001978/systemes-machines-autonomes-et-reseaux-de-terrains-m2-MX002026.html) - Track in systems, autonomous machines, and field networks.
