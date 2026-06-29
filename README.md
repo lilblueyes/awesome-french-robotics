@@ -14,6 +14,7 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 - [Communities and networks](#communities-and-networks)
 - [Competitions and events](#competitions-and-events)
 - [Labs and institutes](#labs-and-institutes)
+- [Technical centers and transfer](#technical-centers-and-transfer)
 - [Companies and startups](#companies-and-startups)
 - [Open source (French projects)](#open-source-french-projects)
 - [Data and datasets](#data-and-datasets)
@@ -55,21 +56,110 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 ## Labs and institutes
 
+- [AMPERE](http://www.ampere-lab.fr) - Lyon lab working on control, cyber-physical systems safety, mechatronics, and medical robotics.
+- [C2N](http://www.c2n.universite-paris-saclay.fr/) - Nanoscience and nanotechnology center with work in microsystems and micro-nanotechnologies.
+- [CAOR (Mines Paris - PSL)](https://www.caor.minesparis.psl.eu/) - Robotics center working on perception, interaction, environment modeling, and production systems.
 - [CEA List](https://list.cea.fr/fr/) - Applied research institute in robotics, perception, and autonomy.
+- [CERI-MP](https://recherche.imt-nord-europe.fr/) - IMT Nord Europe research center with work on autonomous systems and complex system engineering.
+- [CESI LINEACT](https://lineact.cesi.fr/) - Research unit on industry 5.0, cyber-physical systems, digital interaction, and robotics.
+- [COSMER](https://cosmer.univ-tln.fr/fr-laboratoire-de-conception-de-systemes-mecaniques-et-robotiques/) - Toulon lab focused on mechanical and robotic system design.
 - [CRIStAL](https://www.cristal.univ-lille.fr/) - Lille research center in computer science and control with robotics and autonomous systems work.
+- [DTIS-PLS / DTIS-TLS (ONERA)](https://www.onera.fr/fr/dtis-unites-de-recherche) - ONERA research units in system control, AI, perception, simulation, and neuro-engineering.
+- [ESTIA-Recherche](https://www.estia.fr/recherche/) - Research unit in manufacturing processes, modeling, interfaces, and interactions.
+- [ETIS](https://www.etis-lab.fr/) - CY Cergy Paris Université, ENSEA, and CNRS lab in signal, image, embedded systems, and learning.
 - [FEMTO-ST](https://www.femto-st.fr/fr) - Research lab in robotics, control, and microtechnologies.
 - [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/) - Lab focused on control, signal processing, and robotics.
+- [GREAH](https://greah.univ-lehavre.fr/) - Normandy lab working on control, dependability, mobile robotics, and robotic manipulation.
+- [GREYC](https://www.greyc.fr/) - Normandy lab in computer science, AI, multi-agent systems, knowledge representation, and planning.
 - [Heudiasyc](https://www.hds.utc.fr/) - UTC/CNRS lab in robotics, vision, control, and autonomous mobility.
+- [I3S](http://www.i3s.unice.fr/I3S/) - Nice lab in signal and image processing, communications, robotics, and autonomous systems.
+- [IBISC](http://www.ibisc.univ-evry.fr/) - Université d'Évry lab in perception, interpretation, decision, image, and control.
 - [ICube](https://icube.unistra.fr/) - Research lab in engineering, imaging, and robotics.
+- [IFREMER](https://www.ifremer.fr/) - Research and test capabilities in underwater robotics, navigation, and teleoperation.
 - [Inria](https://www.inria.fr/fr) - Research in robotics, AI, and systems.
+- [Inria Acentauri](https://team.inria.fr/acentauri/) - Project team on autonomous robotics, perception, and human-robot interaction.
+- [Inria Astra](https://astra-team.github.io/) - Project team on autonomous navigation, computer vision, and planning.
+- [Inria Auctus](https://auctus-team.gitlabpages.inria.fr/) - Project team in biomechanics, robotics, optimization, and control.
+- [Inria Chroma](https://team.inria.fr/chroma/en/) - Project team on cooperative robots adapted to human presence.
+- [Inria RobotLearn](https://team.inria.fr/robotlearn/) - Project team on learning, perception, and control for social robots.
+- [Inria Willow](https://www.di.ens.fr/willow/) - Project team in computer vision, machine learning, robotics, optimization, and control.
+- [Institut Pascal](http://www.institutpascal.uca.fr/) - Clermont-Ferrand lab in perception, control, industrial robotics, autonomous vehicles, and medical robotics.
 - [IRIMAS](https://www.irimas.uha.fr/) - Research institute in computer science, mathematics, control, and signal processing with work in mechatronics and robotics.
 - [IRISA](https://www.irisa.fr/) - Rennes computer science lab with work in robotics, perception, and autonomous systems.
+- [IRSEEM](https://esigelec.fr/fr/recherche) - ESIGELEC research institute in autonomy, robotics, control, decision, and system safety.
 - [IRIT](https://www.irit.fr/) - Toulouse computer science institute with teams in robotics and autonomous systems.
 - [ISIR (Sorbonne Université)](https://www.isir.upmc.fr/) - Institute for intelligent systems and robotics.
+- [L3I](http://l3i.univ-larochelle.fr/) - La Rochelle computer science lab with work on communication for dynamic systems.
 - [LAAS-CNRS](https://www.laas.fr/public/fr/) - Lab focused on robotics, autonomy, control, and systems.
 - [LaBRI](https://www.labri.fr/) - Bordeaux computer science lab with work in robotics and autonomous systems.
+- [Lab-STICC](https://labsticc.fr/) - Brittany lab in information and communication sciences with work in AI, control, cognition, and interaction.
+- [LAMIH](https://www.uphf.fr/lamih/) - Valenciennes lab in control, mechanics, computer science, human factors, and robotics.
+- [LARIS](https://laris.univ-angers.fr/fr/) - Angers lab working on discrete-event systems, hybrid systems, signal, image, virtual reality, and robotics.
+- [LGI2A](https://univ-artois.hal.science/LGI2A) - Artois lab in decision, information fusion, and intelligent systems.
+- [LIG](https://www.liglab.fr/) - Grenoble computer science lab with teams in interactive systems, cognition, and robotics.
+- [LGP](https://www.lgp.enit.fr/en/index.html) - Tarbes production engineering lab with work in mechatronics, control, virtual reality, and robotics.
 - [LIRMM](https://www.lirmm.fr/) - Montpellier lab for computer science, robotics, and microelectronics.
+- [LIMOS](https://limos.fr/) - Clermont-Ferrand lab in computer science, modeling, optimization, and decision support.
+- [LIPADE](https://lipade.mi.parisdescartes.fr/) - Université Paris Cité lab in intelligent perception systems and distributed AI.
+- [LISIC](https://lisic-prod.univ-littoral.fr/) - Littoral Côte d'Opale lab in signal processing and computer science.
+- [LISN](https://www.lisn.upsaclay.fr/) - Paris-Saclay lab in computer science, interaction, visualization, image analysis, AI, and robotics.
+- [LISPEN](https://lispen.ensam.eu/) - Arts et Métiers lab in system engineering, simulation, control, human-system interaction, and decision support.
+- [LISSI](https://www.lissi.fr/) - Université Paris-Est Créteil lab in intelligent systems, ambient robotics, and service robotics.
+- [LISTIC](https://www.univ-smb.fr/listic/) - Savoie Mont Blanc lab in information fusion, decision, signal and image processing, and knowledge representation.
+- [LISV](http://www.lisv.uvsq.fr/) - Versailles lab in interactive robotics, instrumentation, and mechatronic systems.
+- [LIVIC](http://www.livic.ifsttar.fr/) - Research unit focused on autonomous vehicles and intelligent transportation systems.
+- [LORIA](https://www.loria.fr/) - Lorraine computer science lab with work in interaction, learning, planning, and robotics.
+- [LRE](https://www.lre.epita.fr/) - EPITA research lab in autonomous robotics, AI, and image processing.
 - [LS2N](https://www.ls2n.fr/) - Nantes lab in robotics, control, and optimization.
+- [LURPA](https://lurpa.ens-paris-saclay.fr/fr) - ENS Paris-Saclay lab in 3D modeling, manufacturing process control, and production system dependability.
+- [PIMM](https://pimm.artsetmetiers.fr/equipes/discoh) - Arts et Métiers lab with work in control, safety, processes, navigation, and digital mockups.
+- [PPRIME](https://pprime.fr/en/research/mechanical-engineering-and-complex-systems/cobra/) - Poitiers institute working on robotics for industry of the future, dexterous manipulation, grasping, and assistance.
+- [PRISME](https://www.univ-orleans.fr/fr/prisme) - Orléans lab in imaging, AI, robotics, control, and signal processing.
+- [ROBERVAL](https://roberval.utc.fr/) - UTC lab with work in microrobotics, instrumentation, and robotics in constrained environments.
+- [SUPAERO-Lab](https://www.isae-supaero.fr/departement-dingenierie-des-systemes-complexes/) - ISAE-SUPAERO research activities in learning, decision, optimization, and complex systems.
+- [TIMC](https://www.timc.fr/) - Grenoble lab in medical robotics, medical imaging, modeling, and biomechanical simulation.
+- [TSCF (INRAE)](https://tscf.clermont.hub.inrae.fr/themes-de-recherche/autonomie-et-automatisation-des-equipements) - Research on autonomy and automation for agricultural equipment.
+- [U2IS](http://u2is.ensta-paris.fr/) - ENSTA Paris unit in robotics, vision, embedded systems, and hybrid systems.
+- [XLIM - RMX team](https://www.xlim.fr/remix/) - Research in active and cooperative perception for heterogeneous autonomous systems.
+
+## Technical centers and transfer
+
+- [AGRO-TIC](https://www.agrotic.org/les-actualites/centre-de-ressources-agriculture-de-precision/) - Resource center for precision agriculture and agricultural robotics.
+- [AGROTECHNOPOLE](https://www.agrotechnopole.fr/) - Platform focused on agricultural equipment, agricultural robotics, and agroecological transition.
+- [CAPTRONIC](https://www.captronic.fr/) - Support center for SMEs working on electronics, embedded software, sensors, and connected devices.
+- [CATIE](https://www.catie.fr/) - Technology transfer center in digital systems, connected objects, AI, and robotics.
+- [CEA Tech en Bretagne](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-bretagne.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Grand Est](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-grand-est.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Hauts-de-France](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-hauts-de-france.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Nouvelle-Aquitaine](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-nouvelle-aquitaine.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Occitanie](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-occitanie-pyrenees-mediterranee.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Pays de la Loire](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-pays-de-la-loire.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech en Région Sud - Provence-Alpes-Côte d’Azur](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-provence-alpes-cote-azur.aspx) - Regional CEA Tech transfer platform for industrial robotics, cobotics, simulation, programming, and vision.
+- [CEA Tech Grenoble](https://www.cea-tech.fr/cea-tech/Pages/en-regions/et-aussi-en-Aura.aspx) - CEA Tech transfer platform in Auvergne-Rhône-Alpes for robotics, cobotics, simulation, programming, and vision.
+- [CEA-Tech IdF](https://list.cea.fr/fr/plateformes/robotique-interactive-smart/) - CEA List robotics platform for interactive and smart robotics.
+- [Centre Technologique Drone-Ouest](https://ct-drone-ouest.bzh/) - Brittany platform for drone testing, qualification, and experimentation.
+- [CESA Drones](https://cesadrones.com/) - Platform supporting drone architecture, testing, and certification.
+- [CETIA](https://cetia.tech/) - Automation and robotics platform for textile sorting, recycling, and transformation.
+- [CETIM](https://www.cetim.fr/prestations/ingenierie-produits-procedes/developpement-et-integration-de-solutions-robotisees2/) - Industrial technical center for robotic solutions in manufacturing processes.
+- [CLARTE](https://www.clarte-lab.fr/expertise/centre-de-ressources-technologiques-vr-ar/) - Resource center for virtual and augmented reality applications in industry.
+- [COMPOSITE ADOUR](https://www.compositadour.com/en/) - Composite manufacturing platform integrating robotics, inspection, and additive manufacturing.
+- [ComposiTIC](https://compositic.fr/) - Technology platform for automated composite material and process development.
+- [CRESITT - Industrie](https://cresitt.com/) - Resource center for embedded systems, IoT, RF communications, sensors, and autonomous systems.
+- [CRITT Automatisation et Robotique](https://critt-autom.com/) - Regional innovation center for automated and robotic processes and secured cells.
+- [CRITT GENIE PROCEDES](https://gpte.critt.net/) - Resource center for industrial process development, optimization, and safety.
+- [CRITT Informatique](https://critt-informatique.fr/robotique-collaborative/) - Transfer center in industrial computing, collaborative robotics, and optical metrology.
+- [CRITTM2A](https://www.crittm2a.com/fr/) - Regional innovation center for mobility, digital twins, motorization, and electrical energy technologies.
+- [Industrilab](https://www.industrilab.fr/) - Industrial innovation platform covering robotics, composites, aerospace, and virtual reality.
+- [Industry-Lab'O](https://www.tech-orleans.fr/industry-lab-une-plateforme-unique-dinnovation-industrielle/) - Regional platform for advanced industrial technologies, additive manufacturing, and robotics.
+- [Institut Maupertuis](https://www.institutmaupertuis.fr/) - Resource center in production engineering and robotic processes.
+- [Institut Soudure](https://www.isgroupe.com/fr/accueil) - Industrial institute for welding, assembly, inspection, and certification processes.
+- [IRT Jules Verne](https://www.irt-jules-verne.fr/expertises-technologiques/robotique-cobotique/) - Technology research institute focused on robotic processes, cobotics, and advanced manufacturing.
+- [IRT M2P](https://www.irt-m2p.fr/fr) - Technology research institute for materials, processes, surface treatments, composites, and industry of the future.
+- [IRT SystemX](https://www.irt-systemx.fr/) - Technology research institute in trusted AI, cybersecurity, digital twins, and systems engineering.
+- [PROD3D](https://centre-pro3d.fr/la-plateforme/) - Technology platform for polymer and metal additive manufacturing prototypes.
+- [PTF85](https://www.pft85.com/) - Technology platform for automation, industrial production, special machines, and robotic installations.
+- [Station H](https://teamhcl.chu-lyon.fr/station-H) - Innovation and experimentation platform for hospital robotics.
+- [TECHNALIA France](https://www.tecnalia.com/fr/) - Technical center for advanced robotic systems and industrial automation.
 
 ## Companies and startups
 
@@ -197,6 +287,7 @@ Maintained by [@lilblueyes](https://github.com/lilblueyes) and the community.
 
 ## Data and datasets
 
+- [Cartographie de l'écosystème robotique national](https://c-robotique-france2030.org/fr/cartographie-de-lecosysteme-robotique-national-42) - Map of robotics companies, public labs, and technical centers in France.
 - [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Dataset from Robotex 2.0 for drones and multimodal sensors.
 
 ## Education in France

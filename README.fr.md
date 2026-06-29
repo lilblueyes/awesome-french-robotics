@@ -14,6 +14,7 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 - [Communautés et réseaux](#communautés-et-réseaux)
 - [Compétitions et événements](#compétitions-et-événements)
 - [Laboratoires et instituts](#laboratoires-et-instituts)
+- [Centres techniques et transfert](#centres-techniques-et-transfert)
 - [Entreprises et startups](#entreprises-et-startups)
 - [Open source (projets français)](#open-source-projets-français)
 - [Données et datasets](#données-et-datasets)
@@ -55,21 +56,110 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Laboratoires et instituts
 
+- [AMPERE](http://www.ampere-lab.fr) - Laboratoire lyonnais en automatique, sûreté des systèmes cyber-physiques, mécatronique et robotique médicale.
+- [C2N](http://www.c2n.universite-paris-saclay.fr/) - Centre de nanosciences et nanotechnologies avec activités en microsystèmes et micro-nano-technologies.
+- [CAOR (Mines Paris - PSL)](https://www.caor.minesparis.psl.eu/) - Centre de robotique travaillant sur perception, interaction, modélisation d'environnement et systèmes de production.
 - [CEA List](https://list.cea.fr/fr/) - Institut de recherche appliquée en robotique, perception et autonomie.
+- [CERI-MP](https://recherche.imt-nord-europe.fr/) - Centre de recherche d'IMT Nord Europe avec travaux sur les systèmes autonomes et l'ingénierie des systèmes complexes.
+- [CESI LINEACT](https://lineact.cesi.fr/) - Unité de recherche sur l'industrie 5.0, les systèmes cyber-physiques, les interactions numériques et la robotique.
+- [COSMER](https://cosmer.univ-tln.fr/fr-laboratoire-de-conception-de-systemes-mecaniques-et-robotiques/) - Laboratoire toulonnais en conception de systèmes mécaniques et robotiques.
 - [CRIStAL](https://www.cristal.univ-lille.fr/) - Centre de recherche lillois en informatique et automatique avec des activités en robotique et systèmes autonomes.
+- [DTIS-PLS / DTIS-TLS (ONERA)](https://www.onera.fr/fr/dtis-unites-de-recherche) - Unités ONERA en commande des systèmes, IA, perception, simulation et neuro-ingénierie.
+- [ESTIA-Recherche](https://www.estia.fr/recherche/) - Unité de recherche en procédés de fabrication, modélisation, interfaces et interactions.
+- [ETIS](https://www.etis-lab.fr/) - Laboratoire CY Cergy Paris Université, ENSEA et CNRS en signal, image, systèmes embarqués et apprentissage.
 - [FEMTO-ST](https://www.femto-st.fr/fr) - Laboratoire de recherche en robotique, automatique et microtechniques.
 - [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/) - Laboratoire en automatique, signal et robotique.
+- [GREAH](https://greah.univ-lehavre.fr/) - Laboratoire normand en commande, sûreté de fonctionnement, robotique mobile et robotique de manipulation.
+- [GREYC](https://www.greyc.fr/) - Laboratoire normand en informatique, IA, systèmes multi-agents, représentation de connaissances et planification.
 - [Heudiasyc](https://www.hds.utc.fr/) - Laboratoire UTC/CNRS en robotique, vision, automatique et mobilité autonome.
+- [I3S](http://www.i3s.unice.fr/I3S/) - Laboratoire niçois en traitement du signal et des images, communications, robotique et systèmes autonomes.
+- [IBISC](http://www.ibisc.univ-evry.fr/) - Laboratoire de l'Université d'Évry en perception, interprétation, décision, image et automatique.
 - [ICube](https://icube.unistra.fr/) - Laboratoire de recherche en ingénierie, imagerie et robotique.
+- [IFREMER](https://www.ifremer.fr/) - Recherche et moyens d'essais en robotique sous-marine, navigation et téléopération.
 - [Inria](https://www.inria.fr/fr) - Recherche en robotique, IA et systèmes.
+- [Inria Acentauri](https://team.inria.fr/acentauri/) - Équipe-projet sur la robotique autonome, la perception et les interactions humain-robot.
+- [Inria Astra](https://astra-team.github.io/) - Équipe-projet en navigation autonome, vision par ordinateur et planification.
+- [Inria Auctus](https://auctus-team.gitlabpages.inria.fr/) - Équipe-projet en biomécanique, robotique, optimisation et contrôle.
+- [Inria Chroma](https://team.inria.fr/chroma/en/) - Équipe-projet sur les robots coopératifs et adaptés à la présence humaine.
+- [Inria RobotLearn](https://team.inria.fr/robotlearn/) - Équipe-projet sur l'apprentissage, la perception et la commande pour robots sociaux.
+- [Inria Willow](https://www.di.ens.fr/willow/) - Équipe-projet en vision par ordinateur, apprentissage automatique, robotique, optimisation et contrôle.
+- [Institut Pascal](http://www.institutpascal.uca.fr/) - Laboratoire clermontois en perception, commande, robotique industrielle, véhicules autonomes et robotique médicale.
 - [IRIMAS](https://www.irimas.uha.fr/) - Institut de recherche en informatique, mathématiques, automatique et signal avec des travaux en mécatronique et robotique.
 - [IRISA](https://www.irisa.fr/) - Laboratoire rennais en informatique avec des activités en robotique, perception et systèmes autonomes.
+- [IRSEEM](https://esigelec.fr/fr/recherche) - Institut de recherche de l'ESIGELEC en autonomie, robotisation, contrôle, décision et sûreté des systèmes.
 - [IRIT](https://www.irit.fr/) - Institut de recherche en informatique de Toulouse avec des équipes en robotique et systèmes autonomes.
 - [ISIR (Sorbonne Université)](https://www.isir.upmc.fr/) - Institut des systèmes intelligents et de robotique.
+- [L3I](http://l3i.univ-larochelle.fr/) - Laboratoire rochelais d'informatique avec travaux sur les communications pour systèmes dynamiques.
 - [LAAS-CNRS](https://www.laas.fr/public/fr/) - Laboratoire en robotique, autonomie, automatique et systèmes.
 - [LaBRI](https://www.labri.fr/) - Laboratoire bordelais en informatique avec des activités en robotique et systèmes autonomes.
+- [Lab-STICC](https://labsticc.fr/) - Laboratoire breton en sciences de l'information et de la communication avec travaux en IA, commande, cognition et interaction.
+- [LAMIH](https://www.uphf.fr/lamih/) - Laboratoire valenciennois en automatique, mécanique, informatique, humain et robotique.
+- [LARIS](https://laris.univ-angers.fr/fr/) - Laboratoire angevin sur les systèmes à événements discrets, systèmes hybrides, signal, image, réalité virtuelle et robotique.
+- [LGI2A](https://univ-artois.hal.science/LGI2A) - Laboratoire artésien en décision, fusion d'informations et systèmes intelligents.
+- [LIG](https://www.liglab.fr/) - Laboratoire grenoblois en informatique avec équipes en systèmes interactifs, cognition et robotique.
+- [LGP](https://www.lgp.enit.fr/en/index.html) - Laboratoire tarbais de génie de production avec travaux en mécatronique, automatique, réalité virtuelle et robotique.
 - [LIRMM](https://www.lirmm.fr/) - Laboratoire d'informatique, de robotique et de microélectronique de Montpellier.
+- [LIMOS](https://limos.fr/) - Laboratoire clermontois d'informatique, modélisation, optimisation et aide à la décision.
+- [LIPADE](https://lipade.mi.parisdescartes.fr/) - Laboratoire de l'Université Paris Cité en systèmes intelligents de perception et IA distribuée.
+- [LISIC](https://lisic-prod.univ-littoral.fr/) - Laboratoire du Littoral Côte d'Opale en traitement du signal et informatique.
+- [LISN](https://www.lisn.upsaclay.fr/) - Laboratoire Paris-Saclay en informatique, interaction, visualisation, analyse d'images, IA et robotique.
+- [LISPEN](https://lispen.ensam.eu/) - Laboratoire Arts et Métiers en ingénierie système, simulation, commande, interaction humain-système et aide à la décision.
+- [LISSI](https://www.lissi.fr/) - Laboratoire de l'UPEC en systèmes intelligents, robotique ambiante et robotique de service.
+- [LISTIC](https://www.univ-smb.fr/listic/) - Laboratoire savoyard en fusion d'informations, décision, signal, image et représentation des connaissances.
+- [LISV](http://www.lisv.uvsq.fr/) - Laboratoire versaillais en robotique interactive, instrumentation et systèmes mécatroniques.
+- [LIVIC](http://www.livic.ifsttar.fr/) - Unité de recherche dédiée aux véhicules autonomes et aux systèmes de transport intelligents.
+- [LORIA](https://www.loria.fr/) - Laboratoire lorrain en informatique avec travaux en interaction, apprentissage, planification et robotique.
+- [LRE](https://www.lre.epita.fr/) - Laboratoire de recherche d'EPITA en robotique autonome, IA et traitement d'images.
 - [LS2N](https://www.ls2n.fr/) - Laboratoire nantais en robotique, commande et optimisation.
+- [LURPA](https://lurpa.ens-paris-saclay.fr/fr) - Laboratoire ENS Paris-Saclay en modélisation 3D, pilotage des procédés de fabrication et sûreté des systèmes de production.
+- [PIMM](https://pimm.artsetmetiers.fr/equipes/discoh) - Laboratoire Arts et Métiers avec travaux en commande, sûreté, procédés, navigation et maquette numérique.
+- [PPRIME](https://pprime.fr/en/research/mechanical-engineering-and-complex-systems/cobra/) - Institut poitevin en robotique pour l'industrie du futur, manipulation dextre, préhension et assistance.
+- [PRISME](https://www.univ-orleans.fr/fr/prisme) - Laboratoire orléanais en images, IA, robotique, automatique et signal.
+- [ROBERVAL](https://roberval.utc.fr/) - Laboratoire UTC avec travaux en microrobotique, instrumentation et robotique en milieux contraints.
+- [SUPAERO-Lab](https://www.isae-supaero.fr/departement-dingenierie-des-systemes-complexes/) - Activités de recherche ISAE-SUPAERO en apprentissage, décision, optimisation et systèmes complexes.
+- [TIMC](https://www.timc.fr/) - Laboratoire grenoblois en robotique médicale, image médicale, modélisation et simulation biomécanique.
+- [TSCF (INRAE)](https://tscf.clermont.hub.inrae.fr/themes-de-recherche/autonomie-et-automatisation-des-equipements) - Recherche sur l'autonomie et l'automatisation des équipements agricoles.
+- [U2IS](http://u2is.ensta-paris.fr/) - Unité ENSTA Paris en robotique, vision, systèmes embarqués et systèmes hybrides.
+- [XLIM - équipe RMX](https://www.xlim.fr/remix/) - Recherche en perception active et coopérative pour systèmes autonomes hétérogènes.
+
+## Centres techniques et transfert
+
+- [AGRO-TIC](https://www.agrotic.org/les-actualites/centre-de-ressources-agriculture-de-precision/) - Centre de ressources en agriculture de précision et robotique agricole.
+- [AGROTECHNOPOLE](https://www.agrotechnopole.fr/) - Plateforme dédiée aux agroéquipements, à la robotique agricole et à la transition agroécologique.
+- [CAPTRONIC](https://www.captronic.fr/) - Centre d'appui aux PME pour électronique, logiciel embarqué, capteurs et objets communicants.
+- [CATIE](https://www.catie.fr/) - Centre de transfert en numérique, objets connectés, IA et robotique.
+- [CEA Tech en Bretagne](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-bretagne.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Grand Est](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-grand-est.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Hauts-de-France](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-hauts-de-france.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Nouvelle-Aquitaine](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-nouvelle-aquitaine.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Occitanie](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-occitanie-pyrenees-mediterranee.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Pays de la Loire](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-pays-de-la-loire.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech en Région Sud - Provence-Alpes-Côte d’Azur](https://www.cea-tech.fr/cea-tech/Pages/en-regions/prtt-provence-alpes-cote-azur.aspx) - Plateforme régionale de transfert CEA Tech en robotique industrielle, cobotique, simulation, programmation et vision.
+- [CEA Tech Grenoble](https://www.cea-tech.fr/cea-tech/Pages/en-regions/et-aussi-en-Aura.aspx) - Plateforme CEA Tech en Auvergne-Rhône-Alpes pour robotique, cobotique, simulation, programmation et vision.
+- [CEA-Tech IdF](https://list.cea.fr/fr/plateformes/robotique-interactive-smart/) - Plateforme CEA List de robotique interactive et intelligente.
+- [Centre Technologique Drone-Ouest](https://ct-drone-ouest.bzh/) - Plateforme bretonne d'essais, qualification et expérimentation de drones.
+- [CESA Drones](https://cesadrones.com/) - Plateforme d'accompagnement en architecture, essais et certification de drones.
+- [CETIA](https://cetia.tech/) - Plateforme d'automatisation et robotisation pour le tri, le recyclage et la transformation textile.
+- [CETIM](https://www.cetim.fr/prestations/ingenierie-produits-procedes/developpement-et-integration-de-solutions-robotisees2/) - Centre technique industriel en solutions robotisées pour procédés manufacturiers.
+- [CLARTE](https://www.clarte-lab.fr/expertise/centre-de-ressources-technologiques-vr-ar/) - Centre de ressources en réalité virtuelle et augmentée pour l'industrie.
+- [COMPOSITE ADOUR](https://www.compositadour.com/en/) - Plateforme de fabrication composites intégrant robotique, contrôle et fabrication additive.
+- [ComposiTIC](https://compositic.fr/) - Plateforme technologique pour matériaux composites et procédés automatisés.
+- [CRESITT - Industrie](https://cresitt.com/) - Centre de ressources en systèmes embarqués, IoT, communications RF, capteurs et systèmes autonomes.
+- [CRITT Automatisation et Robotique](https://critt-autom.com/) - Centre régional d'innovation pour procédés automatisés, robotisés et cellules sécurisées.
+- [CRITT GENIE PROCEDES](https://gpte.critt.net/) - Centre de ressources pour développement, optimisation et sécurisation des procédés industriels.
+- [CRITT Informatique](https://critt-informatique.fr/robotique-collaborative/) - Centre de transfert en informatique industrielle, robotique collaborative et métrologie optique.
+- [CRITTM2A](https://www.crittm2a.com/fr/) - Centre régional d'innovation en mobilité, jumeaux numériques, motorisation et technologies d'énergie électrique.
+- [Industrilab](https://www.industrilab.fr/) - Plateforme d'innovation industrielle couvrant robotique, composites, aéronautique et réalité virtuelle.
+- [Industry-Lab'O](https://www.tech-orleans.fr/industry-lab-une-plateforme-unique-dinnovation-industrielle/) - Plateforme régionale de technologies industrielles avancées, fabrication additive et robotique.
+- [Institut Maupertuis](https://www.institutmaupertuis.fr/) - Centre de ressources en productique et procédés robotisés.
+- [Institut Soudure](https://www.isgroupe.com/fr/accueil) - Institut industriel pour soudage, assemblage, contrôles associés et certification.
+- [IRT Jules Verne](https://www.irt-jules-verne.fr/expertises-technologiques/robotique-cobotique/) - Institut de recherche technologique sur procédés robotisés, cobotique et fabrication avancée.
+- [IRT M2P](https://www.irt-m2p.fr/fr) - Institut de recherche technologique sur matériaux, procédés, traitements de surface, composites et industrie du futur.
+- [IRT SystemX](https://www.irt-systemx.fr/) - Institut de recherche technologique en IA de confiance, cybersécurité, jumeaux numériques et ingénierie système.
+- [PROD3D](https://centre-pro3d.fr/la-plateforme/) - Plateforme technologique de prototypage en fabrication additive polymère et métal.
+- [PTF85](https://www.pft85.com/) - Plateforme technologique en automatismes, production industrielle, machines spéciales et installations robotisées.
+- [Station H](https://teamhcl.chu-lyon.fr/station-H) - Plateforme d'innovation et d'expérimentation pour la robotique à l'hôpital.
+- [TECHNALIA France](https://www.tecnalia.com/fr/) - Centre technique en systèmes robotiques avancés et automatisation industrielle.
 
 ## Entreprises et startups
 
@@ -197,6 +287,7 @@ Maintenu par [@lilblueyes](https://github.com/lilblueyes) et la communauté.
 
 ## Données et datasets
 
+- [Cartographie de l'écosystème robotique national](https://c-robotique-france2030.org/fr/cartographie-de-lecosysteme-robotique-national-42) - Cartographie des entreprises, laboratoires publics et centres techniques de la robotique en France.
 - [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Jeu de données issu de Robotex 2.0 pour drones et capteurs multi-modaux.
 
 ## Formations en France
