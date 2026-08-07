@@ -566,6 +566,7 @@ Company coverage from the national robotics ecosystem map.
 ## Data and datasets
 
 - [Cartographie de l'écosystème robotique national](https://c-robotique-france2030.org/fr/cartographie-de-lecosysteme-robotique-national-42) - Map of robotics companies, public labs, and technical centers in France.
+- [Physical AI Atlas](https://github.com/PlbKin190/physical-ai-atlas-data) - Open dataset (CC BY 4.0) maintained in France on the physical AI ecosystem: 13 datasets covering humanoid robots, industrial platforms, VLA models, embedded chips, simulators, and labs. Bilingual FR/EN, each entry sourced and dated.
 - [VIGS-Fusion Dataset](https://doi.org/10.57745/CI0K9G) - Dataset from Robotex 2.0 for drones and multimodal sensors.
 
 ## Education in France
