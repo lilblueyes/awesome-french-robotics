@@ -657,6 +657,7 @@ Selection of entry points and targeted programs. This section focuses on program
 - [Planète Robots](https://www.planeterobots.com/) - French-language media outlet covering robotics, electronics, and maker projects.
 - [Robotics Place - Actualités](https://www.robotics-place.com/actualites/) - Robotics coverage with strong focus on the French ecosystem.
 - [Robotech Magazine](https://robotech-magazine.com/) - French-language robotics news.
+- [Vuntum](https://vuntum.com/fr) - French-language media and open database on robots and physical AI, with sourced and dated specifications.
 
 ## Contributing
 
