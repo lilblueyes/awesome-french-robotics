@@ -656,6 +656,7 @@ Sélection de points d'entrée et de cursus ciblés. Cette section privilégie l
 - [Planète Robots](https://www.planeterobots.com/) - Média francophone consacré à la robotique, à l'électronique et aux projets maker.
 - [Robotics Place - Actualités](https://www.robotics-place.com/actualites/) - Veille robotique avec forte couverture de l'écosystème français.
 - [Robotech Magazine](https://robotech-magazine.com/) - Actualités robotique en français.
+- [Vuntum](https://vuntum.com/fr) - Média et base de données ouverte sur les robots et l'IA physique, caractéristiques sourcées et datées.
 
 ## Contribuer
 
